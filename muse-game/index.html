@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MUSE</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="title-screen">
+    <div class="title-inner">
+      <div class="title-name">MUSE</div>
+      <div class="title-subtitle">Creative Companion · Auckland, 2035</div>
+      <p class="title-description">Auckland, 2035. You're a filmmaker working on your most personal project. MUSE is an AI that wants to help. Every choice you make shapes the film — and the question of who actually made it.</p>
+      <p class="title-howto">Press 1 or 2 to choose. Or click.</p>
+      <div class="title-press">Press any key to begin</div>
+    </div>
+  </div>
+
+  <div id="app">
+    <header>
+      <div class="header-left">
+        <div class="header-title">
+          <span class="header-name">MUSE</span>
+          <span class="online-dot"></span>
+        </div>
+        <div class="header-subtitle">Creative Companion — Auckland, 2035</div>
+      </div>
+      <div class="header-right">
+        <div class="corruption-label">MUSE influence</div>
+        <div id="corruption-bar">
+          <div id="corruption-fill"></div>
+        </div>
+      </div>
+    </header>
+
+    <div id="chat-wrapper">
+      <div id="chat-window"></div>
+    </div>
+
+    <div id="input-area">
+      <input
+        type="text"
+        id="chat-input"
+        placeholder="Say something to begin..."
+        autocomplete="off"
+        spellcheck="false"
+        readonly
+      />
+    </div>
+    <div id="choices-container"></div>
+  </div>
+
+  <div id="end-card" class="hidden">
+    <div class="end-card-inner">
+      <div id="end-title"></div>
+      <div id="end-message"></div>
+      <div id="end-score"></div>
+      <button id="play-again" onclick="location.reload()">Play again</button>
+    </div>
+  </div>
+
+  <script src="story.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>

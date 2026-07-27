@@ -39,8 +39,10 @@ Hard rules for any work on this project (including: never use em dashes in any w
 | Folder | Contents |
 |---|---|
 | `brief/` | Official course PDFs: the Emerging Technologies stream brief, the DES300 Capstone Introduction, the first lecture (2026.DES304.1L), all A1/A2/A3 assignment and workshop briefs, and the Ideation Planning guide |
-| `research/` | Background research and references (currently the Livi Lee blog example) |
-| `concept-notes/` | The two context-transfer docs written at the end of DES303: `COMPASS_CONCEPT_AND_STATUS.md` (definitive concept reference and current status) and `DES303_FULL_COURSE_JOURNEY.md` (week-by-week journey, feedback and pivots) |
+| `blog/` | The full DES303 reflective blog archive scraped from poloumali.com (weeks 1 to 10 plus one extra post), the Week 10 PDF export with images, and the Design Research Journey review |
+| `research/` | References and exemplars: Livi Lee blog examples, and `sprout-exemplar/` (Selena Wu's complete Sprout capstone deliverable set, a worked example of what a finished capstone looks like) |
+| `concept-notes/` | The thinking. `COMPASS_CONCEPT_AND_STATUS.md` (definitive concept reference), `DES303_FULL_COURSE_JOURNEY.md` (how it got here), `DES304-JOURNAL.md` (living semester log, append as you go), `world-building.md` (open world decisions for the film), `third-direction-candidates.md` (scratchpad for the Week 2 third direction) |
+| `muse-game/` | Source of the MUSE interactive game V2 (secondary artefact): index.html, style.css, story.js, game.js |
 | `assets/` | Supporting images and screenshots (empty so far) |
 | `submissions/` | Submitted work: the DES303 final presentation (pptx and PDF export) and its script/speaker notes |
 
