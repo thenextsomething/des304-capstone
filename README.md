@@ -19,7 +19,9 @@ Settled: concept, product name, tone and reference language, UI design language 
 
 **Secondary direction:** the **MUSE interactive game**, a browser-based narrative game (Emily is Away style) set in a fake chat interface in Auckland 2035, built in Claude Code. V2 exists with three days of scenes, a leanScore system, five endings and a UI corruption mechanic. It stays in development as the interactive counterpart to the film.
 
-**Open for DES304:** world-building (year, state of Aotearoa, why Compass exists), script and final film structure, whether to build a physical prop, the "bad camera test" experiment, sound direction (Suno failed, still open), and a third alternative direction for the Week 2 capstone presentation (the film and the game are two; a third is not yet identified). Planned early move: coffee or call with Leo Baldwin, who heads the Emerging Technologies stream.
+**Open for DES304:** world-building (year, state of Aotearoa, why Compass exists), script and final film structure, whether to build a physical prop (the stream endorsed a glasses mockup plus demo-style video on 23 July), the "bad camera test" experiment, and sound direction (Suno failed, still open).
+
+**Semester state:** DES304 started 21 July 2026. The immediate milestone is the **A1 concept pitch, due Thursday 30 July**: one idea (Compass), 3 minutes, visual slides, plus a 12-week Miro timeline PDF. The `meetings/` folder and `concept-notes/DES304-JOURNAL.md` hold the live record; trust those over the DES303 handover docs where they disagree.
 
 ## Key constraint
 
@@ -43,6 +45,7 @@ Hard rules for any work on this project (including: never use em dashes in any w
 | `research/` | References and exemplars: Livi Lee blog examples, and `sprout-exemplar/` (Selena Wu's complete Sprout capstone deliverable set, a worked example of what a finished capstone looks like) |
 | `concept-notes/` | The thinking. `COMPASS_CONCEPT_AND_STATUS.md` (definitive concept reference), `DES303_FULL_COURSE_JOURNEY.md` (how it got here), `DES304-JOURNAL.md` (living semester log, append as you go), `world-building.md` (open world decisions for the film), `third-direction-candidates.md` (scratchpad for the Week 2 third direction) |
 | `muse-game/` | Source of the MUSE interactive game V2 (secondary artefact): index.html, style.css, story.js, game.js |
+| `meetings/` | Dated notes from lectures, stream sessions and 1:1s, distilled from Granola recordings |
 | `assets/` | Supporting images and screenshots (empty so far) |
 | `submissions/` | Submitted work: the DES303 final presentation (pptx and PDF export) and its script/speaker notes |
 

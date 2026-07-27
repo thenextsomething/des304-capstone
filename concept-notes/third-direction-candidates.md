@@ -1,6 +1,8 @@
 # Third direction candidates
 
-The Week 2 capstone presentation needs the strongest direction plus at least two alternatives. Two exist: the Compass launch film (primary) and the MUSE interactive game (secondary). A third has not been identified. This file is the scratchpad for finding it.
+**Status update 2026-07-28: the premise of this file changed.** The DES303 handover expected a Week 2 presentation of the strongest direction plus two alternatives. The actual A1 brief (Week 1 lecture, 21 July) asks for **one idea only**, and Compass is that idea. This file stays as a scratchpad for backup directions in case the concept ever needs a pivot, but nothing here is required for A1.
+
+The two existing directions remain the Compass launch film (primary) and the MUSE interactive game (secondary).
 
 ## The filter (from the Week 9 crit and Jed)
 
