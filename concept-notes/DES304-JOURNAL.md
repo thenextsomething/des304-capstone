@@ -13,6 +13,11 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-07-28 - Draft A1 timeline built on Miro
+
+- Built the 12-week timeline draft as a Miro board: https://miro.com/app/board/uXjVH383LSw=/ (swimlanes: course milestones, the film with three staggered-fidelity versions, skills, MUSE game, documentation, methodology band). A notes doc on the board lists what still needs confirming (break dates, A2/A3 exact dates) and the submission steps.
+- Still to do before Thursday: check dates against Canvas, decide whether to transfer content into the official Canvas Miro template, rename the methodology stages after the Leo and Gabby conversation, export the PDF.
+
 ### 2026-07-28 - Meeting notes filed, one correction to the handover assumptions
 
 - Filed Granola notes for the four capstone sessions so far into `meetings/` (Week 1 lecture, stream kickoff, Thursday pitch session, Jed 1:1).
