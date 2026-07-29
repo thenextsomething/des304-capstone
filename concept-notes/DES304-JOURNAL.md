@@ -13,6 +13,12 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-07-30 - A1 pitch deck reviewed and filed; Miro board synced to its language
+
+- The A1 deck (12 slides, Canva) is in `submissions/A1 Concept Pitch - Compass (Jul 2026).pdf`. Structure: title, three why slides (with cited stats: APRA AMCOS 2024, 82% of AU/NZ music creators fear AI could end their ability to make a living; USC LABarometer 2026, 59% of entertainment workers expect net job loss), full-slide HMW, what, experiments montage, who, how (diegetic prototype to commercial standard), two four-step process diagrams (designing the product; how it gets made: storyboard, rough cut, composite, launch film), closing line.
+- Miro timeline renamed to match the deck's stage names (storyboard, rough cut, composite, launch film) and two rows added the deck promises: the appearance model build and the talk-to-creators step.
+- Flag for Q&A: the deck's "talk to creators" step must stay inside course research rules (no formal interviews or public testing at undergrad level). On the board it is phrased as informal chats and partner conversations. Have the one-line answer ready if asked.
+
 ### 2026-07-30 - A1 timeline rebuilt on the official template structure
 
 - Polo shared the official course template board; the timeline there is a Miro data table rendered as a timeline view, plus a task tracker table. Rebuilt the A1 submission board to match that structure, populated with the Compass plan: https://miro.com/app/board/uXjVH2uB8U4=/
