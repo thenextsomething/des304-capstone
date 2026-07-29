@@ -13,6 +13,10 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-07-30 - Board additions for markers: AI acknowledgement, references, risk register
+
+- Added a third doc to the A1 Miro board: an AI use acknowledgement (Claude, generation tools, Claude Code, with the working rule that AI never leads design decisions), the working references list behind the deck's stats and theory, and a four-item risk register with mitigations. All three map directly to things the Week 1 lecture said markers look for.
+
 ### 2026-07-30 - A1 pitch deck reviewed and filed; Miro board synced to its language
 
 - The A1 deck (12 slides, Canva) is in `submissions/A1 Concept Pitch - Compass (Jul 2026).pdf`. Structure: title, three why slides (with cited stats: APRA AMCOS 2024, 82% of AU/NZ music creators fear AI could end their ability to make a living; USC LABarometer 2026, 59% of entertainment workers expect net job loss), full-slide HMW, what, experiments montage, who, how (diegetic prototype to commercial standard), two four-step process diagrams (designing the product; how it gets made: storyboard, rough cut, composite, launch film), closing line.
