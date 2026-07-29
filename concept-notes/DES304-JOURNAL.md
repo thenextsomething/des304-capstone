@@ -13,6 +13,12 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-07-30 - A1 timeline rebuilt on the official template structure
+
+- Polo shared the official course template board; the timeline there is a Miro data table rendered as a timeline view, plus a task tracker table. Rebuilt the A1 submission board to match that structure, populated with the Compass plan: https://miro.com/app/board/uXjVH2uB8U4=/
+- Contents: 17 timeline rows (phases, A1/A2/A3 milestones, the three staggered-fidelity film versions, skills track, MUSE game, cultural checkpoints strand), a 15-row task tracker with near-term to-dos, and a key-points doc per phase (goal, tools and methods, milestone deliverable, cultural checkpoint).
+- Still to do before submitting: confirm break and A2/A3 dates on Canvas, rename phases once methodology is settled with Leo and Gabby, export the PDF. The 28 Jul Gantt draft board remains as a reference.
+
 ### 2026-07-28 - Draft A1 timeline built on Miro
 
 - Built the 12-week timeline draft as a Miro board: https://miro.com/app/board/uXjVH383LSw=/ (swimlanes: course milestones, the film with three staggered-fidelity versions, skills, MUSE game, documentation, methodology band). A notes doc on the board lists what still needs confirming (break dates, A2/A3 exact dates) and the submission steps.
