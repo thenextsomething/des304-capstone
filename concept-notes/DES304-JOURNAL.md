@@ -15,8 +15,9 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ### 2026-07-30 - Board upgraded to semester HQ
 
-- The A1 board is now the central board for the whole semester. Added: a board guide doc (how it is organised, for markers and future Polo), a decision log table and a feedback log table (both seeded with the real entries from the past week), 12 weekly working frames plus a break frame (each week's material gets filed into its frame), and a yellow INBOX frame for unfiled dumps.
-- Working habit set on the board itself: dump into Inbox anytime; every Friday file the week's material, update both logs, tick the tracker.
+- The A1 board is now the central board for the whole semester. Kept after Polo's curation: the decision log table and feedback log table (both seeded with the real entries from the past week) and 12 weekly working frames plus a break frame (each week's material gets filed into its frame).
+- Cut by ruling: the board guide doc and the INBOX frame (board stays lean; the weekly frames themselves are the dump).
+- Working habit: every Friday file the week's material into its frame, update both logs, tick the tracker.
 
 ### 2026-07-30 - Board additions for markers: references + risk register
 
