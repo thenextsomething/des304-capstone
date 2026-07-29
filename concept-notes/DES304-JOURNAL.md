@@ -13,9 +13,10 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
-### 2026-07-30 - Board additions for markers: AI acknowledgement, references, risk register
+### 2026-07-30 - Board additions for markers: references + risk register
 
-- Added a third doc to the A1 Miro board: an AI use acknowledgement (Claude, generation tools, Claude Code, with the working rule that AI never leads design decisions), the working references list behind the deck's stats and theory, and a four-item risk register with mitigations. All three map directly to things the Week 1 lecture said markers look for.
+- Added a third doc to the A1 Miro board: the working references list behind the deck's stats and theory, and a four-item risk register with mitigations. Both map directly to things the Week 1 lecture said markers look for.
+- A full AI-use acknowledgement section was drafted for the board and Polo cut it (ruling: keep the board to references and risks). The course still requires AI use to be acknowledged per assignment; the running log continues and the acknowledgement lands in the A3 visual report instead.
 
 ### 2026-07-30 - A1 pitch deck reviewed and filed; Miro board synced to its language
 
