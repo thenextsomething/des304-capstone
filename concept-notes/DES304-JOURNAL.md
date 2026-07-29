@@ -13,6 +13,11 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-07-30 - Board upgraded to semester HQ
+
+- The A1 board is now the central board for the whole semester. Added: a board guide doc (how it is organised, for markers and future Polo), a decision log table and a feedback log table (both seeded with the real entries from the past week), 12 weekly working frames plus a break frame (each week's material gets filed into its frame), and a yellow INBOX frame for unfiled dumps.
+- Working habit set on the board itself: dump into Inbox anytime; every Friday file the week's material, update both logs, tick the tracker.
+
 ### 2026-07-30 - Board additions for markers: references + risk register
 
 - Added a third doc to the A1 Miro board: the working references list behind the deck's stats and theory, and a four-item risk register with mitigations. Both map directly to things the Week 1 lecture said markers look for.
