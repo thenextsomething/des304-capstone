@@ -17,7 +17,7 @@ Settled: concept, product name, tone and reference language, UI design language 
 
 **Central unsolved problem: compositing.** Making the Compass display look convincing on camera has been the technical wall since Week 7. Full AI generation failed, AI compositing failed, a Python/OpenCV script got partway. After Effects is installed and is the most likely path forward; learning it properly is a DES304 goal.
 
-**Secondary direction:** the **MUSE interactive game**, a browser-based narrative game (Emily is Away style) set in a fake chat interface in Auckland 2035, built in Claude Code. V2 exists with three days of scenes, a leanScore system, five endings and a UI corruption mechanic. It stays in development as the interactive counterpart to the film.
+**Cut:** the MUSE interactive game (the DES303 secondary direction) is **not part of the capstone**. Its source was removed from this repo on 31 July 2026 per Polo's ruling. Historical references to it in the blogs, journals and DES303 docs are records of the journey, not the current scope. Note: the wearable itself was also briefly named MUSE in Weeks 8-10 of DES303 before being renamed Compass; MUSE-the-product-name and MUSE-the-game are different things.
 
 **Open for DES304:** world-building (year, state of Aotearoa, why Compass exists), script and final film structure, whether to build a physical prop (the stream endorsed a glasses mockup plus demo-style video on 23 July), the "bad camera test" experiment, and sound direction (Suno failed, still open).
 
@@ -44,9 +44,8 @@ Hard rules for any work on this project (including: never use em dashes in any w
 | `blog/` | The full DES303 reflective blog archive scraped from poloumali.com (weeks 1 to 10 plus one extra post), the Week 10 PDF export with images, and the Design Research Journey review |
 | `research/` | References and exemplars: Livi Lee blog examples, and `sprout-exemplar/` (Selena Wu's complete Sprout capstone deliverable set, a worked example of what a finished capstone looks like) |
 | `concept-notes/` | The thinking. `COMPASS_CONCEPT_AND_STATUS.md` (definitive concept reference), `DES303_FULL_COURSE_JOURNEY.md` (how it got here), `DES304-JOURNAL.md` (living semester log, append as you go), `world-building.md` (open world decisions for the film), `third-direction-candidates.md` (scratchpad for the Week 2 third direction) |
-| `muse-game/` | Source of the MUSE interactive game V2 (secondary artefact): index.html, style.css, story.js, game.js |
 | `meetings/` | Dated notes from lectures, stream sessions and 1:1s, distilled from Granola recordings |
 | `assets/` | Supporting images and screenshots (empty so far) |
 | `submissions/` | Submitted work: the DES303 final presentation (pptx and PDF export) and its script/speaker notes |
 
-_Updated 2026-07-27_
+_Updated 2026-07-31_
