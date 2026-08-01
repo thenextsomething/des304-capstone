@@ -26,8 +26,16 @@ Not decided. Who makes it, what triggered it, what is it a reaction against? An 
 
 ## Who wears it?
 
-Not decided. Who is the launch aimed at? The draft structure (piano, painting, photography) implies everyday creators rather than professionals. Confirm or change.
+**Decided (1 August 2026): the film follows three everyday creatives.**
+
+1. A beginner piano player.
+2. A beginner-to-moderate photographer.
+3. A beginner illustrator / sketch artist (pencil and sketchbook at a desk).
+
+Why the illustrator for the third slot: it covers making-by-hand so the trio spans sound, image capture, and mark-making; it is the same static desk-and-hands setup as the piano and easel experiments, which is the easiest case for compositing; a half-finished pencil sketch is cheap to produce at any stage of progress, unlike a painting; the existing easel UI experiments (moodboard, colour intelligence, visual-weight nudges) port straight over; and illustrators are the most recognisable face of the AI replacement fear, so this slot carries the film's why. The painter version of the scene stays as the fallback: sketch and painting are the same scene at different fidelity, so it can be dressed up toward paint if the shoot allows.
+
+Casting note: vary who the three people are (age, gender, background) so the trio does not read as three versions of the same person.
 
 ## Rules of the world on screen
 
-Not decided. What can the film show and what must it never show? Candidate rules from DES303 experiments: raw unaltered environments, persistent UI that never disappears, suggestions as whispers not instructions.
+Not decided. What can the film show and what must it never show? Candidate rules from DES303 experiments: raw unaltered environments, persistent UI that never disappears, suggestions as whispers not instructions. Added from creator feedback (28 July): the UI is customisable, each wearer chooses what appears on their visual layer, because every creative works differently. If the film shows more than one wearer, their lenses should not look identical.

@@ -13,6 +13,18 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-08-01 - Third character decided: beginner illustrator; creator feedback loaded
+
+- The film's three wearers are settled: beginner piano player, beginner-to-moderate photographer, beginner illustrator / sketch artist. Illustrator won the third slot because it covers making-by-hand (sound, image capture, mark-making across the trio), reuses the static desk-and-hands setup that is easiest for compositing, needs only a cheap half-finished pencil sketch as the prop, ports the existing easel UI experiments straight over, and is the most recognisable face of the replacement fear. Painter stays as the fallback (same scene, higher fidelity). Details in `world-building.md`.
+- Loaded the 28 July pitching lecture and creator conversation into `meetings/2026-07-28-strategic-pitching-lecture-and-creator-feedback.md`. The photographer's wants for the glasses: a shot checklist on the lens, last-shot review, reference shots and moodboards (including work the client liked), and a customisable UI because every creative works differently. The customisable-UI point is now a candidate world rule.
+- Methodology flag from that session: the timeline must visibly show the double diamond (diverge/converge marked on the weeks), and it is unresolved whether double diamond can be the primary methodology; last semester it was reportedly allowed only as supporting. Confirm with the lecturers before locking the timeline phase names.
+- Next: fold the checklist / last-shot / moodboard features into the Compass UI design language, and draft the illustrator scenario beats.
+
+### 2026-07-31 - MUSE game cut from the capstone
+
+- Polo's ruling: the MUSE interactive game is not part of the capstone at all. `muse-game/` was deleted from the repo and the README rescoped to the Compass film only.
+- Watch for stale references: the DES303 docs, some blogs, and the Miro timeline's MUSE game row still describe it as the secondary direction. The naming trap stands: in Weeks 8 to 10 docs, MUSE can mean the wearable's old name, not the game.
+
 ### 2026-07-30 - Board upgraded to semester HQ
 
 - The A1 board is now the central board for the whole semester. Kept after Polo's curation: the decision log table and feedback log table (both seeded with the real entries from the past week) and 12 weekly working frames plus a break frame (each week's material gets filed into its frame).
