@@ -13,6 +13,12 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-08-04 - Double diamond approved; MUSE row off the timeline board
+
+- Methodology resolved: the lecturers confirmed double diamond can be used. The 28 Jul flag is closed. The timeline board's phase labels (Discover, Define, Develop, Deliver) already map to it, so no renaming needed. The methodology task on the tracker is marked complete.
+- The MUSE game row on the A1 timeline board is gone, replaced (the Miro API cannot delete table rows, so the row was overwritten) with a new Define-phase row: illustrator scene beats + the half-finished sketch prop, 3 to 21 Aug.
+- Also synced the board to the third-character decision: "painting" became "illustration" in the rough cut row and the V2 test shoot task.
+
 ### 2026-08-01 - Third character decided: beginner illustrator; creator feedback loaded
 
 - The film's three wearers are settled: beginner piano player, beginner-to-moderate photographer, beginner illustrator / sketch artist. Illustrator won the third slot because it covers making-by-hand (sound, image capture, mark-making across the trio), reuses the static desk-and-hands setup that is easiest for compositing, needs only a cheap half-finished pencil sketch as the prop, ports the existing easel UI experiments straight over, and is the most recognisable face of the replacement fear. Painter stays as the fallback (same scene, higher fidelity). Details in `world-building.md`.
