@@ -13,6 +13,15 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-08-06 - All ten graded deliverables written up in plain markdown
+
+- Built `deliverables/`: an index of every graded item this semester plus a full markdown write-up of each of the four A3 briefs (posters, oral presentation, visual project report, prototype). The Canvas PDFs stay in `brief/` as the source of truth. The A3 PDFs were re-downloaded on 6 Aug and are identical in content to the July copies, so nothing has changed on Canvas since 23 July.
+- Full mark map, 100 across ten items: A1 concept pitch 10 (submitted), four workshops at 2.5 each (positionality 4 Aug, speculative prototyping 11 Aug, impact planning 22 Sep, smart material choices 29 Sep), A2 mid-semester check-in 5 (17 Sep), then A3: posters 10 (15 Oct), oral presentation 10 (21 Oct), visual project report 40 (22 Oct, 9am), prototype 15 (29 Oct).
+- Three findings that change the plan. First, a physical prototype is compulsory even for an intangible outcome, and a high-fidelity version must be shown live at the presentation and exhibition, with the rubric marking materials and craftsmanship. That makes the Compass glasses appearance model a graded requirement, not an optional extra. The format is explicitly "TBC with your stream coordinator", so whether the film, the object, or both count as the prototype is a conversation to have with the stream leader.
+- Second, AI-generated images are banned from the posters. Hero shots must be real footage or photographs (or captioned royalty-free stock), which means the compositing problem has to be solved to a 300 dpi print standard by 15 October, two weeks before the prototype deadline.
+- Third, the visual project report at 40 marks is the largest item of the semester and explicitly does not evaluate the Miro board. All the board's process material has to be curated into a designed, printed and bound A4 book of around 50 pages, structured on the double diamond. Two of its sections have no material yet: the impact framework (Theory of Change is the named example) and the Te Tiriti positionality reflection against five named principles (whaanau, kaitiakitanga, mahi tahi, hanga, huri hanga), together worth 10 marks.
+- Next deadline: the speculative prototyping workshop on Tuesday 11 August at 13:30, an in-class template filled out and uploaded as a PDF the same day.
+
 ### 2026-08-04 - Double diamond approved; MUSE row off the timeline board
 
 - Methodology resolved: the lecturers confirmed double diamond can be used. The 28 Jul flag is closed. The timeline board's phase labels (Discover, Define, Develop, Deliver) already map to it, so no renaming needed. The methodology task on the tracker is marked complete.
