@@ -36,6 +36,19 @@ Why the illustrator for the third slot: it covers making-by-hand so the trio spa
 
 Casting note: vary who the three people are (age, gender, background) so the trio does not read as three versions of the same person.
 
+## What Compass looks like as an object
+
+**Decided (6 August 2026): two objects at the exhibition, not one.** A physical form model of the Compass glasses as they should look, thin and light, answering what the product is. Alongside it, the AR goggles the university already has, used to actually display the interface so a visitor can put something on and see it. Visitors are told plainly which is which. Neither object has to pretend to be the other, and the tutors confirmed the approach is fine.
+
+Hardware references gathered the same day (real manufacturer photography, filed in the board's inbox frame):
+
+- **Even Realities G2** is the closest existing thing to the thin direction: 36 grams, magnesium and titanium, reads as eyewear rather than hardware. It ships in black, olive and a warm brown, which is useful evidence that a warm neutral body is a credible choice rather than a stylistic whim.
+- **Brilliant Labs Halo**, successor to the Frame reference, is the counter-example. It is not actually thin, and it makes two deliberate choices worth accepting or rejecting on purpose: a coloured accent on the temple, and electronics left visible through the arm.
+- **Current HUD layout convention** across these products: centre of vision kept empty, status top right, contextual information top left, directional cues along the bottom. Compass can break this, but it should break it knowingly.
+- Even Realities' interface is a useful thing to define Compass *against*: green monochrome, dot-matrix numerals, thin bordered panels, machine-like. Compass is meant to be calm and quiet. That contrast is an argument worth making in the report.
+
+Still open: the presence dial proposal (a physical control on the temple governing how much Compass offers), materials and colour, and whether anything is visible externally when it is running.
+
 ## Rules of the world on screen
 
 Not decided. What can the film show and what must it never show? Candidate rules from DES303 experiments: raw unaltered environments, persistent UI that never disappears, suggestions as whispers not instructions. Added from creator feedback (28 July): the UI is customisable, each wearer chooses what appears on their visual layer, because every creative works differently. If the film shows more than one wearer, their lenses should not look identical.
