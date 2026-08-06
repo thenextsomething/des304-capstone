@@ -13,6 +13,18 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-08-06 - Tutorial settles the prototype: film stays, plus goggles
+
+- The tutors pushed back on the film being the only outcome, and the argument was about the audience: someone wandering the exhibition who only gets to watch a video feels short-changed, and the film would have to be extraordinary to carry the project alone. Film plus object was called the best of both worlds.
+- Settled: the launch film remains the main deliverable, and a physical interface prototype gets built on AR goggles the university already has, rather than fabricating a device. This replaces this morning's working assumption that an appearance model had to be made from scratch.
+- Two constraints that make it achievable. It does not have to genuinely work, because "just because you make it a functional prototype doesn't mean that it does everything", and trickery is acceptable as long as a visitor can put something on. And building it now does not undermine the near-future setting: "the future is tomorrow, which is next week."
+- Formally the course does not require the prototype to be physical (it could be a film, a poster, or a mix), but for a project about glasses somebody wears the tutors think there has to be an object, otherwise the reaction is "where's the thing?"
+- Polo's technical worry is detection and tracking rather than display. The tutors' answer was that detection may not be the real problem and it is not his to solve alone. Aldo Visini is the person to ask about available AR gear, and they told him to go straight after the session. Email drafted in `outreach/`.
+- Also from the session: Navia, a photographer, has been asked what she would want on the lens. Same conversations planned with a beginner sketcher, a videographer and a beginner piano player, kept to friends and family per the research rules. The videographer is new and it is unclear whether that is a fourth character or just another person to learn from.
+- New open question created by all this: the film shows a sleek designed Compass while the exhibition prototype will be whatever headset the lab has, which is likely bulkier. Either dress the goggles toward the design, present them openly as a test rig, or move the Compass design closer to real hardware. Needs deciding before the shoot.
+- Full notes in `meetings/2026-08-06-tutorial-prototype-feedback.md`. Board updated: decision log corrected, three tutor feedback rows added, prototype task closed, Aldo email and the film-versus-goggles question added as tasks.
+- A `board-log` skill now lives in the repo so logging to the Miro board (writing plus reference images, with a rule to ask before adding images we are not sure about) is a repeatable action rather than a one-off.
+
 ### 2026-08-06 - All ten graded deliverables written up in plain markdown
 
 - Built `deliverables/`: an index of every graded item this semester plus a full markdown write-up of each of the four A3 briefs (posters, oral presentation, visual project report, prototype). The Canvas PDFs stay in `brief/` as the source of truth. The A3 PDFs were re-downloaded on 6 Aug and are identical in content to the July copies, so nothing has changed on Canvas since 23 July.
