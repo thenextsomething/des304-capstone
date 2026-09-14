@@ -57,6 +57,9 @@ Google. (2012). *Project Glass: One day…* [Video]. YouTube. https://www.youtub
 Humane. (2023). *This is the Humane Ai Pin* [Video]. YouTube. https://www.youtube.com/watch?v=9lNIwOOMVHk
 > **Humane's own channel, and it outlived the company.** Humane shut down and HP bought the assets in 2025, yet both the YouTube original and the Vimeo copy (https://vimeo.com/882968794, same film, 10:34) are still live.
 
+Limitless. (2024, April 15). *Introducing the Limitless Pendant* [Video]. YouTube. https://www.youtube.com/watch?v=GBuwUj1UV90
+> Limitless's own channel, confirmed. The longer rebrand film, from when Rewind became Limitless, is at https://www.youtube.com/watch?v=lt_WnR_GZqs
+
 Matsuda, K. (2016). *Hyper-Reality* [Film]. YouTube. https://www.youtube.com/watch?v=YJg02ivYzSs
 > Matsuda's own channel, confirmed. Also his own on Vimeo at https://vimeo.com/166807261 , and the project site is http://hyper-reality.co/
 
