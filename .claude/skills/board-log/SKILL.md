@@ -28,9 +28,13 @@ Work out today's date and drop the entry in that week's frame. Frames are 1100 w
 | Week 10 | 5-9 Oct | 3458764679505529653 |
 | Week 11 | 12-16 Oct | 3458764679505529654 |
 | Week 12 | 19-23 Oct | 3458764679505529655 |
+| Week 13 | 26-30 Oct | 3458764683599282775 |
+| Week 14 | 2-7 Nov, ReDesign Showcase | 3458764683599282776 |
 | Inbox | anytime | 3458764679518188263 |
 
-Weeks 13 and 14 do not exist yet and the Miro tools cannot create frames. If the date falls past 23 Oct, use the Inbox and say so.
+Weeks 13 and 14 were added on 14 September 2026. **Correction to an earlier note in this file: the tools CAN create and resize frames.** Use `canvas_create_from_svg` with a `<g data-frame="Title">` wrapping a `<rect data-type="frame">`. To resize an existing frame, send `canvas_update_from_svg` with the frame's `data-miro-id`, its `transform`, AND a non-empty `data-frame` on the g plus the background rect's width and height. Leaving `data-frame` off makes the tool treat it as a plain group and silently skip the change.
+
+Two other things learned the same day. A doc's rendered height is at least 1105px, so a frame holding a full week's entry needs to be about 1266 tall rather than the default 800. And a newly created frame can get auto-placed somewhere else entirely by collision avoidance, so check the `data-rendered-bounds` in the result and move it back if it has drifted.
 
 If it is genuinely unclear where something belongs, use the Inbox rather than guessing.
 
@@ -93,6 +97,16 @@ The frame is 1100 by 800 and coordinates are relative to its top-left corner.
 - **Feedback log** (3458764679505529681): columns are From, Feedback, What I did, Status, Date. Status is Actioned or Pending.
 - **Task tracker** (3458764679504524774): columns are Title, Description, Status, Priority, Effort, Start Date, End Date, Phase.
 - **Timeline** (3458764679504524775): only for milestone-level changes.
+
+## The diagram row
+
+Added 14 September 2026, sitting below the weekly frames. These are built for the report as much as the board, since the report's biggest criterion is making the methodology visible and diagrams are how that gets done.
+
+- **START HERE** (3458764683599282774): the front door. What the project is, where it is, and deep links into the logs. Keep the "where it is" section current, it is the first thing a marker reads.
+- **Design process, the double diamond** (3458764683599336356): every activity of the project plotted on the two diamonds, with abandoned directions and failed experiments left on in grey. Add to it as the semester goes.
+- **The three states of Compass** (3458764683599388361): off, on but idle, working. The product argument as a picture.
+- **The compositing split** (3458764683599388362): head-fixed versus world-anchored elements, and the five integration moves.
+- **Film structure** (3458764683599411656): 82 seconds in four acts, with three character lanes showing the intercut.
 
 Use `table_sync_rows`. Rows without a rowId are inserted as new.
 
