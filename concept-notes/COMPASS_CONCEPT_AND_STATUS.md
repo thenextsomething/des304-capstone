@@ -43,7 +43,7 @@ The Week 9 crit group pushed Polo directly on this: before committing to a produ
 The clearest articulation of what Compass does came from prototyping a scenario of a pianist learning a piece with the wearable guiding them in real time. The overlay had to reflect ambient intelligence, not replicate a screen-based tool strapped to someone's face. The wearable knows what your hands are doing, knows where you are in the piece, can anticipate what is coming.
 
 What was landed on for the piano scenario:
-- Glowing keys appearing just before you need to press them (soft blue/white, 1-2 seconds ahead, predictive)
+- Glowing keys appearing just before you need to press them (1-2 seconds ahead, predictive). **Superseded on the colour: see the pinned colour rule in `compass-product-definition.md`.** The interface is warm white with the signal blue reserved for whatever is being actively offered, not soft blue/white throughout.
 - Note names floating above the keys in a clean sans-serif Apple-style font
 - A subtle pulse to carry the timing
 - A progress bar running along the edge of the session

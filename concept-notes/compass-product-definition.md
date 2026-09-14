@@ -42,7 +42,7 @@ The empty middle state is the feature, not the absence of one. Every other produ
 - A shot checklist on the lens, showing what you have taken and what you still owe.
 - A review of the last shot without leaving the camera.
 - Reference frames and moodboards from the brief.
-- A light reading, with a small directional diagram.
+- A light reading, with a small directional diagram, sitting top right underneath the shot checklist.
 
 **For the musician**
 
@@ -55,6 +55,18 @@ The empty middle state is the feature, not the absence of one. Every other produ
 - Proportion and perspective guides that appear only while the pencil is actually moving, and fade the moment it stops.
 - A reference card sliding in from a relevant artist, named and dated.
 - Visual weight nudges, as soft text that fades in and out.
+
+## The interface's colour, pinned
+
+This kept drifting because it was never written down in one place, so it is pinned here and everything else follows this file.
+
+**Warm white is the base.** A single warm white at 100, 60 or 30 per cent opacity, one type weight, no fills and no borders. It is what makes Compass calm and quiet, and it is what defines it against Even Realities' green monochrome dot-matrix, which reads as a machine reporting to you. It also survives the trip to CMYK for the posters, which a glowing blue does not.
+
+**The signal blue is reserved for the one active thing.** The keys lighting a beat ahead, the guide while the pencil is moving, the frame that just appeared. Whatever Compass is actively offering in that moment is the blue, and everything else on the lens is warm white. That keeps the rule confirmed on 12 September true (one signal blue, and it only ever appears where the interface appears) without the whole lens turning blue.
+
+**The reference layer is the exception and stays full colour**, because a reference photograph is no use in the wrong colours. It carries a thin hairline frame at about 40 per cent to hold it apart from the room behind it.
+
+Superseded by this: the DES303 note in `COMPASS_CONCEPT_AND_STATUS.md` describing the piano keys as "soft blue/white". That was written before the contrast against Even Realities was worked out.
 
 ## What Compass will never do
 
