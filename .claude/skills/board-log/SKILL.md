@@ -117,7 +117,12 @@ Added 14 September 2026, sitting below the weekly frames. These are built for th
 - **One conversation, four things it changed** (3458764683605347339): Navia's four requests and what each became. The insight-to-implication page.
 - **AI use log** (3458764683605425052): live table, required on every graded item. Add a row the same day, every time.
 - **Why this matters in Aotearoa** (3458764683605642279): three statistics as data graphics, the local evidence, and the corrections needed to two numbers already on the A1 deck.
-- **Precedent analysis** (3458764683605704542): fifteen launch films and speculative works plotted on sells-against-questions and assists-against-acts, with the empty quadrant Compass occupies.
+- **Precedent analysis** (3458764683605704542): fifteen launch films and speculative works plotted on sells-against-questions and assists-against-acts, with the empty quadrant Compass occupies. Every film is linked and a thumbnail strip runs along the bottom.
+- **The hardware landscape** (3458764683724600984): Even Realities G2, Meta Ray-Ban and Xreal One Pro with their own launch films, the Halo counter-example, the layout convention, and the argument that Compass is defined against Even Realities' green dot-matrix readout.
+
+**Pulling images without asking Polo for files.** Two sources are safe and verifiable. A YouTube thumbnail is `https://img.youtube.com/vi/VIDEOID/mqdefault.jpg` (320x180, always exists; `maxresdefault.jpg` is 1280x720 but 404s on older videos). A Vimeo thumbnail comes from `https://vimeo.com/api/oembed.json?url=https%3A//vimeo.com/ID` in the `thumbnail_url` field. Verify the video first with the YouTube oEmbed endpoint, which returns the real title and channel, so the provenance is confirmed rather than assumed.
+
+**Finding official uploads.** Web search surfaces reuploads. Searching YouTube itself through the Chrome tools surfaces the maker's own channel, and that is the difference between citing Cluely and citing a random account that mirrored Cluely. YouTube watch and results pages return nothing to WebFetch, so use the browser and pull the video ids out of the DOM with javascript_tool.
 
 References for everything on those last two live in `research/references.md`, with verification status marked per entry.
 
