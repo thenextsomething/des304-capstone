@@ -32,21 +32,29 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 
 ## The precedent set
 
-Apple. (1987). *Knowledge Navigator* [Film]. Apple Computer.
+**All links below were checked on 14 September 2026 and resolve.** Provenance is noted where it affects the citation, because four of them are not what you would assume.
 
-Apple. (2023). *Introducing Apple Vision Pro* [Film]. Apple.
+Apple. (1987). *Knowledge Navigator* [Film]. Apple Computer. https://www.youtube.com/watch?v=-jiBLQyUi38
+> **No official Apple upload exists.** Apple has never hosted this on their own channel, so every copy online is a third-party transfer. The link above is DigiBarn's, a computer history archive, which is the most citable of them. Cite as an archival upload rather than as Apple's own.
+
+Apple. (2023). *Introducing Apple Vision Pro* [Film]. Apple. https://www.apple.com/apple-vision-pro/
+> The product page is linked because a standalone permanent URL for the launch film itself could not be verified.
 
 Apple. (2024, January 8). *Apple Vision Pro available in the U.S. on February 2*. Apple Newsroom. https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/ **NEEDS CHECK** on the exact date.
 
-Cluely. (2025). *Cluely* [Advertisement].
+Cluely. (2025, April). *Cluely* [Advertisement]. X.
+> **Launched on X rather than a video platform**, in April 2025, and there is no stable permanent link. Cite by date and platform. The film shows Roy Lee on a blind date using the tool to lie about his age and job, and the woman leaving.
 
-Even Realities. (2025). *Even G2 smart glasses* [Product launch].
+Even Realities. (2025). *Even G2 smart glasses* [Product launch]. https://www.evenrealities.com/products/g2
 
-Friend. (2024). *Friend* [Advertisement].
+Friend. (2024, July 31). *Friend* [Advertisement]. X. https://friend.com/
+> **Launched on X on World Friendship Day**, 31 July 2024, and reported at 23.7 million views there. No stable permanent link to the ad itself, so the product site is given and the ad is cited by date and platform.
 
 Google. (2012). *Project Glass: One day…* [Video]. YouTube. https://www.youtube.com/watch?v=5R1snVxGNVs
+> **This is a third-party reupload, not Google's own channel.** It carries the correct title and it is the version most people cite, but the uploader is not Google, so cite it as a reupload.
 
-Humane. (2023). *Introducing the Ai Pin* [Film].
+Humane. (2023). *Introducing Humane Ai Pin* [Film]. Vimeo. https://vimeo.com/882968794
+> **This is Humane's own upload and it survived the company's closure.** Humane shut down and HP bought the assets in 2025, so it is worth knowing that the Vimeo original is still live while the YouTube copies are all reuploads.
 
 Matsuda, K. (2016). *Hyper-Reality* [Film]. http://hyper-reality.co/
 
@@ -54,9 +62,13 @@ May-raz, E., & Lazo, D. (2012). *Sight* [Film]. Bezalel Academy of Arts and Desi
 
 Meta. (2025, September 17). *Meta Ray-Ban Display: AI glasses with an EMG wristband*. Meta Newsroom. https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/
 
-Microsoft. (2015). *Productivity future vision* [Film]. https://www.youtube.com/watch?v=w-tFdreZB94 **NEEDS CHECK** on whether the series included a 2013 instalment alongside 2009, 2011 and 2015.
+Microsoft. (2015). *Productivity future vision* [Film]. https://www.youtube.com/watch?v=w-tFdreZB94
+> Hosted on the Microsoft in Business channel, so this one is genuinely Microsoft's. Whether the series included a 2013 instalment alongside 2009, 2011 and 2015 is **still unresolved** and one source claims it did.
 
 Soul Machines. (n.d.). *BabyX*. Retrieved September 14, 2026, from https://www.soulmachines.com/
+
+Future of StoryTelling. (2018). *Mark Sagar / Soul Machines: Baby X* [Video]. YouTube. https://www.youtube.com/watch?v=ATLHCO58yJ0
+> A conference recording rather than a Soul Machines upload, but it is the clearest demonstration of BabyX available.
 
 Superflux. (2015). *Uninvited guests* [Film]. https://superflux.in/index.php/work/uninvited-guests/
 
