@@ -32,53 +32,55 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 
 ## The precedent set
 
-**All links below were checked against YouTube's and Vimeo's own metadata on 15 September 2026**, so the channel behind each one is confirmed rather than assumed. Eleven of the fifteen are the maker's own upload. Provenance is noted on the three that are not.
+**All links below were checked against YouTube's and Vimeo's own metadata on 15 September 2026**, so the channel behind each one is confirmed rather than assumed. **Thirteen of the fifteen are the maker's own upload.** Provenance is noted on the two that cannot be.
 
-Apple. (1987). *Knowledge Navigator* [Film]. Apple Computer. https://www.youtube.com/watch?v=-jiBLQyUi38
-> **No official Apple upload exists.** Apple has never hosted this on their own channel, so every copy online is a third-party transfer. The link above is DigiBarn's, a computer history archive, which is the most citable of them. Cite as an archival upload rather than as Apple's own.
+Apple. (1987). *Knowledge Navigator* [Film]. Apple Computer. https://www.youtube.com/watch?v=welKoeoK6zI
+> **No official Apple upload exists and never has.** Every copy online is a third-party transfer. The link above is Mac History's high-resolution version, which is the best of them. Cite as an archival upload rather than as Apple's own.
 
-Apple. (2023). *Introducing Apple Vision Pro* [Film]. Apple. https://www.apple.com/apple-vision-pro/
-> The product page is linked because a standalone permanent URL for the launch film itself could not be verified.
+Apple. (2023). *WWDC 2023 keynote* [Video]. YouTube. https://www.youtube.com/watch?v=GYkq9Rgoj8E
+> **Apple's own "Introducing Apple Vision Pro" film has been removed from their channel.** The video id cited across the web, TX9qSaGXFyg, now returns 403 and its thumbnail 404s. The WWDC keynote is Apple's own and still carries the reveal, so it is linked instead. Worth a line in the report in its own right: the most-watched video on Apple's channel quietly disappearing is the sort of thing this analysis is about.
 
 Apple. (2024, January 8). *Apple Vision Pro available in the U.S. on February 2*. Apple Newsroom. https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/ **NEEDS CHECK** on the exact date.
 
-Cluely. (2025). *Introducing Cluely, the cheat on everything app* [Video]. YouTube. https://www.youtube.com/watch?v=qHg3_4bU1Dw
-> Cluely's own channel, confirmed. A second ad is at https://www.youtube.com/watch?v=Rz3LD7u2KX8 (also Cluely's channel). The blind-date film first went viral on X in April 2025 but it is permanently hosted on YouTube.
+Cluely. (2025, April 20). *Cluely (cheating tool for literally everything)* [Video]. YouTube. https://www.youtube.com/watch?v=Rz3LD7u2KX8
+> **This is the blind-date launch ad**, Cluely's own channel, published 20 April 2025, which matches the reported launch date. A later ad, https://www.youtube.com/watch?v=qHg3_4bU1Dw (28 June 2025), is a different film and an earlier draft of this file had them the wrong way round.
 
-Even Realities. (2025). *Introducing Even G2 and R1: Get ready to wear the future* [Video]. YouTube. https://www.youtube.com/watch?v=tAIhp9hia90
-> Even Realities' own channel, confirmed. Product page: https://www.evenrealities.com/products/g2
+Even Realities. (2025, November 12). *Introducing Even G2 and R1: Get ready to wear the future* [Video]. YouTube. https://www.youtube.com/watch?v=tAIhp9hia90
+> Even Realities' own channel, confirmed. The full launch film is a separate upload at https://www.youtube.com/watch?v=yZrcgiKFOD0 . Product page: https://www.evenrealities.com/products/g2
 
 Friend. (2024). *Friend reveal trailer* [Video]. YouTube. https://www.youtube.com/watch?v=O_Q1hoEhfk4
 > Friend's own channel, confirmed. It first went out on X on World Friendship Day, 31 July 2024, and was reported at 23.7 million views there, but the permanent copy is on YouTube. Product site: https://friend.com/
 
-Google. (2012). *Project Glass: One day…* [Video]. YouTube. https://www.youtube.com/watch?v=5R1snVxGNVs
-> **This is a third-party reupload, not Google's own channel.** It carries the correct title and it is the version most people cite, but the uploader is not Google, so cite it as a reupload.
+Google. (2012). *Project Glass: One day…* [Video]. YouTube. https://www.youtube.com/watch?v=9c6W4CCU9M4
+> **Google's own upload, confirmed.** An earlier draft of this file used a reupload; the original is still live on the Google channel.
 
-Humane. (2023). *Introducing Humane Ai Pin* [Film]. Vimeo. https://vimeo.com/882968794
-> **This is Humane's own upload and it survived the company's closure.** Humane shut down and HP bought the assets in 2025, so it is worth knowing that the Vimeo original is still live while the YouTube copies are all reuploads.
+Humane. (2023). *This is the Humane Ai Pin* [Video]. YouTube. https://www.youtube.com/watch?v=9lNIwOOMVHk
+> **Humane's own channel, and it outlived the company.** Humane shut down and HP bought the assets in 2025, yet both the YouTube original and the Vimeo copy (https://vimeo.com/882968794, same film, 10:34) are still live.
 
-Matsuda, K. (2016). *Hyper-Reality* [Film]. http://hyper-reality.co/
+Matsuda, K. (2016). *Hyper-Reality* [Film]. YouTube. https://www.youtube.com/watch?v=YJg02ivYzSs
+> Matsuda's own channel, confirmed. Also his own on Vimeo at https://vimeo.com/166807261 , and the project site is http://hyper-reality.co/
 
-May-raz, E., & Lazo, D. (2012). *Sight* [Film]. Bezalel Academy of Arts and Design. https://vimeo.com/46304267
+May-raz, E., & Lazo, D. (2012). *Sight* [Film]. Robot Genius. https://vimeo.com/46304267
+> The directors' own Vimeo, under their company Robot Genius, confirmed. There is no directors' YouTube upload; the widely seen TheCGBros version is a licensed reupload.
 
-Meta. (2025, September 17). *Meta Ray-Ban Display: AI glasses with an EMG wristband*. Meta Newsroom. https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/
+Ray-Ban Meta. (2025, September 18). *Introducing Meta Ray-Ban Display AI glasses* [Video]. YouTube. https://www.youtube.com/watch?v=hrj4NQuE93M
+> The Ray-Ban Meta channel, confirmed. Newsroom announcement: https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/ . The onstage demo failing has no official clip, unsurprisingly.
 
 Microsoft. (2015). *Productivity future vision* [Film]. https://www.youtube.com/watch?v=w-tFdreZB94
-> Hosted on the Microsoft in Business channel, so this one is genuinely Microsoft's. Whether the series included a 2013 instalment alongside 2009, 2011 and 2015 is **still unresolved** and one source claims it did.
+> Microsoft in Business channel, so this one is genuinely Microsoft's. **Settled: there was never a 2013 instalment.** The series is 2009, 2011 and 2015. Microsoft's own 2011 upload is now dead (their archived blog links youtu.be/a6cNdhOKwi0, which 403s), and the best surviving copy is a reupload at https://www.youtube.com/watch?v=tfgpNzSL0Xg
 
-Soul Machines. (n.d.). *BabyX*. Retrieved September 14, 2026, from https://www.soulmachines.com/
+Laboratory for Animate Technologies. (2014). *BabyX v3.0 interactive simulation* [Video]. University of Auckland. YouTube. https://www.youtube.com/watch?v=fNWjKtVWToc
+> **From Mark Sagar's own lab at the University of Auckland**, which is where BabyX was built and which became Soul Machines. This is the closest thing to an official source, since Soul Machines' own channel holds nothing from that era. Long-form footage: the Future of StoryTelling 2018 recording at https://www.youtube.com/watch?v=ATLHCO58yJ0 . Company: https://www.soulmachines.com/
 
-Future of StoryTelling. (2018). *Mark Sagar / Soul Machines: Baby X* [Video]. YouTube. https://www.youtube.com/watch?v=ATLHCO58yJ0
-> A conference recording rather than a Soul Machines upload, but it is the clearest demonstration of BabyX available.
-
-Superflux. (2015). *Uninvited guests* [Film]. YouTube. https://www.youtube.com/watch?v=Ear8W-C96bk
-> Superflux's own channel, confirmed. Project page: https://superflux.in/index.php/work/uninvited-guests/
+Superflux. (2015). *Uninvited guests* [Film]. Vimeo. https://vimeo.com/128873380
+> Superflux's own, posted May 2015, so this is the better citation for the date. Their YouTube copy went up in 2021 at https://www.youtube.com/watch?v=Ear8W-C96bk . Project page: https://superflux.in/index.php/work/uninvited-guests/
 
 Victoria and Albert Museum. (n.d.). *Hyper-Reality, Keiichi Matsuda* [Collection record]. https://collections.vam.ac.uk/item/O1612463/hyper-reality-film-keiichi-matsuda/
 
 Wētā Workshop. (2018). *Dr. Grordbort's Invaders* [Video game]. Magic Leap. https://www.wetaworkshop.com/projects/dr-grordborts-invaders
 
-Young, L. (2021). *Planet City* [Film]. National Gallery of Victoria. https://www.ngv.vic.gov.au/liam-young-planet-city/ **NEEDS CHECK** on 2020 versus 2021, since the NGV Triennial opened December 2020.
+Young, L. (2020). *Planet City* [Film]. National Gallery of Victoria. https://www.ngv.vic.gov.au/liam-young-planet-city/
+> **Settled: the film is 2020.** The NGV commissioned it and dates the work 2020, premiering at the Triennial that opened December 2020. The 2021 date that circulates is the Triennial's closing year. No Liam Young upload exists on either platform; the NGV's own piece is https://www.youtube.com/watch?v=Jm9GVWz5APQ
 
 ## Aotearoa futures and speculative practice
 
