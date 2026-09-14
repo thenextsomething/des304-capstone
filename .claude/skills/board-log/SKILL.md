@@ -109,6 +109,12 @@ Added 14 September 2026, sitting below the weekly frames. These are built for th
 - **The three states of Compass** (3458764683599388361): off, on but idle, working. The product argument as a picture.
 - **The compositing split** (3458764683599388362): head-fixed versus world-anchored elements, and the five integration moves.
 - **Film structure** (3458764683599411656): 82 seconds in four acts, with three character lanes showing the intercut.
+- **What Compass puts on the lens** (3458764683604303388): the lens layout with the reserved centre, the four zones, and all ten interface elements split into lens-fixed and world-anchored.
+- **How a suggestion happens** (3458764683604303865): the seven steps from empty lens to the stop bar, with the on-device band and the five things that never happen.
+- **Who this is for** (3458764683604377366): the stakeholder map, with the honest note that the centre ring is still broader than it should be.
+- **Where I'm standing** (3458764683604409184): the positionality plot on optimism against closeness to the technology, the reflective block, and the kaitiakitanga block.
+
+Two things to know before editing these. A plain `<line>` with no `data-start` and `data-end` is read as a connector and gets **skipped**, so draw axes and rules as thin `<rect>` shapes instead. And a newly created frame is very often auto-placed somewhere else entirely by collision avoidance, so check `data-rendered-bounds` on every create and move the frame back afterwards, which works fine as a separate update.
 
 ## After logging
 
