@@ -13,6 +13,35 @@ A living log for the capstone semester. Append a dated entry whenever something 
 
 ---
 
+### 2026-09-12 - Capstone HQ answered: the world is locked, the object is cut, a fake product stack replaces it
+
+- Polo worked through the DES304 Capstone HQ page in Notion (79 questions, built 31 August) and answered roughly 40 of them, deliberately leaving the assignment-logistics questions for guidance rather than guessing at them.
+- **The deadline he set himself, written at the top of the page:** by the time he sees the tutors next week, everything about the video has to be fleshed out. Script, fake product, fake company name, all done and ready to film the week after. Over the break he did a lot of learning on After Effects and other tools, and wants to show experimenting, making and prototyping "in a very presentable manner".
+- **World locked.** 2028. New Zealand slower than San Francisco because that is where adoption starts, but New Zealand creatives *made* Compass and Aotearoa is the deliberate first market before the United States, which is the normal play for a local company going overseas. Nothing is fully automated yet but everything is faster (websites, brand books, storyboards, scripts), and speed is not the same as better because the story and the human part still matter. The fear is fully here, jobs are going, but not catastrophically. Details in `world-building.md`.
+- **The hard rule got its clearest statement yet:** put the glasses on and they show you nothing. They only wake when you are actually making something. It suggests and assists, it never produces, and it cannot create even in principle, because a human has to be making something for there to be anything to assist. That also settles the idle state, which had been an open interface question.
+- **The film.** 70 to 90 seconds. Three wearers, intercut, roughly 60 to 70 per cent point of view with the opening third-person to introduce the characters. Actors speak, but about their day rather than about the product, and not much: an Apple-style ad. It works with the sound off, with captions. Everything works beautifully, no struggle, in the register of a product launch. No price on screen. Music licensed from Envato. Reference named: the Astra GPT-6 launch video.
+- **The videographer question resolved by merging.** Still three characters, but the photographer and videographer collapse into one, because the picture-capture elements are similar enough to show together.
+- **Casting is actors, not documentary subjects.** They will be real creatives, but the film does not depend on them being "real", and they will consent to appearing. Nobody gets quoted by name in the report, so the earlier worry about the research rules colliding with the report's request for quotes falls away.
+- **All four of the photographer's requests are in** as real Compass features: the shot checklist on the lens, the review of the last shot taken, reference shots and moodboards including work the client liked, and the customisable interface. That closes an action item open since 28 July.
+- **The object plan reversed.** No fabricated form model, no resin print, no AR goggles, no presence dial, one copy only. Polo's reasoning is that it would take too much effort for something that will look identical on video. The on-camera prop is a pair of plain black mock glasses. A Miro moodboard is the next step on look and finish.
+- **What replaces it is bigger, and it is the significant new direction: the entire fake product stack.** A landing page and website, the posters, possibly a fake Instagram profile and LinkedIn company page, so the speculative experience is believable end to end. Polo flagged this himself as important and wanting expansion.
+- **Risk logged against that:** the course requires a physical prototype even for an intangible outcome, and 7.5 of the prototype's 15 marks are for fabrication, tools, materials and craftsmanship. A website is not fabrication. This needs the stream coordinator's ruling before the object is treated as cut, and that conversation is the single most time-critical open item.
+- **Locked-off shooting rejected**, sensibly and with a caveat noted for later: Polo says it depends on the scene and that motion graphics over the frame will not be a problem given the point-of-view framing. The caveat is that point-of-view is the hardest case to track, not the easiest, so the compositing method still has to be proven on a real shot.
+- **Identity work started** in the same sitting. One colour rule accepted: a single signal blue that only ever appears where the interface appears.
+- Budget for the semester: roughly 1,000 to 1,500 dollars, with a preference for staying lean.
+- Cohort comparison ruled out. Not needed.
+- **Left open for guidance, deliberately:** what Compass does with what it sees and who owns that record, the hero image, the Te Tiriti section, the interface build questions, casting and locations and dates, and everything in the deliver and course-logistics sections.
+- **One thing to correct before it becomes a problem:** on the bad camera test, the page says "let's say that we did do these tests". Nothing gets claimed that did not happen. The honest and equally useful version is that the break's After Effects experiments *were* the tests, so they get documented as what they actually were.
+
+### 2026-08-16 - Aldo email sent, ten days after it was drafted
+
+- The email to Aldo Visini went out. It asks what AR headsets or goggles the lab has and whether any of them will let a custom interface go on the display, and it says openly that the guess is display being the easier half and live detection or tracking being the hard part.
+- Rewritten before sending, because the 6 August draft had gone stale: it still described the prototype vaguely as "something physical alongside the film", which stopped being true the same evening the two-object plan was settled. The version that went out names the form model and the lab goggles as two separate things sitting beside each other.
+- The ask ended up sharper for the delay, since the two-object decision turned a vague request for help into a specific question answerable in one reply. Luck rather than method.
+- Sent from Polo's personal gmail, so the follow-up plan is: if nothing comes back in about a week, chase it from the university address instead.
+- Board updated: Week 4 frame now has its first entry, the Aldo task is closed, and the tutor feedback row about not giving up on the functional route without asking for help is marked actioned.
+- Still open from the 6 August session: the report back to the tutors on where the prototype landed.
+
 ### 2026-08-06 - Tutorial settles the prototype: film stays, plus goggles
 
 - The tutors pushed back on the film being the only outcome, and the argument was about the audience: someone wandering the exhibition who only gets to watch a video feels short-changed, and the film would have to be extraordinary to carry the project alone. Film plus object was called the best of both worlds.

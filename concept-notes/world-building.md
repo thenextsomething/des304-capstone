@@ -10,19 +10,33 @@ Known anchors (settled in DES303, see `COMPASS_CONCEPT_AND_STATUS.md`):
 
 ## What year is it?
 
-Not decided. The MUSE game is set in Auckland 2035, which is a candidate for keeping the two artefacts in one shared world. Question to settle: is the film the same world as the game, or adjacent?
+**Decided (12 September 2026): 2028.** Polo's reasoning: this is a plausible product that could be real within a year or two, and similar products and projects are already coming to life, so a near date is more credible than a far one. 2027 was the alternative. 2028 wins because it reads as the start of the thing rather than the aftermath. The old 2035 candidate is dead along with the MUSE game that produced it.
 
 ## What is the state of Aotearoa in that year?
 
-Not decided. What has changed for daily life, work, and money? What does the AI landscape look like from New Zealand rather than from San Francisco? The brief asks specifically about Aotearoa, and peer feedback said the SF perspective must be actively bridged, not left implicit.
+**Decided (12 September 2026), and it also solves the Aotearoa problem.** New Zealand is still slower than San Francisco, because San Francisco is where adoption starts. New Zealand usually sits in the middle of the adoption curve or slightly ahead of it.
+
+The move that makes the film specifically from here: **Compass is made by New Zealand creatives, and Aotearoa is the deliberate first market.** They want to release into an early market at home before going to the bigger markets in the United States, which is the normal and sensible play for a New Zealand company going overseas.
+
+That single decision answers the brief's Aotearoa requirement without bolting local scenery onto a global story. The film is a New Zealand product launch, not a global launch that happens to be filmed here. It also names and bridges the San Francisco positionality in one move: Polo's SF-shaped view is the thing the fictional company is deliberately not copying.
 
 ## What has happened to creative work by then?
 
-Not decided. What tools do everyday creators use? What got automated, what resisted? Where does the anxiety sit? This is the emotional backdrop the launch film speaks into.
+**Decided (12 September 2026).** Nothing is fully automated, because 2028 is only about eighteen months out, but it is getting there and it is getting good. Creative work is still very much a thing and still very important. What has changed is speed: people can do it far faster.
+
+What has been automated by 2028: websites built faster, brand books built faster, storyboards produced faster, scripts written faster.
+
+The important qualification, in Polo's words: none of that is necessarily *better*, because the story still matters and the human part of the creative process always will. It is just being done a lot faster.
+
+Where the anxiety sits: **the fear is fully here.** People are potentially losing jobs to it, but it is not major yet, and Polo does not think it will become too major. That is the emotional backdrop the launch film speaks into, and it is the reason a device that assists rather than creates has something to say.
 
 ## Why does Compass exist?
 
-Not decided. Who makes it, what triggered it, what is it a reaction against? An Apple-style launch film implies a company with a point of view. The film may never state any of this, but it has to be decided for the film to feel real.
+**Decided (12 September 2026): creatives at the centre, teamed up with engineers.** Both sides want to harness the power of AI, literally and figuratively. The company exists because creatives wanted a better way to create, and specifically a **non-replacive** way of creating.
+
+**The company is Create Labs** (Polo, 12 September 2026).
+
+One thing to hold deliberately rather than by accident: the product's hard rule is that Compass does not create, so a company called Create Labs needs its reading made explicit somewhere. The strong reading is that **creating is what the human does**, and the company is named after its customers rather than its product. That is a good argument and it costs one line on the landing page or one beat in the film. Left unstated, a marker can just as easily read it as a contradiction the student did not notice.
 
 ## Who wears it?
 
@@ -47,8 +61,73 @@ Hardware references gathered the same day (real manufacturer photography, filed 
 - **Current HUD layout convention** across these products: centre of vision kept empty, status top right, contextual information top left, directional cues along the bottom. Compass can break this, but it should break it knowingly.
 - Even Realities' interface is a useful thing to define Compass *against*: green monochrome, dot-matrix numerals, thin bordered panels, machine-like. Compass is meant to be calm and quiet. That contrast is an argument worth making in the report.
 
-Still open: the presence dial proposal (a physical control on the temple governing how much Compass offers), materials and colour, and whether anything is visible externally when it is running.
+**Decided (12 September 2026), and it reverses the 6 August two-object plan.** No fabricated form model and no resin print: it would take too much effort for something that will look the same on video. No AR goggles build. The on-camera prop is **one pair of plain black mock glasses**, one copy only. The presence dial is **cut**. Materials and colour are still loose ("just some plain black glasses, still not sure"), and a Miro moodboard is the next step on that.
+
+**What replaces the object, and this is the significant new direction:** rather than one fabricated artefact, Polo wants **the entire fake product stack**, so the speculative experience is believable end to end. Named so far: a product landing page and website, the posters, and possibly a fake Instagram profile and a fake LinkedIn company page. His note: "this is important so please flag this and we will need to expand on this."
+
+This is a strong speculative-design move and it plays directly to his professional strengths. It also collides with the course's compulsory physical prototype and its craftsmanship marks, so it needs a ruling from the stream coordinator before it is treated as settled. See the journal entry of 12 September.
 
 ## Rules of the world on screen
 
-Not decided. What can the film show and what must it never show? Candidate rules from DES303 experiments: raw unaltered environments, persistent UI that never disappears, suggestions as whispers not instructions. Added from creator feedback (28 July): the UI is customisable, each wearer chooses what appears on their visual layer, because every creative works differently. If the film shows more than one wearer, their lenses should not look identical.
+**Decided (12 September 2026). The hard rule, in Polo's words:**
+
+> "If you put it on it won't show you anything, but when you're actually creating, it will start to help you. It always has to have the lens that suggesting is fine, assisting is fine, but creating the thing, it just won't create the thing because it literally can't. That's not how the hardware or the software is going to work. It's like using an agent without the human. It literally just won't work. You need a human to prompt the agent, and this is going to be the same thing."
+
+Three rules fall straight out of that:
+
+1. **The idle state is empty.** Put Compass on and it shows you nothing. It only wakes when you are actually making something. This is the rule that proves the product assists rather than takes over, and it answers what the wearer sees when they need nothing.
+2. **It suggests and assists, never produces.** No finished output ever appears on the lens. Not a generated image, not a written line, not a completed bar of music.
+3. **It cannot create even in principle.** The refusal is not a policy setting the company chose, it is what the thing is. A human has to be making something for there to be anything to assist.
+
+Carried forward from earlier: raw unaltered environments, and the UI is customisable per wearer because every creative works differently, so no two lenses look identical.
+
+Still to resolve: the "persistent, never disappears" rule from DES303 is now superseded by the empty idle state, and the customisable-per-wearer rule still sits against a film needing one recognisable visual language across three intercut scenes.
+
+## The film itself
+
+**Decided 12 September 2026.**
+
+- **Runtime:** 70 to 90 seconds.
+- **Structure:** the three wearers **intercut**, not run one after another.
+- **Point of view:** roughly **60 to 70 per cent first person**. The opening scenes are third person, to introduce the characters and to show them putting the glasses on, then it moves inside their view for the working sequences.
+- **Voice:** actors speak, but about their day rather than about the product, and not much of it. The register is an Apple-style ad.
+- **Sound off:** the film has to work muted, carried visually with captions.
+- **Tone:** everything works beautifully. No struggle, no failure beat. It is a product launch, not a drama. Reference named: the Astra GPT-6 launch video.
+- **Price:** never mentioned. Apple launch films do not, and the product is speculative anyway.
+- **Music:** licensed, from a library such as Envato.
+- **Statistics:** a small part of the film goes over the numbers. Whatever appears has to carry weight and has to be genuinely true.
+- **Shot count:** decided at storyboard, not in advance.
+- **Ending:** unresolved. A call to action for the product is the current guess.
+- **Hero frame:** unresolved. A point-of-view frame is the leading candidate.
+
+### Who is in it
+
+Still three characters, but one of them changed on 12 September:
+
+1. A musician (the beginner piano player).
+2. **A photographer and videographer, merged into one character**, because the picture-capture elements are similar enough to carry in the same scenes.
+3. An illustrator or sketch artist.
+
+**They are actors, not documentary subjects.** They will be real creatives, but the film does not depend on it, and they consent to appearing. Nobody is quoted by name in the report, which removes the earlier collision between the course research rules and the report's request for key quotes.
+
+### Interface features confirmed
+
+All four requests from the photographer conversation of 28 July are in, as real Compass features:
+
+1. A shot checklist on the lens, showing which shots are taken and which are still owed.
+2. A way to review the last shot taken without leaving the camera.
+3. Reference shots and moodboards, including work the client liked.
+4. A customisable interface, because every creative works differently.
+
+### The fake product stack
+
+The direction that replaces the fabricated object. The goal is that the speculative experience is believable end to end, not just on screen.
+
+**Scope confirmed 12 September 2026: the full set.** Polo's read is that going all the way is not much extra effort, and for someone who builds this kind of material professionally that is fair.
+
+1. **The landing page and website**, genuinely live at a real domain, because a URL a visitor can actually open at the exhibition is worth more than a picture of one.
+2. **A printed press kit.** A dated press release, a product fact sheet, the company boilerplate, a key-visuals sheet with captions, founder quotes, and a press contact at the fake domain. Printed and on the exhibition table.
+3. **The two A1 posters** (already a graded requirement).
+4. **The social presence: designed as mockups, not built as live accounts.** A live company page for a company that does not exist breaks the platform's terms and can be pulled, and it adds nothing a designed mockup does not. The mockup is what goes in the report, on the poster and on the table.
+
+The press release is the highest-value single item, because it is a rigid document format that reads as real instantly, and the quotes inside it become the film's voice.
