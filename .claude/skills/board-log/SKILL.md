@@ -89,7 +89,7 @@ The frame is 1100 by 800 and coordinates are relative to its top-left corner.
 
 - The week's doc sits at x 30, y 60. Docs default to 800 wide.
 - Images go in a row beneath the writing, starting around y 420, at x 30, 300, 570 and 840, each about 250 wide.
-- If a frame fills up, tell Polo to drag the frame's edge to make it taller and then continue stacking below. Frames cannot be resized through the tools.
+- If a frame fills up, resize it (see the note under the frame table) rather than asking Polo to drag it. A week frame carrying a full doc wants to be about 1266 tall.
 
 ## Also update, when it applies
 
@@ -97,6 +97,8 @@ The frame is 1100 by 800 and coordinates are relative to its top-left corner.
 - **Feedback log** (3458764679505529681): columns are From, Feedback, What I did, Status, Date. Status is Actioned or Pending.
 - **Task tracker** (3458764679504524774): columns are Title, Description, Status, Priority, Effort, Start Date, End Date, Phase.
 - **Timeline** (3458764679504524775): only for milestone-level changes.
+
+Use `table_sync_rows`. Rows without a rowId are inserted as new.
 
 ## The diagram row
 
@@ -107,8 +109,6 @@ Added 14 September 2026, sitting below the weekly frames. These are built for th
 - **The three states of Compass** (3458764683599388361): off, on but idle, working. The product argument as a picture.
 - **The compositing split** (3458764683599388362): head-fixed versus world-anchored elements, and the five integration moves.
 - **Film structure** (3458764683599411656): 82 seconds in four acts, with three character lanes showing the intercut.
-
-Use `table_sync_rows`. Rows without a rowId are inserted as new.
 
 ## After logging
 
