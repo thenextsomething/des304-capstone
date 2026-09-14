@@ -32,7 +32,7 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 
 ## The precedent set
 
-**All links below were checked on 14 September 2026 and resolve.** Provenance is noted where it affects the citation, because four of them are not what you would assume.
+**All links below were checked against YouTube's and Vimeo's own metadata on 15 September 2026**, so the channel behind each one is confirmed rather than assumed. Eleven of the fifteen are the maker's own upload. Provenance is noted on the three that are not.
 
 Apple. (1987). *Knowledge Navigator* [Film]. Apple Computer. https://www.youtube.com/watch?v=-jiBLQyUi38
 > **No official Apple upload exists.** Apple has never hosted this on their own channel, so every copy online is a third-party transfer. The link above is DigiBarn's, a computer history archive, which is the most citable of them. Cite as an archival upload rather than as Apple's own.
@@ -42,13 +42,14 @@ Apple. (2023). *Introducing Apple Vision Pro* [Film]. Apple. https://www.apple.c
 
 Apple. (2024, January 8). *Apple Vision Pro available in the U.S. on February 2*. Apple Newsroom. https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/ **NEEDS CHECK** on the exact date.
 
-Cluely. (2025, April). *Cluely* [Advertisement]. X.
-> **Launched on X rather than a video platform**, in April 2025, and there is no stable permanent link. Cite by date and platform. The film shows Roy Lee on a blind date using the tool to lie about his age and job, and the woman leaving.
+Cluely. (2025). *Introducing Cluely, the cheat on everything app* [Video]. YouTube. https://www.youtube.com/watch?v=qHg3_4bU1Dw
+> Cluely's own channel, confirmed. A second ad is at https://www.youtube.com/watch?v=Rz3LD7u2KX8 (also Cluely's channel). The blind-date film first went viral on X in April 2025 but it is permanently hosted on YouTube.
 
-Even Realities. (2025). *Even G2 smart glasses* [Product launch]. https://www.evenrealities.com/products/g2
+Even Realities. (2025). *Introducing Even G2 and R1: Get ready to wear the future* [Video]. YouTube. https://www.youtube.com/watch?v=tAIhp9hia90
+> Even Realities' own channel, confirmed. Product page: https://www.evenrealities.com/products/g2
 
-Friend. (2024, July 31). *Friend* [Advertisement]. X. https://friend.com/
-> **Launched on X on World Friendship Day**, 31 July 2024, and reported at 23.7 million views there. No stable permanent link to the ad itself, so the product site is given and the ad is cited by date and platform.
+Friend. (2024). *Friend reveal trailer* [Video]. YouTube. https://www.youtube.com/watch?v=O_Q1hoEhfk4
+> Friend's own channel, confirmed. It first went out on X on World Friendship Day, 31 July 2024, and was reported at 23.7 million views there, but the permanent copy is on YouTube. Product site: https://friend.com/
 
 Google. (2012). *Project Glass: One day…* [Video]. YouTube. https://www.youtube.com/watch?v=5R1snVxGNVs
 > **This is a third-party reupload, not Google's own channel.** It carries the correct title and it is the version most people cite, but the uploader is not Google, so cite it as a reupload.
@@ -70,7 +71,8 @@ Soul Machines. (n.d.). *BabyX*. Retrieved September 14, 2026, from https://www.s
 Future of StoryTelling. (2018). *Mark Sagar / Soul Machines: Baby X* [Video]. YouTube. https://www.youtube.com/watch?v=ATLHCO58yJ0
 > A conference recording rather than a Soul Machines upload, but it is the clearest demonstration of BabyX available.
 
-Superflux. (2015). *Uninvited guests* [Film]. https://superflux.in/index.php/work/uninvited-guests/
+Superflux. (2015). *Uninvited guests* [Film]. YouTube. https://www.youtube.com/watch?v=Ear8W-C96bk
+> Superflux's own channel, confirmed. Project page: https://superflux.in/index.php/work/uninvited-guests/
 
 Victoria and Albert Museum. (n.d.). *Hyper-Reality, Keiichi Matsuda* [Collection record]. https://collections.vam.ac.uk/item/O1612463/hyper-reality-film-keiichi-matsuda/
 
