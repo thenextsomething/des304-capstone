@@ -113,6 +113,13 @@ Added 14 September 2026, sitting below the weekly frames. These are built for th
 - **How a suggestion happens** (3458764683604303865): the seven steps from empty lens to the stop bar, with the on-device band and the five things that never happen.
 - **Who this is for** (3458764683604377366): the stakeholder map, with the honest note that the centre ring is still broader than it should be.
 - **Where I'm standing** (3458764683604409184): the positionality plot on optimism against closeness to the technology, the reflective block, and the kaitiakitanga block.
+- **Choosing the question** (3458764683605347338): the HMW funnel, brief-level question through the two directions Jed offered to the one that got picked.
+- **One conversation, four things it changed** (3458764683605347339): Navia's four requests and what each became. The insight-to-implication page.
+- **AI use log** (3458764683605425052): live table, required on every graded item. Add a row the same day, every time.
+- **Why this matters in Aotearoa** (3458764683605642279): three statistics as data graphics, the local evidence, and the corrections needed to two numbers already on the A1 deck.
+- **Precedent analysis** (3458764683605704542): fifteen launch films and speculative works plotted on sells-against-questions and assists-against-acts, with the empty quadrant Compass occupies.
+
+References for everything on those last two live in `research/references.md`, with verification status marked per entry.
 
 Two things to know before editing these. A plain `<line>` with no `data-start` and `data-end` is read as a connector and gets **skipped**, so draw axes and rules as thin `<rect>` shapes instead. And a newly created frame is very often auto-placed somewhere else entirely by collision avoidance, so check `data-rendered-bounds` on every create and move the frame back afterwards, which works fine as a separate update.
 
