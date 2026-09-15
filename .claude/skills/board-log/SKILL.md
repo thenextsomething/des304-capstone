@@ -122,6 +122,8 @@ Added 14 September 2026, sitting below the weekly frames. These are built for th
 
 **Pulling images without asking Polo for files.** Two sources are safe and verifiable. A YouTube thumbnail is `https://img.youtube.com/vi/VIDEOID/mqdefault.jpg` (320x180, always exists; `maxresdefault.jpg` is 1280x720 but 404s on older videos). A Vimeo thumbnail comes from `https://vimeo.com/api/oembed.json?url=https%3A//vimeo.com/ID` in the `thumbnail_url` field. Verify the video first with the YouTube oEmbed endpoint, which returns the real title and channel, so the provenance is confirmed rather than assumed.
 
+**Swapping an image's source does not work.** Once Miro ingests an image it rehosts it on its own storage, so sending the same `data-miro-id` with a new `href` fails with a parent-did-not-resolve error. Delete the image (`data-deleted="true"` with its id, after confirming with Polo) and create a new one at the same coordinates.
+
 **Finding official uploads.** Web search surfaces reuploads. Searching YouTube itself through the Chrome tools surfaces the maker's own channel, and that is the difference between citing Cluely and citing a random account that mirrored Cluely. YouTube watch and results pages return nothing to WebFetch, so use the browser and pull the video ids out of the DOM with javascript_tool.
 
 References for everything on those last two live in `research/references.md`, with verification status marked per entry.
