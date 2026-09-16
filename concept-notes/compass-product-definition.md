@@ -46,27 +46,34 @@ The empty middle state is the feature, not the absence of one. Every other produ
 
 **For the musician**
 
-- The next notes lighting up on the keys, a second or two ahead of where your hands are.
-- A timing pulse you feel rather than watch.
-- A quiet progress line at the edge of the session.
+- A falling-note lane rising out of the keyboard, with note blocks descending toward the specific keys they belong to, hovering just above the key, and the key face lighting at the moment to press it.
+- The name of the note on the face of each descending block.
+- The song she is trying to play, and how far through it she is, in a small panel.
+- A metronome, visible on the lens, because the film has audio and the timing has to be watchable as well as audible.
 
 **For the illustrator**
 
-- Proportion and perspective guides that appear only while the pencil is actually moving, and fade the moment it stops.
-- A reference card sliding in from a relevant artist, named and dated.
-- Visual weight nudges, as soft text that fades in and out.
+- A reference of what she is actually trying to make, so the thing itself rather than a mood.
+- Guide lines over the page showing her where to sketch, which appear while the pencil is moving and go the moment it stops.
+- Corrections to the body proportions and the face proportions, called out on the drawing itself.
+- A recommendations stack down the right side: shading, how hard she should be pressing, and a colour palette guide.
+- Several reference photographs, so a posing reference, a mood board and a background reference.
 
-## The interface's colour, pinned
+## The interface's colour and visual language, pinned
 
 This kept drifting because it was never written down in one place, so it is pinned here and everything else follows this file.
 
-**Warm white is the base.** A single warm white at 100, 60 or 30 per cent opacity, one type weight, no fills and no borders. It is what makes Compass calm and quiet, and it is what defines it against Even Realities' green monochrome dot-matrix, which reads as a machine reporting to you. It also survives the trip to CMYK for the posters, which a glowing blue does not.
+**The visual language changed on 16 September 2026.** Until that day the interface was sparse warm-white marks with no panels, no borders, no boxes and nothing that read as machine-like, and that whole look is now superseded. Compass is a real augmented reality interface: translucent glass panels with a soft blur behind them and thin light edges, denser and more legible and more obviously an interface, closer to Meta's AR glasses than to anything drawn as bare marks. The photographer's lens is the model the other two follow, because the panel look was worked out there first and then carried across. What did not change is the one rule, the three states, the empty centre and the colour rule below.
 
-**The signal blue is reserved for the one active thing.** The keys lighting a beat ahead, the guide while the pencil is moving, the frame that just appeared. Whatever Compass is actively offering in that moment is the blue, and everything else on the lens is warm white. That keeps the rule confirmed on 12 September true (one signal blue, and it only ever appears where the interface appears) without the whole lens turning blue.
+**Warm white is the base.** Warm white #FAF4EA, at full strength or stepped back for the quieter elements, one type weight, now sitting on translucent glass rather than floating as bare marks. It also survives the trip to CMYK for the posters, which a glowing blue does not.
 
-**The reference layer is the exception and stays full colour**, because a reference photograph is no use in the wrong colours. It carries a thin hairline frame at about 40 per cent to hold it apart from the room behind it.
+**The signal blue is reserved for the one active thing.** The key face lighting at the moment to press it, the guide while the pencil is moving, the frame that just appeared. Whatever Compass is actively offering in that moment is the blue, and everything else on the lens is warm white. That keeps the rule confirmed on 12 September true (one signal blue, and it only ever appears where the interface appears) without the whole lens turning blue. The blue's actual value, #6E8FC7, is a proposal made on 16 September when the previs prompts needed a number and there was not one written down anywhere, so treat it as proposed rather than ruled.
+
+**The reference layer is the exception and stays full colour**, because a reference photograph is no use in the wrong colours. It sits on its own panel, which is what holds it apart from the room behind it.
 
 Superseded by this: the DES303 note in `COMPASS_CONCEPT_AND_STATUS.md` describing the piano keys as "soft blue/white". That was written before the contrast against Even Realities was worked out.
+
+**Still to rewrite, flagged 16 September 2026.** The argument that Compass is defined against Even Realities' green monochrome dot-matrix was built entirely on the old sparse look, so it does not survive this change and it has to be rewritten from scratch rather than tidied. It currently appears on this page, in the hardware landscape frame on the board and in the report, and there is no replacement argument yet. It is worth being honest that the change moves Compass toward the kind of dense panelled readout the old argument was defined against rather than away from it, so whatever replaces it probably has to rest on when Compass appears and what it refuses to do rather than on how little it draws.
 
 ## What Compass will never do
 
