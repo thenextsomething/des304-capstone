@@ -9,6 +9,34 @@ The board is the semester's proof of process. It is not marked itself, but the 4
 
 **Board:** DES304 Polo Umali (Compass), `https://miro.com/app/board/uXjVH2uB8U4=/`
 
+## How the board is organised
+
+Reorganised 16 September 2026 into five phase bands, each headed by a fat coloured bar
+running the full width of the band. A frame belongs to exactly one band, and the board
+reads top to bottom.
+
+| Band | Bar widget id | Bar top y | Frames start at y | What lives there |
+|---|---|---|---|---|
+| Phase 1 · Planning | 3458764683901314584 | -150 | 250 | START HERE, INBOX, weeks 1-2, choosing the question, the double diamond map |
+| Phase 2 · Ideating | 3458764683901314587 | 1750 | 2150, second row 4360 | weeks 3-4, why it matters in Aotearoa, precedent analysis, hardware landscape, who this is for, one conversation, where I'm standing |
+| Phase 3 · Learning | 3458764683901314590 | 5900 | 6300 | weeks 5-6, the break, the compositing split, the AI use log |
+| Phase 4 · Executing and implementing | 3458764683901314593 | 7920 | 8320, second row 9940 | weeks 7-10, the three states, what goes on the lens, how a suggestion happens, film structure |
+| Phase 5 · Refining | 3458764683901314596 | 11460 | 11860 | weeks 11-14 |
+| Running records | 3458764683902888864 | -150 | 250 | timeline, task tracker, decision log, feedback log, key points by phase, references and risk, deliverables map |
+
+The phase bands run from x 8199 to x 17399. The running records get their own column
+starting at x 18000, because the task tracker alone renders 1916 by 5156 and would burst
+through three bands if it sat inside one. Each bar is three widgets: the rect, a 64px
+white title, and a 26px subtitle naming the double diamond stage it maps to.
+
+**Leave 150px between a bar and the frames under it.** Miro draws a frame's title above
+the frame, and at normal zoom that label eats roughly 100px of board space, so a 50px gap
+puts every frame title on top of the coloured bar. That is exactly what happened on the
+first attempt and all six bars had to be moved up to fix it.
+
+When adding a frame, put it in the band it belongs to and match that band's starting y.
+If a band needs a second row, leave about 200px below the tallest frame in the row above.
+
 ## Pick the frame
 
 Work out today's date and drop the entry in that week's frame. Frames are 1100 wide by 800 tall.
@@ -128,7 +156,15 @@ Added 14 September 2026, sitting below the weekly frames. These are built for th
 
 References for everything on those last two live in `research/references.md`, with verification status marked per entry.
 
-Two things to know before editing these. A plain `<line>` with no `data-start` and `data-end` is read as a connector and gets **skipped**, so draw axes and rules as thin `<rect>` shapes instead. And a newly created frame is very often auto-placed somewhere else entirely by collision avoidance, so check `data-rendered-bounds` on every create and move the frame back afterwards, which works fine as a separate update.
+Two things to know before editing these. A plain `<line>` with no `data-start` and `data-end` is read as a connector and gets **skipped**, so draw axes and rules as thin `<rect>` elements instead. And a newly created frame is very often auto-placed somewhere else entirely by collision avoidance, so check `data-rendered-bounds` on every create and move the frame back afterwards, which works fine as a separate update.
+
+Two more, learned 16 September while restructuring the board. **A frame resizes from its
+centre**, so changing a frame's height moves its top edge by half the difference. Send the
+`transform` again in a follow-up update to put it back where it belongs. And **a doc that
+sits inside a frame cannot be widened or repositioned relative to the canvas** (the call
+fails with a parent-rejection error), so its width is stuck at 784 and its rendered height
+is whatever the content makes it. The only ways to stop a doc overflowing its frame are to
+cut content or grow the frame.
 
 ## After logging
 
