@@ -1,5 +1,38 @@
 # Higgsfield prompts 02: the photographer and videographer
 
+> **SUPERSEDED 16 September 2026. Do not run anything in this file as a prompt.**
+>
+> Two things changed on 16 September and between them they undercut the whole file, so it
+> stays here as the record of a direction that got tried and then changed rather than as
+> something to paste into a model. The first is the visual language: the sparse warm-white
+> marks with no panels, no borders and no boxes are gone, and Compass is now a real
+> augmented reality interface built out of translucent glass panels with a soft blur behind
+> them and thin light edges, in the idiom of current AR glasses. Warm white #FAF4EA is still
+> the base and the signal blue #6E8FC7 is still reserved for whatever Compass is actively
+> offering in that moment (the hex is a proposal rather than a ruling), and the reference
+> layer still stays full colour, so the colour thinking survives even though the look around
+> it does not.
+>
+> The second is the photographer's layout, which moved on the same day. The reference images
+> and the moodboard are top left now, so the thing he is working toward sits where he looks
+> first, rather than running along the bottom edge the way every prompt below has them. The
+> shot checklist stays top right. The last photo he took sits on the right side level with
+> the middle of the frame, on glass and carrying the signal blue light edge. The settings,
+> meaning what the camera is currently set to, sit on the left side level with the middle.
+> The centre of vision stays empty, as it always has.
+>
+> That leaves the light reading and its small directional diagram, which the note below puts
+> underneath the shot checklist and which the settings panel has now displaced. Whether it
+> comes back as its own element somewhere else on the lens or just folds into the settings
+> has not been decided, so it is open rather than cut and nothing here should be read as
+> having settled it.
+>
+> The prompt bodies below are untouched on purpose, because they are honest evidence of what
+> the interface looked like before this and they are worth keeping for the report. Current
+> prompts get written fresh against `concept-notes/compass-product-definition.md`, which is
+> where the visual language and the layout are pinned, and they do not live in this file any
+> more.
+
 > **Read this first, added 14 September after a consistency pass across all three files.**
 >
 > **The interface colour is now pinned in `concept-notes/compass-product-definition.md` and that file wins over anything below.** Warm white is the base, and the signal blue is reserved for whatever Compass is actively offering in that moment (the keys lighting ahead, the guide while the pencil moves, the frame that just appeared). Everything else on the lens stays warm white. The reference layer is the exception and stays full colour. Where a prompt below says warm white for an active element, add the blue to that element only.

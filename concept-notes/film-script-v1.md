@@ -18,7 +18,7 @@ Compass never speaks. The only voices in the film are people talking about their
 
 ## The script
 
-### Cold open — 0:00 to 0:05
+### Cold open · 0:00 to 0:05
 
 **1.** Black. Small white text, centred, held four seconds.
 
@@ -32,7 +32,7 @@ Cut to black. One beat of silence.
 
 ---
 
-### Act one, the empty lens — 0:05 to 0:22
+### Act one, the empty lens · 0:05 to 0:22
 
 Three rooms, real Auckland interiors, morning light. Third person throughout. No interface anywhere in this act.
 
@@ -52,7 +52,7 @@ Three rooms, real Auckland interiors, morning light. Third person throughout. No
 
 ---
 
-### Act two, it wakes — 0:22 to 1:02
+### Act two, it wakes · 0:22 to 1:02
 
 Point of view from here, intercut. Each character starts making something, and the lens responds to the making.
 
@@ -64,9 +64,9 @@ She starts it again, and as her hands move, **three keys ahead of her light up, 
 
 *This is the shot the whole film turns on. The help arrives after she starts, never before. If one shot has to be perfect, it is this one.*
 
-**9.** POV, photographer. Camera up to his eye. He takes a frame. **Top left, the shot he just took appears for a second, then goes.** *(4s)*
+**9.** POV, photographer. Camera up to his eye. He takes a frame. **On the right, level with the middle of the frame, the shot he just took appears on a glass panel with a signal blue light edge, holds for a second, then goes.** *(4s)*
 
-**10.** POV, photographer. He lowers the camera. **Top right, a short checklist. Three ticked, two not.**
+**10.** POV, photographer. He lowers the camera. **Top right, a short checklist on a translucent glass panel, warm white. Three ticked, two not.**
 Half of a phone call, off camera: *"yeah, two more and we're done."*
 > CAPTION: yeah, two more and we're done.
 *(4s)*
@@ -79,7 +79,9 @@ Half of a phone call, off camera: *"yeah, two more and we're done."*
 
 **13.** POV, illustrator. **A reference card slides in from the left**, a drawing with an artist name and a year. She looks at it, looks back at her own page, keeps going. *(5s)*
 
-**14.** POV, photographer. **A moodboard strip along the bottom edge, three frames.** He moves, reframes, shoots. *(4s)*
+**14.** POV, photographer. **Top left, the reference images and the moodboard, three frames in full colour on glass.** He moves, reframes, shoots. *(4s)*
+
+*Note added 16 September 2026: the photographer's elements moved when the interface went to translucent glass panels, so the references and the moodboard are top left now rather than a strip along the bottom edge, the last photo he took sits on the right level with the middle of the frame, the checklist stays top right and the settings sit on the left. The light reading and its small directional diagram used to sit underneath the checklist and the settings have displaced it, and whether it comes back somewhere else on the lens or folds into the settings is not decided yet, so nothing in the script leans on it either way.*
 
 **15.** THIRD PERSON, close on the musician's face. She is properly into it now. No interface, we are outside her again. *(3s)*
 
@@ -87,7 +89,7 @@ Half of a phone call, off camera: *"yeah, two more and we're done."*
 
 ---
 
-### Act three, it goes — 1:02 to 1:14
+### Act three, it goes · 1:02 to 1:14
 
 Third person. The work exists. The device does not.
 
@@ -99,7 +101,7 @@ Third person. The work exists. The device does not.
 
 ---
 
-### Act four, the card — 1:14 to 1:22
+### Act four, the card · 1:14 to 1:22
 
 **20.** Black. *(1s)*
 
@@ -125,7 +127,7 @@ Third person. The work exists. The device does not.
 This is what makes the film shootable in a week. It splits the interface into two kinds, and only one of them is difficult.
 
 **Fixed to the wearer's view. No tracking at all.** The graphic sits on the frame in post, because on real heads-up glasses these elements move with your head anyway.
-Shots 9, 10, 13, 14. The last-shot review, the checklist, the reference card, the moodboard strip.
+Shots 9, 10, 13, 14. The photographer's last photo on the right and his checklist top right, the illustrator's reference card, and the photographer's references and moodboard top left. Every one of the photographer's elements is fixed to his view wherever it sits on the lens, so the move on 16 September changes where the graphic lands on the frame and nothing at all about how the shot gets filmed.
 **Shoot these however you like, handheld and alive.**
 
 **Anchored to something in the world. Needs tracking.** The graphic has to stay stuck to an object.

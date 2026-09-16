@@ -39,10 +39,13 @@ The empty middle state is the feature, not the absence of one. Every other produ
 
 **For the photographer and videographer**
 
-- A shot checklist on the lens, showing what you have taken and what you still owe.
-- A review of the last shot without leaving the camera.
-- Reference frames and moodboards from the brief.
-- A light reading, with a small directional diagram, sitting top right underneath the shot checklist.
+- Top left, the reference images and the moodboard from the brief, including the work the client liked, sitting in full colour on translucent glass, because a reference photograph is no use in the wrong colours.
+- Top right, the shot checklist, warm white on a translucent panel, five items with three of them ticked, so he can see what he has taken and what he still owes without putting the camera down.
+- Right side, level with the middle of the frame, the last photo taken, a full colour photograph on glass carrying a signal blue light edge, because it is the thing Compass is actively offering him in that moment.
+- Left side, level with the middle of the frame, the settings, warm white, so what the camera is currently set to is always sitting there and he never has to drop his eye to the body to check it.
+- The centre of vision stays completely empty, the same as it does for the other two.
+
+**The layout changed on 16 September 2026** along with the visual language, and it is a bigger move than it sounds, because the reference images and the moodboard used to run along the bottom edge of the lens and they have come up to the top left so the thing he is working toward sits where he looks first, and the settings have taken the left side level with the middle. What that displaces is the light reading and its small directional diagram, which used to sit directly underneath the shot checklist, and I have not decided yet whether it survives as its own element somewhere else on the lens or whether it just folds into the settings panel along with everything else the camera is currently set to, so treat it as open rather than cut.
 
 **For the musician**
 

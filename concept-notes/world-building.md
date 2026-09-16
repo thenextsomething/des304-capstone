@@ -18,7 +18,7 @@ Known anchors (settled in DES303, see `COMPASS_CONCEPT_AND_STATUS.md`):
 
 The move that makes the film specifically from here: **Compass is made by New Zealand creatives, and Aotearoa is the deliberate first market.** They want to release into an early market at home before going to the bigger markets in the United States, which is the normal and sensible play for a New Zealand company going overseas.
 
-That single decision answers the brief's Aotearoa requirement without bolting local scenery onto a global story. The film is a New Zealand product launch, not a global launch that happens to be filmed here. It also names and bridges the San Francisco positionality in one move: Polo's SF-shaped view is the thing the fictional company is deliberately not copying.
+That single decision answers the brief's Aotearoa requirement without bolting local scenery onto a global story. The film is a New Zealand product launch, not a global launch that happens to be filmed here. It also names and bridges the San Francisco positionality in one move: the view Polo formed in San Francisco is the thing the fictional company is deliberately not copying.
 
 ## What has happened to creative work by then?
 
@@ -118,6 +118,8 @@ All four requests from the photographer conversation of 28 July are in, as real 
 2. A way to review the last shot taken without leaving the camera.
 3. Reference shots and moodboards, including work the client liked.
 4. A customisable interface, because every creative works differently.
+
+**Where they sit on the lens changed on 16 September 2026, and all four are still in.** Nothing here got cut, but the positions moved when the interface went to translucent glass panels, so the reference frames and the moodboard now sit top left rather than running along the bottom edge, because the thing he is working toward should be where he looks first, and the shot checklist stays top right where it always was, and the last shot taken sits on the right side level with the middle of the frame with a signal blue light edge on it because it is what Compass is actively offering in that moment, and the settings, meaning what the camera is currently set to, sit on the left side level with the middle. The centre stays empty. The customisable interface is not a position at all so none of this touches it. The one genuinely unresolved piece is the light reading and its small directional diagram, which used to sit underneath the checklist and has been displaced by the settings panel, and whether it comes back as its own element somewhere else or folds into the settings has not been decided. The full layout is pinned in `compass-product-definition.md`.
 
 ### The fake product stack
 

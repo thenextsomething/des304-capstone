@@ -26,7 +26,7 @@ Note on the positionality workshop: a file named `Polo Positionality Workshop.pd
 
 ## The four workshops
 
-All four are the same shape: a compulsory lecture plus workshop in class, fill out the template provided, reflect on how the taught concepts apply to your own project, upload the completed template as a PDF by the end of that day. 2.5 marks each, 10 marks total, graded on whether the reflection is genuinely applied to your project rather than generic.
+All four run the same way: a compulsory lecture plus workshop in class, fill out the template provided, reflect on how the taught concepts apply to your own project, upload the completed template as a PDF by the end of that day. 2.5 marks each, 10 marks total, graded on whether the reflection is genuinely applied to your project rather than generic.
 
 They are cheap marks but they are attendance-shaped: you cannot make them up later if you miss the class.
 
