@@ -28,7 +28,7 @@ Note on the positionality workshop: a file named `Polo Positionality Workshop.pd
 
 All four run the same way: a compulsory lecture plus workshop in class, fill out the template provided, reflect on how the taught concepts apply to your own project, upload the completed template as a PDF by the end of that day. 2.5 marks each, 10 marks total, graded on whether the reflection is genuinely applied to your project rather than generic.
 
-They are cheap marks but they are attendance-shaped: you cannot make them up later if you miss the class.
+They are cheap marks but they work like attendance: you cannot make them up later if you miss the class.
 
 ## The A3 cluster is a crunch
 
@@ -41,7 +41,31 @@ Four deliverables land inside 15 days:
 
 Two things follow from the ordering. First, the posters need finished hero shots of the project in use two full weeks before the prototype is even due, so the visual material cannot wait for the prototype deadline. Second, the report and the presentation are effectively one push, so the report cannot be left to start after the presentation is done.
 
-## The three requirements that shape the Compass project most
+## The working schedule, set 27 September
+
+The dates above are the university's and they do not move. These are mine, and every "final" sits two days before its hand-in so nothing is being finished on the morning it is due. The final date is the real deadline; the days after it exist for whatever goes wrong.
+
+**The report can already start,** because every word of it is written and on the board, so the template, the grid and the text flow can be built now with placeholders where the images go. None of that waits on the shoot.
+
+| Date | What |
+|---|---|
+| Mon 28 Sep to Fri 2 Oct | The film gets shot. The hero shots and most of the photography come from here |
+| **Mon 5 Oct** | All photography, film stills and prop shots handed over. The posters cannot really start before this |
+| **Thu 8 Oct** | Poster first draft. Both A1s laid out with real images |
+| **Fri 9 Oct** | Feedback back the same day. Also: book the poster printer and the book binder |
+| **Tue 13 Oct** | Poster final files. Print-ready, CMYK, 3mm bleed |
+| Thu 15 Oct 23:59 | Posters handed in. Two days of buffer |
+| **Fri 16 Oct** | Report first full draft. All 48 pages, every image placed |
+| **Mon 19 Oct** | Feedback back |
+| **Tue 20 Oct** | Report final files, optimised PDF plus a print-ready version for the binder |
+| Wed 21 Oct | The presentation. The report has to be done before this |
+| Thu 22 Oct 9:00 | Report handed in. Two days of buffer |
+| **Fri 30 Oct** | Book printed and bound, posters printed, both in hand |
+| Tue 3 Nov | Exhibition set up |
+
+**The two riskiest dates.** Monday 5 October, because half the poster marks are hero shots and those images only exist after the shoot, and the poster deadline is the one that cannot move. And Friday 9 October, because the printer and the binder are the only two things in the plan that depend on someone else's calendar, and the last time this project waited on one unanswered message it cost two teaching weeks.
+
+## The three requirements that press hardest on the Compass project
 
 These are the places where the course brief and the project's current plan actually collide. Detail is in each deliverable file.
 
