@@ -1,6 +1,6 @@
 # Compass launch film, script v1
 
-**Draft 1, 12 September 2026.** Target runtime 82 seconds. Three wearers, intercut. Roughly two thirds point of view. Works with the sound off.
+**Draft 1, 12 September 2026. Shots 1, 10, 11 and 13 updated 27 September 2026 to match the five interface rulings.** Target runtime 82 seconds. Three wearers, intercut. Roughly two thirds point of view. Works with the sound off.
 
 Read the product definition first: `compass-product-definition.md`. Every interface beat below comes from it.
 
@@ -22,9 +22,9 @@ Compass never speaks. The only voices in the film are people talking about their
 
 **1.** Black. Small white text, centred, held four seconds.
 
-> In 2024, 82% of music creators in Australia and New Zealand said they feared AI could end their ability to make a living from their work.
+> In 2024, 82% of surveyed music creators said they are concerned that the use of AI in music could lead to music creators no longer being able to make a living from their work.
 >
-> APRA AMCOS, 2024
+> APRA AMCOS and Goldmedia, 2024. Members across Australia, New Zealand and overseas.
 
 Cut to black. One beat of silence.
 
@@ -66,18 +66,18 @@ She starts it again, and as her hands move, **three keys ahead of her light up, 
 
 **9.** POV, photographer. Camera up to his eye. He takes a frame. **On the right, level with the middle of the frame, the shot he just took appears on a glass panel with a signal blue light edge, holds for a second, then goes.** *(4s)*
 
-**10.** POV, photographer. He lowers the camera. **Top right, a short checklist on a translucent glass panel, warm white. Three ticked, two not.**
+**10.** POV, photographer. He lowers the camera. **Top right, a short checklist on a translucent glass panel, warm white. Three ticked, two not.** The list is the client's brief for the job, which he loaded in himself, and Compass only ticks it off. Get the printed brief somewhere in frame during his sequence, because the film has to work with the sound off and the phone call is currently the only thing telling anyone a human wrote that list.
 Half of a phone call, off camera: *"yeah, two more and we're done."*
 > CAPTION: yeah, two more and we're done.
 *(4s)*
 
-**11.** POV, illustrator. Pencil moving on paper. As it moves, **a faint proportion guide appears over the drawing**. She lifts the pencil. **It fades out.** *(5s)*
+**11.** POV, illustrator. Pencil moving on paper. As it moves, **a faint reference proportion appears beside the line she has just drawn**, in the working band where her hands are and never in the centre of the lens. It sits next to her line and never marks it as wrong. She lifts the pencil. **It fades out.** *(5s)*
 
 *The rule again, smaller. It responds to the work, not to the person.*
 
 **12.** POV, musician. Keys lighting ahead of her hands. She has found the phrase and she speeds up. *(4s)*
 
-**13.** POV, illustrator. **A reference card slides in from the left**, a drawing with an artist name and a year. She looks at it, looks back at her own page, keeps going. *(5s)*
+**13.** POV, illustrator. **A reference card slides in from the left**, a source photograph of the pose she is drawing, with its source and date on it. Never another illustrator's finished version of the same subject, which is on the never-do list. She looks at it, looks back at her own page, keeps going. *(5s)*
 
 **14.** POV, photographer. **Top left, the reference images and the moodboard, three frames in full colour on glass.** He moves, reframes, shoots. *(4s)*
 

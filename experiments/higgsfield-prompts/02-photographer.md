@@ -19,7 +19,12 @@
 > shot checklist stays top right. The last photo he took sits on the right side level with
 > the middle of the frame, on glass and carrying the signal blue light edge. The settings,
 > meaning what the camera is currently set to, sit on the left side level with the middle.
-> The centre of vision stays empty, as it always has.
+> The centre of vision stays empty, as it always has, and as of the five rulings on
+> 27 September the rule reads: nothing is ever drawn in the centre of the lens, and
+> Compass only marks the working band, where your hands already are. The bottom edge
+> is now left empty on purpose, because Compass has nowhere to steer you. **Every
+> prompt below still describes the old bottom-edge layout and will generate the wrong
+> lens if it is run as written. Rewrite before use or do not use it.**
 >
 > That leaves the light reading and its small directional diagram, which the note below puts
 > underneath the shot checklist and which the settings panel has now displaced. Whether it
