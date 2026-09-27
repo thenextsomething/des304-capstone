@@ -40,7 +40,7 @@
 
 > **Read this first, added 14 September after a consistency pass across all three files.**
 >
-> **The interface colour is now pinned in `concept-notes/compass-product-definition.md` and that file wins over anything below.** Warm white is the base, and the signal blue is reserved for whatever Compass is actively offering in that moment (the keys lighting ahead, the guide while the pencil moves, the frame that just appeared). Everything else on the lens stays warm white. The reference layer is the exception and stays full colour. Where a prompt below says warm white for an active element, add the blue to that element only.
+> **The interface colour is now pinned in `concept-notes/compass-product-definition.md` and that file wins over anything below.** Warm white is the base, and the signal blue is reserved for whatever Compass is actively offering in that moment (the keys lighting ahead, the guide while the brush moves, the frame that just appeared). Everything else on the lens stays warm white. The reference layer is the exception and stays full colour. Where a prompt below says warm white for an active element, add the blue to that element only.
 >
 > **The light reading sits top right, underneath the shot checklist**, matching the interface anatomy diagram on the Miro board. An earlier draft of file 02 put it top right, which was a reasonable call made without sight of the board, and it is wrong.
 >

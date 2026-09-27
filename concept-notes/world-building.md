@@ -48,6 +48,16 @@ One thing to hold deliberately rather than by accident: the product's hard rule 
 
 Why the illustrator for the third slot: it covers making-by-hand so the trio spans sound, image capture, and mark-making; it is the same static desk-and-hands setup as the piano and easel experiments, which is the easiest case for compositing; a half-finished pencil sketch is cheap to produce at any stage of progress, unlike a painting; the existing easel UI experiments (moodboard, colour intelligence, visual-weight nudges) port straight over; and illustrators are the most recognisable face of the AI replacement fear, so this slot carries the film's why. The painter version of the scene stays as the fallback: sketch and painting are the same scene at different fidelity, so it can be dressed up toward paint if the shoot allows.
 
+**Changed 28 September 2026 by Polo: the third slot is a beginner-to-moderate painter.** This is the last sentence of the paragraph above being taken up rather than a new idea arriving, and that sentence has been sitting there since 1 August. Two reasons for taking it now: the painter is the more compelling character for the creative, and there is a painter among the actors we can actually get, which the illustrator version never had. The 1 August reasoning above stays exactly as written, because it is the record of what was decided then and both halves of the thinking are part of the process.
+
+Three of the five reasons survive the change untouched. It still covers making-by-hand, so the trio still spans sound, image capture and mark-making. It is still one static subject in one room, so it is still the easy case for compositing, although the desk becomes an easel by the window and that is a real change to the room and to where the locked-off camera goes. And the easel UI experiments port over more directly than they ever did for the illustrator, because they were easel experiments in the first place.
+
+**One reason weakens, and it is the one that mattered most, so it gets written down honestly rather than quietly dropped.** Illustrators are the most recognisable face of the AI replacement fear and a painter is not, so the slot carries the film's why less directly than it did. There is a real counter-argument and it is worth making. The audience this project is written for is everyday creators in Aotearoa, meaning people who make things regularly without it being all of their income, and a beginner to moderate painter sits inside that definition more comfortably than a working illustrator does, because a working illustrator is somebody whose income is the thing under threat rather than somebody who makes things alongside the rest of their life. So the slot trades a sharper stake in the replacement argument for a closer fit with the person the film is actually about, and that is the trade, both halves of it.
+
+**One reason strengthens, and it strengthens something that was weak.** The rule that Compass keeps the reference layer in full colour has always been justified by a reference photograph being no use in the wrong colours, which is true and small. For a painter colour is the work, so the rule stops being a detail about legibility and becomes load-bearing, and the colour panel that was one quiet line on the illustrator's recommendations stack moves to the centre of the painter's interface. It is the colour intelligence from the easel experiments rather than anything new.
+
+**And one reason turns into a production problem that has to be planned around.** A half-finished pencil sketch is cheap to produce at any stage of progress and a canvas is not, because a canvas cannot be un-painted between takes. The answer is to shoot her scene in story order in one continuous session so the progress on the canvas is genuine, rather than trying to reset it between takes. That is written up in the compositing plan in `film-script-v1.md` and against the shoot week in `deliverables/README.md`.
+
 Casting note: vary who the three people are (age, gender, background) so the trio does not read as three versions of the same person.
 
 ## What Compass looks like as an object
@@ -106,7 +116,7 @@ Still three characters, but one of them changed on 12 September:
 
 1. A musician (the beginner piano player).
 2. **A photographer and videographer, merged into one character**, because the picture-capture elements are similar enough to carry in the same scenes.
-3. An illustrator or sketch artist.
+3. **A painter**, beginner to moderate (changed 28 September 2026, see the block under "Who wears it?" above). Originally an illustrator or sketch artist.
 
 **They are actors, not documentary subjects.** They will be real creatives, but the film does not depend on it, and they consent to appearing. Nobody is quoted by name in the report, which removes the earlier collision between the course research rules and the report's request for key quotes.
 

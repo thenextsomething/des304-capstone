@@ -65,6 +65,8 @@ The dates above are the university's and they do not move. These are mine, and e
 
 **The two riskiest dates.** Monday 5 October, because half the poster marks are hero shots and those images only exist after the shoot, and the poster deadline is the one that cannot move. And Friday 9 October, because the printer and the binder are the only two things in the plan that depend on someone else's calendar, and the last time this project waited on one unanswered message it cost two teaching weeks.
 
+**One thing about the shoot week itself, added 28 September.** The third character is a beginner to moderate painter now rather than an illustrator, and a canvas cannot be un-painted between takes the way a pencil sketch can be rubbed out. Her scene has to be shot in story order in one continuous session, so the canvas goes from half finished to finished on camera and the progress on it is genuine rather than reset. That makes her the one setup in the week that cannot be split across two days or picked up later, so she goes early enough in the week that a lost session can still be re-run on a fresh canvas. The detail is in the compositing plan in `concept-notes/film-script-v1.md`.
+
 ## The three requirements that press hardest on the Compass project
 
 These are the places where the course brief and the project's current plan actually collide. Detail is in each deliverable file.

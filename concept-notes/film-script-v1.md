@@ -1,8 +1,10 @@
 # Compass launch film, script v1
 
-**Draft 1, 12 September 2026. Shots 1, 10, 11 and 13 updated 27 September 2026 to match the five interface rulings.** Target runtime 82 seconds. Three wearers, intercut. Roughly two thirds point of view. Works with the sound off.
+**Draft 1, 12 September 2026. Shots 1, 10, 11 and 13 updated 27 September 2026 to match the five interface rulings. The third character became a painter on 28 September 2026, so shots 6, 7, 11, 13, 16 and 19 changed with her.** Target runtime 82 seconds. Three wearers, intercut. Roughly two thirds point of view. Works with the sound off.
 
 Read the product definition first: `compass-product-definition.md`. Every interface beat below comes from it.
+
+**On the third character.** She was a beginner illustrator with a pencil and a sketchbook until 28 September, and she is a beginner to moderate painter at an easel now. That was the documented fallback in `world-building.md` from 1 August rather than a new idea, and the reasoning, including the one argument it costs us and the one it gains, is written up there. Nothing structural in the script moves: the same three shots in act one, the same three point-of-view beats in act two, the same closing frame of finished work in act three.
 
 ---
 
@@ -44,9 +46,9 @@ Three rooms, real Auckland interiors, morning light. Third person throughout. No
 
 **5.** CLOSE. Nothing. *(2s)*
 
-**6.** WIDE. A desk by a window. **The illustrator** has a sketchbook open on a half-finished drawing. Glasses on. *(3s)*
+**6.** WIDE. An easel by a window. **The painter** has a canvas on it, half finished. Glasses on. *(3s)*
 
-**7.** CLOSE. Nothing. She picks up the pencil. *(3s)*
+**7.** CLOSE. Nothing. She picks up the brush. *(3s)*
 
 *The rule, shown three times, before anyone knows it is a rule.*
 
@@ -71,13 +73,15 @@ Half of a phone call, off camera: *"yeah, two more and we're done."*
 > CAPTION: yeah, two more and we're done.
 *(4s)*
 
-**11.** POV, illustrator. Pencil moving on paper. As it moves, **a faint reference proportion appears beside the line she has just drawn**, in the working band where her hands are and never in the centre of the lens. It sits next to her line and never marks it as wrong. She lifts the pencil. **It fades out.** *(5s)*
+**11.** POV, painter. Brush moving on canvas. As it moves, **a faint reference proportion appears beside the line she has just laid down**, in the working band where her hands are and never in the centre of the lens. It sits next to her line and never marks it as wrong. She lifts the brush. **It fades out.** *(5s)*
 
 *The rule again, smaller. It responds to the work, not to the person.*
 
 **12.** POV, musician. Keys lighting ahead of her hands. She has found the phrase and she speeds up. *(4s)*
 
-**13.** POV, illustrator. **A reference card slides in from the left**, a source photograph of the pose she is drawing, with its source and date on it. Never another illustrator's finished version of the same subject, which is on the never-do list. She looks at it, looks back at her own page, keeps going. *(5s)*
+**13.** POV, painter. **A reference card slides in from the left**, a source photograph of the pose she is painting, with its source and date on it, in full colour because she is mixing paint against it. Never another painter's finished version of the same subject, which is on the never-do list. She looks at it, looks back at her own canvas, keeps going. *(5s)*
+
+*This beat got easier when she became a painter. Working from a photograph is completely normal for a painter, so the reference rule costs the scene nothing and reads as ordinary practice rather than as a rule being observed. It is also the shot where the full-colour reference layer stops being a legibility detail and starts being the point.*
 
 **14.** POV, photographer. **Top left, the reference images and the moodboard, three frames in full colour on glass.** He moves, reframes, shoots. *(4s)*
 
@@ -85,7 +89,7 @@ Half of a phone call, off camera: *"yeah, two more and we're done."*
 
 **15.** THIRD PERSON, close on the musician's face. She is properly into it now. No interface, we are outside her again. *(3s)*
 
-**16.** POV, illustrator. The pencil stops moving. **Everything on the lens fades out.** Just paper and a drawing. *(5s)*
+**16.** POV, painter. The brush stops moving. **Everything on the lens fades out.** Just canvas and paint. *(5s)*
 
 ---
 
@@ -97,7 +101,7 @@ Third person. The work exists. The device does not.
 
 **18.** The musician plays the last of the phrase and her hands stop. She takes them off. *(4s)*
 
-**19.** CLOSE. The illustrator's finished sketch, and her hands. No glasses in frame at all. *(4s)*
+**19.** CLOSE. The painter's finished painting, and her hands. No glasses in frame at all. *(4s)*
 
 ---
 
@@ -127,16 +131,26 @@ Third person. The work exists. The device does not.
 This is what makes the film shootable in a week. It splits the interface into two kinds, and only one of them is difficult.
 
 **Fixed to the wearer's view. No tracking at all.** The graphic sits on the frame in post, because on real heads-up glasses these elements move with your head anyway.
-Shots 9, 10, 13, 14. The photographer's last photo on the right and his checklist top right, the illustrator's reference card, and the photographer's references and moodboard top left. Every one of the photographer's elements is fixed to his view wherever it sits on the lens, so the move on 16 September changes where the graphic lands on the frame and nothing at all about how the shot gets filmed.
+Shots 9, 10, 13, 14. The photographer's last photo on the right and his checklist top right, the painter's reference card, and the photographer's references and moodboard top left. Every one of the photographer's elements is fixed to his view wherever it sits on the lens, so the move on 16 September changes where the graphic lands on the frame and nothing at all about how the shot gets filmed.
 **Shoot these however you like, handheld and alive.**
 
 **Anchored to something in the world. Needs tracking.** The graphic has to stay stuck to an object.
-Shots 8, 11, 12, 16. The piano keys and the proportion guide over the drawing.
-**Every one of these is a static subject at a piano or a desk, so mount or lock the camera for those setups even inside a point-of-view sequence.** That is four setups, not twenty.
+Shots 8, 11, 12, 16. The piano keys and the proportion guide over the canvas.
+**Every one of these is a static subject at a piano or an easel, so mount or lock the camera for those setups even inside a point-of-view sequence.** That is four setups, not twenty.
+
+**The change of character on 28 September does not touch any of this.** A painter at an easel is as static a subject as an illustrator at a desk, so the two kinds of element and the four locked setups are exactly as they were. What it does change is the room and where the locked-off camera goes, because an easel is not a desk: the canvas stands close to upright in front of her rather than lying flat under her, so the point-of-view shots look roughly level at it instead of looking about 45 degrees down at a page.
 
 **No interface at all.** Shots 1 to 7, 15, 17 to 21. Half the film.
 
 ---
+
+### One thing the painter changes about the shoot itself
+
+The 1 August reasoning that picked an illustrator said in as many words that a half-finished pencil sketch is cheap to produce at any stage of progress, unlike a painting. That was right, and with a painter it becomes a real continuity problem rather than a small one, because a canvas cannot be un-painted between takes the way graphite can be rubbed out and laid down again.
+
+**The answer is to shoot her scene in story order in one continuous session**, so the canvas goes from half finished in shot 6 to finished in shot 19 the way it actually would, and the progress on it is genuine rather than reset. In practice that means her setups do not get revisited later in the day or picked up on another day, a take that has to be repeated gets repeated before the next brushstroke rather than after it, and whoever is painting knows before the camera rolls roughly how far along the canvas has to be at each point the film sees it, which is shots 6 and 7, then 11, then 13, then 16, then 19.
+
+It is worth putting her session early enough in the shoot week that a lost one can still be re-run on a fresh canvas.
 
 ## Poster hero shot candidates
 
@@ -153,5 +167,8 @@ Shoot stills on these, on a stills camera, alongside the video.
 1. **The cold open stat.** In or out. It does real work for the capstone and it is the least launch-film thing in the piece. My recommendation is shoot the film without it, build it in the edit, and decide on the timeline where you can actually feel it.
 2. **The end line.** "Compass does not create. You do." resolves the Create Labs name in five words. Alternatives if it reads too neat: "You make it. Compass helps." or just the wordmark and nothing.
 3. **Casting.** Three people, varied in age, gender and background so the trio does not read as three versions of the same person. Friends and family only.
-4. **Locations.** A bedroom with a keyboard, a garage or small studio, a desk by a window. All three are rooms you can probably get access to this week.
+4. **Locations.** A bedroom with a keyboard, a garage or small studio, an easel by a window. All three are rooms you can probably get access to this week.
 5. **Music.** Licensed, chosen before the storyboard is timed, because the cutting rhythm is the music's rhythm.
+6. **Standing at a floor easel or seated at a table easel.** Open since the character changed on 28 September, and it is not a detail: it sets the camera height for shots 6 and 7 and how far down the point of view in shots 11, 13 and 16 is angled. The previs prompts are written for the seated version because that is what the room already was, so if she stands, every height and down angle in that file moves.
+7. **Which paint.** Also open since 28 September. It decides how wet the canvas reads on camera, how quickly a stage of progress sets, and how forgiving a repeated take is, which all feed the story-order shooting note above.
+8. **Whether colour gets its own shot.** Colour moved to the centre of the painter's interface on 28 September, and the script has no beat that shows it: shot 13 carries the full-colour reference card, but nothing shows the colours read out of that reference sitting beside what is on her palette. Either that is fine and the reference card carries it, or the painter's strongest feature never appears on screen. Worth a decision rather than a drift.

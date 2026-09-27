@@ -1,5 +1,7 @@
 # Call with Josiah, Tuesday 15 September
 
+> **Note added 28 September 2026.** This is the prep as it stood on 15 September, so it still says illustrator and a desk by a window. The third character is a beginner to moderate painter at an easel now (ruled 28 September, reasoning in `concept-notes/world-building.md`), which moves two of the five asks: the casting ask is for a painter, and the third location is an easel by a window rather than a desk by a window.
+
 He's a creative director and director, and the reason for the call is casting. Casting is the smallest thing he could give you.
 
 ---

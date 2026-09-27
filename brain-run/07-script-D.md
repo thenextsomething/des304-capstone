@@ -13,6 +13,17 @@ named extensions in section 7. Blind run: `concept-notes/film-script-v1.md`, the
 Higgsfield prompt files and the board frame carrying the film's structure were not
 opened at any point in this session._
 
+**Superseded on the third character, 28 September 2026.** This file is the
+record of a pipeline run made on 16 September and it is not being rewritten.
+Wherever it says illustrator, pencil, sketchbook, paper or graphite, the third
+wearer is now a beginner to moderate painter at an easel, with a brush, a canvas
+and paint. Polo ruled that on 28 September, and it is the fallback
+`concept-notes/world-building.md` has carried in writing since 1 August rather
+than a new idea, so this is the project taking a documented option rather than
+changing its mind. Nothing else about the run changes. The live versions are
+`concept-notes/world-building.md`, `concept-notes/compass-product-definition.md`
+and `concept-notes/film-script-v1.md`.
+
 ---
 
 ## 0. Read this before the script

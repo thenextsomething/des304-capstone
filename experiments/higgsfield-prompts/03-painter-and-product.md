@@ -1,8 +1,18 @@
-# Higgsfield prompts 03: the illustrator, and the product
+# Higgsfield prompts 03: the painter, and the product
+
+> **The third character changed on 28 September 2026, and part one of this file was rewritten the same day. The file was renamed with it.**
+>
+> She is a beginner to moderate painter at an easel by the window now, not a beginner illustrator at a desk. That is the fallback `concept-notes/world-building.md` has carried in writing since 1 August rather than a new idea, and the reasoning is there, both what the change costs and what it gains. Every prompt in part one has been rewritten: brush for pencil, canvas for page and paper, paint for graphite, an easel for the desk. Part two, the four product beauty shots, is untouched, because none of it involves her.
+>
+> **Two things the change leaves open, and neither is settled here.** Whether she works standing at a floor easel or seated at a table easel, which sets the camera height and how far down the point of view looks. And which paint she uses, which decides how wet the canvas reads and how forgiving a repeated take is. **The prompts below are written for the seated version**, because that is what the room already was, so if she stands then every height and every down angle in this file moves.
+>
+> **One thing that is still wrong here and is not fixed by this pass.** The interface block below still describes the sparse warm-white mark language from before 16 September, and Compass is a translucent glass panel interface now. `concept-notes/compass-product-definition.md` wins on that, the same as it does at the top of file 02.
+>
+> **And one gap worth naming.** Colour moved to the centre of the painter's interface on 28 September, and there is no prompt in this file that generates it and no shot in the script that shows it. Prompt 5's reference card is the closest thing to it.
 
 > **Read this first, added 14 September after a consistency pass across all three files.**
 >
-> **The interface colour is now pinned in `concept-notes/compass-product-definition.md` and that file wins over anything below.** Warm white is the base, and the signal blue is reserved for whatever Compass is actively offering in that moment (the keys lighting ahead, the guide while the pencil moves, the frame that just appeared). Everything else on the lens stays warm white. The reference layer is the exception and stays full colour. Where a prompt below says warm white for an active element, add the blue to that element only.
+> **The interface colour is now pinned in `concept-notes/compass-product-definition.md` and that file wins over anything below.** Warm white is the base, and the signal blue is reserved for whatever Compass is actively offering in that moment (the keys lighting ahead, the guide while the brush moves, the frame that just appeared). Everything else on the lens stays warm white. The reference layer is the exception and stays full colour. Where a prompt below says warm white for an active element, add the blue to that element only.
 >
 > **The light reading sits top right, underneath the shot checklist**, matching the interface anatomy diagram on the Miro board. An earlier draft of file 02 put it lower left, which was a reasonable call made without sight of the board, and it is wrong.
 >
@@ -10,7 +20,7 @@
 
 
 
-Written 14 September 2026. Ten paste-ready prompts covering the third character (the illustrator, pencil and sketchbook at a desk by a window) and the Compass object itself.
+Written 14 September 2026, part one rewritten 28 September 2026. Ten paste-ready prompts covering the third character (the painter, brush and canvas at an easel by a window) and the Compass object itself.
 
 **What these are for, and the hard rule.** These generate **concept and ideation material only**. They exist so people can see the vision before the shoot: pitch cuts, a previs reel, a look at whether a beat holds, something to put in front of a tutor or a collaborator. They are not the film. The film is real footage of real people in real Auckland rooms, with the Compass interface composited on in After Effects, exactly as the compositing plan in `film-script-v1.md` sets out. Nothing generated from this file gets cut into the final piece, and nothing generated from this file goes anywhere near the A1 posters. See the logging note at the bottom, which is not optional.
 
@@ -34,7 +44,7 @@ Checked against Higgsfield's current roster, September 2026. The roster moves, s
 
 **When you run image-to-video, describe only the motion.** Do not re-describe the still. The still is already the still. Every prompt below is written for text-to-video, so when you use one as an image-to-video prompt, keep the paragraph that describes what happens and drop the paragraphs that describe the room and the object.
 
-**Generate short.** Five to eight seconds. All of these models will run to fifteen, and all of them start reorganising hands and graphite marks somewhere after eight.
+**Generate short.** Five to eight seconds. All of these models will run to fifteen, and all of them start reorganising hands and brush marks somewhere after eight.
 
 ---
 
@@ -62,24 +72,26 @@ Append to every prompt.
 
 ---
 
-# Part one: the illustrator
+# Part one: the painter
 
-She is a beginner, which matters. The drawing on the page is a half-finished amateur pencil sketch, not a masterpiece and not a photorealistic rendering. Everything the interface does has to read as helping a person who is already drawing.
+She is beginner to moderate, which matters. The painting on the canvas is half finished and amateur, not a masterpiece and not a photorealistic rendering. Everything the interface does has to read as helping a person who is already painting.
+
+**One continuity note that is not about the models at all.** A canvas cannot be un-painted between takes the way a sketch can be rubbed out, so on the real shoot her scene runs in story order in one continuous session and the progress on the canvas is genuine. That is written up in the compositing plan in `concept-notes/film-script-v1.md`. It does not change how anything below gets generated, but every still you approve has to be describable as one stage of one real canvas rather than as four different paintings.
 
 ---
 
-## Prompt 1 - the desk by the window [shot 6]
+## Prompt 1 - the easel by the window [shot 6]
 
 **Proving:** the room, the light and the world rule in one frame. She puts Compass on and nothing happens, and the audience does not yet know that is the point.
 **Model:** Veo 3.1. **Length:** 6 seconds.
 
-> A locked-off wide shot. The camera sits on sticks at seated eye height, roughly two and a half metres back and slightly off her left shoulder, so the window falls across the frame and the desk sits in the lower third. 32mm spherical prime at T2.8: the room reads clearly and the far wall softens. The camera does not move at all. No push in, no drift, no handheld float, no rack focus, no reframe.
+> A locked-off wide shot. The camera sits on sticks at seated eye height, roughly two and a half metres back and slightly off her left shoulder, so the window falls across the frame and the easel sits in the lower third. 32mm spherical prime at T2.8: the room reads clearly and the far wall softens. The camera does not move at all. No push in, no drift, no handheld float, no rack focus, no reframe.
 >
-> Late summer, mid-morning, Auckland, New Zealand. The only light is daylight through a timber sash window directly in front of the desk, high and clear and slightly blue, throwing a hard-edged rectangle of sun across the open sketchbook and onto the floorboards. A hedge and a corrugated iron roofline sit just outside the glass, slightly blown out. No lamps on. The only fill is bounce off an off-white wall to camera left, so her far side falls into soft shadow.
+> Late summer, mid-morning, Auckland, New Zealand. The only light is daylight through a timber sash window directly in front of the easel, high and clear and slightly blue, throwing a hard-edged rectangle of sun across the canvas and onto the floorboards. A hedge and a corrugated iron roofline sit just outside the glass, slightly blown out. No lamps on. The only fill is bounce off an off-white wall to camera left, so her far side falls into soft shadow.
 >
-> A woman in her late twenties sits at a plain rimu desk pushed up under the window. She wears a heavy oversized marle grey cotton sweatshirt with no logo, dark straight-leg jeans, thick wool socks and no shoes. Hair tied up and out of the way. On the desk: an A4 sketchbook open flat on a half-finished pencil sketch, a jar of pencils, a kneadable eraser, a chipped ceramic mug, a very thin closed laptop pushed to the back edge with a single cable running off it, a phone lying face down. A leggy houseplant on the floor beside the desk. The room is an ordinary Auckland villa bedroom used as a work space: scrim-lined walls in aged off-white, native timber floorboards, a half-height bookshelf at the edge of frame, one unframed print taped to the wall. Lived in, a little untidy, not styled.
+> A woman in her late twenties sits at a wooden table easel set up on a plain rimu table pushed under the window, the canvas standing close to upright in front of her. She wears a heavy oversized marle grey cotton sweatshirt with no logo, dark straight-leg jeans, thick wool socks and no shoes. Hair tied up and out of the way. On the easel: a stretched canvas about A3 size carrying a half-finished amateur painting. On the table beside it: a palette with mixed paint on it, a jar of brushes standing upright, a paint-marked rag, a chipped ceramic mug, a very thin closed laptop pushed to the back edge with a single cable running off it, a phone lying face down. A leggy houseplant on the floor beside the table. The room is an ordinary Auckland villa bedroom used as a work space: scrim-lined walls in aged off-white, native timber floorboards, a half-height bookshelf at the edge of frame, one unframed print taped to the wall. Lived in, a little untidy, not styled.
 >
-> She reaches to the side without looking, picks up a pair of plain black glasses and puts them on with one hand, then settles her shoulders and looks down at the page. [GLASSES BLOCK] Nothing happens. The lenses stay completely clear. There is no light on her face from the glasses, no reflection in the lenses, no interface, no glow, no indicator, nothing switching on. The room stays exactly as it was. She just sits there looking at her drawing.
+> She reaches to the side without looking, picks up a pair of plain black glasses and puts them on with one hand, then settles her shoulders and looks at the canvas. [GLASSES BLOCK] Nothing happens. The lenses stay completely clear. There is no light on her face from the glasses, no reflection in the lenses, no interface, no glow, no indicator, nothing switching on. The room stays exactly as it was. She just sits there looking at her painting.
 >
 > [NEGATIVE BLOCK]
 
@@ -94,7 +106,7 @@ She is a beginner, which matters. The drawing on the page is a half-finished ama
 >
 > Mid-morning Auckland daylight from a timber sash window just off camera right, three quarters front, clear and slightly blue, modelling one side of her face and leaving the other in open shadow. A soft blown-out rectangle of window sits far behind her, well out of focus. No fill card, no rim light, no practical lamps.
 >
-> She is wearing a pair of plain black glasses. [GLASSES BLOCK] She is looking down and slightly off camera at a page we cannot see. She blinks once, breathes out, and her eyes move very slightly as she reads her own drawing. Then her hand comes up into the bottom of frame and she picks up a pencil. That is the entire action.
+> She is wearing a pair of plain black glasses. [GLASSES BLOCK] She is looking slightly off camera at a canvas we cannot see. She blinks once, breathes out, and her eyes move very slightly as she reads her own painting. Then her hand comes up into the bottom of frame and she picks up a brush. That is the entire action.
 >
 > The lenses are completely clear the whole time. No interface, no glow, no light on her face from the glasses, no coloured reflection, no shimmer, no faint pattern in the glass. The lenses behave exactly like ordinary prescription lenses and show only the soft reflection of the window.
 >
@@ -104,80 +116,82 @@ She is a beginner, which matters. The drawing on the page is a half-finished ama
 
 ## Prompt 3 - the guides wake [shot 11]
 
-**Proving:** the interface responds to the work, not to the person. The lens is empty until the pencil is actually moving.
+**Proving:** the interface responds to the work, not to the person. The lens is empty until the brush is actually moving.
 **Model:** Veo 3.1 for variant A, Kling 3.0 for B and C. **Length:** 5 to 6 seconds.
 **Note:** this is an anchored-tracking shot in the compositing plan, so the camera is locked in the real shoot too. Generate variant A first. It is the one that is actually useful.
 
 **Variant A, clean plate. This is the one you will use most.**
 
-> A first-person point of view looking down at a sketchbook on a desk, camera at head height, angled about 45 degrees down, the page filling the middle two thirds of frame and the desk edge and her knees just visible at the bottom. 35mm at T4, so the whole page holds focus and the room behind goes soft. The camera is completely locked. No head sway, no handheld float, no drift, no zoom, no reframe. It is a mounted point of view, not a body-worn one.
+> A first-person point of view looking at a canvas on an easel, camera at head height, angled only about 15 degrees down because the canvas stands close to upright in front of her, the canvas filling the middle two thirds of frame and the easel tray and her knees just visible at the bottom. 35mm at T4, so the whole canvas holds focus and the room behind goes soft. The camera is completely locked. No head sway, no handheld float, no drift, no zoom, no reframe. It is a mounted point of view, not a body-worn one.
 >
-> Late summer mid-morning Auckland daylight from a timber sash window directly ahead and slightly above, raking across the page from the top of frame so the paper is bright at the top and falls off toward the bottom. The pencil throws a real hard-edged shadow across the paper. No other light.
+> Late summer mid-morning Auckland daylight from a timber sash window directly ahead and slightly above, raking across the canvas from the top of frame so it is bright at the top and falls off toward the bottom. The brush throws a real hard-edged shadow across the canvas. No other light.
 >
-> Her right hand enters from the bottom right of frame holding a graphite pencil in a loose ordinary grip, most of the hand below the frame line, wrist resting on the page. On the paper is a half-finished pencil sketch of a seated figure, loose amateur construction lines, a few areas worked up and most of it still blank. She draws one continuous unhurried stroke down the side of the figure, lifts, and draws a second shorter one. Her left hand stays flat on the opposite page holding it down. A jar of pencils and a chipped ceramic mug sit out of focus at the top edge.
+> Her right hand enters from the bottom right of frame holding a brush in a loose ordinary grip, most of the hand below the frame line. On the canvas is a half-finished amateur painting of a seated figure, loose blocking-in, a few areas worked up and most of the canvas still bare. She lays one continuous unhurried stroke down the side of the figure, lifts, and lays a second shorter one. Her left hand holds a palette at the bottom left edge of frame. A jar of brushes and a chipped ceramic mug sit out of focus at the edge of frame.
 >
-> The lens is completely empty. Nothing is overlaid on the page, nothing appears in the air above it, no light falls on the paper except daylight.
+> The lens is completely empty. Nothing is overlaid on the canvas, nothing appears in the air in front of it, no light falls on the canvas except daylight.
 >
 > [NEGATIVE BLOCK]
 
 **Variant B, with the guides attempted.** Same prompt, with this paragraph inserted before the negative block. Expect the model to get the behaviour roughly right and the line quality wrong, which is fine for a pitch cut.
 
-> As the pencil begins to move, three or four very faint warm white lines fade up over the drawing: a soft vertical, a soft horizontal and one long diagonal running to a point off the page, like the thinnest possible pencil construction lines drawn in light rather than graphite. They are barely there, one hairline weight, no arrowheads, no ticks, no measurements, no labels, no numbers, no boxes, no borders. They sit flat on the paper and stay locked to it. They fade up over about half a second as the pencil starts moving and hold steady while it keeps moving. They never cover the centre of the page, and they are so quiet you could miss them.
+> As the brush begins to move, three or four very faint warm white lines fade up over the painting: a soft vertical, a soft horizontal and one long diagonal running to a point off the canvas, like the thinnest possible construction lines drawn in light rather than in paint. They are barely there, one hairline weight, no arrowheads, no ticks, no measurements, no labels, no numbers, no boxes, no borders. They sit flat on the canvas and stay locked to it. They fade up over about half a second as the brush starts moving and hold steady while it keeps moving. They never cover the centre of the canvas, and they are so quiet you could miss them.
 
-**Variant C, the visual weight nudge.** Same as variant A, with this paragraph instead. This is the third illustrator feature in the product definition and it does not have its own shot in the script, so this is where you test it.
+**Variant C, the visual weight nudge.** Same as variant A, with this paragraph instead. It is one of the recommendation-stack items in the product definition and it does not have its own shot in the script, so this is where you test it.
 
-> As the pencil moves, a single short line of very small warm white text fades up in the top left corner of frame, well away from the drawing and well away from the centre. It floats on its own with no panel behind it, no box, no border, no underline, no icon and no background. One line only, one light weight, unobtrusive. It fades up slowly and sits still.
+> As the brush moves, a single short line of very small warm white text fades up in the top left corner of frame, well away from the painting and well away from the centre. It floats on its own with no panel behind it, no box, no border, no underline, no icon and no background. One line only, one light weight, unobtrusive. It fades up slowly and sits still.
 
 ---
 
-## Prompt 4 - the pencil stops, and everything goes [shot 16]
+## Prompt 4 - the brush stops, and everything goes [shot 16]
 
 **This is the second most important beat in the film.** The whole product argument gets restated here without anyone saying a word: the help was never hers to keep, it belonged to the work, and the moment the work pauses the lens is empty again. It has to feel like the room got quieter.
 
 **Proving:** the rule, from the other direction. Shot 11 shows the interface arriving because she started. This shows it leaving because she stopped.
 **Model:** Kling 3.0. **Length:** 7 seconds, and let it hold. The hold after the fade is the beat.
 
-**The direction, so the generation is judged against the right thing.** The fade happens in about 300 milliseconds, which is roughly seven frames. Fast enough that it is clearly a response and not a timer, slow enough that it is a fade and never a cut. Everything leaves at once. There is no last element hanging on, no sequence, no staggered exit, no acknowledgement, no confirmation. And then the shot keeps running on paper and graphite alone for a good two seconds longer than feels comfortable, because the emptiness is the point and the audience needs time to notice it.
+**The direction, so the generation is judged against the right thing.** The fade happens in about 300 milliseconds, which is roughly seven frames. Fast enough that it is clearly a response and not a timer, slow enough that it is a fade and never a cut. Everything leaves at once. There is no last element hanging on, no sequence, no staggered exit, no acknowledgement, no confirmation. And then the shot keeps running on canvas and paint alone for a good two seconds longer than feels comfortable, because the emptiness is the point and the audience needs time to notice it.
 
 No video model will land seven frames on cue. Generate this to sell the feeling in a pitch. Shoot it for real and do the fade in After Effects, where you can actually feel the timing on the timeline.
 
 **Variant A, the version that gets used. Clean plate, for compositing.**
 
-> A first-person point of view looking down at a sketchbook on a desk, camera at head height, angled about 45 degrees down, the page filling the middle two thirds of frame. 35mm at T4, the whole page in focus, the room behind soft. The camera is completely locked and does not move, drift, sway, zoom or reframe at any point.
+> A first-person point of view looking at a canvas on an easel, camera at head height, angled only about 15 degrees down because the canvas stands close to upright in front of her, the canvas filling the middle two thirds of frame. 35mm at T4, the whole canvas in focus, the room behind soft. The camera is completely locked and does not move, drift, sway, zoom or reframe at any point.
 >
-> Late summer mid-morning Auckland daylight from a timber sash window directly ahead and above, raking down the page from the top of frame, bright at the top and falling away toward the bottom. The pencil casts a hard-edged shadow on the paper.
+> Late summer mid-morning Auckland daylight from a timber sash window directly ahead and above, raking down the canvas from the top of frame, bright at the top and falling away toward the bottom. The brush casts a hard-edged shadow on the canvas.
 >
-> Her right hand is already in frame at the bottom right, holding a graphite pencil, wrist resting on the page, mid-stroke on a half-finished pencil sketch of a seated figure: loose amateur construction lines, some areas worked up, plenty of the page still blank. She finishes the stroke she is on. The pencil slows, comes to rest, and she lifts it two or three centimetres clear of the paper and holds it there, still, thinking. Her hand does not leave frame. Her wrist stays down. Nothing else in the room moves.
+> Her right hand is already in frame at the bottom right, holding a brush, mid-stroke on a half-finished amateur painting of a seated figure: loose blocking-in, some areas worked up, plenty of the canvas still bare. She finishes the stroke she is on. The brush slows, comes to rest, and she lifts it two or three centimetres clear of the canvas and holds it there, still, thinking. Her hand does not leave frame. Nothing else in the room moves.
 >
-> The shot holds on the paper and the drawing and the resting pencil for a long beat. Just paper, graphite, daylight, and a hand not moving.
+> The shot holds on the canvas and the painting and the resting brush for a long beat. Just canvas, paint, daylight, and a hand not moving.
 >
 > [NEGATIVE BLOCK]
 
 **Variant B, with the fade attempted.** Same prompt, with this inserted after the paragraph about the stroke.
 
-> While the pencil is moving, a few very faint warm white hairlines lie over the drawing: a soft vertical, a soft horizontal and one long diagonal, flat on the paper, locked to it, no arrowheads, no labels, no numbers, no boxes. The instant the pencil comes to rest, all of them fade out together, quickly and completely and at the same moment. Nothing stays behind. Nothing flashes, blinks, pulses, contracts, slides away or animates off. There is no confirmation, no icon, no final element, no trace. They are simply gone, and the page is only paper and pencil marks.
+> While the brush is moving, a few very faint warm white hairlines lie over the painting: a soft vertical, a soft horizontal and one long diagonal, flat on the canvas, locked to it, no arrowheads, no labels, no numbers, no boxes. The instant the brush comes to rest, all of them fade out together, quickly and completely and at the same moment. Nothing stays behind. Nothing flashes, blinks, pulses, contracts, slides away or animates off. There is no confirmation, no icon, no final element, no trace. They are simply gone, and the canvas is only canvas and paint.
 
 **Variant C, the wider one, in case the beat plays better from outside her.** Worth generating once for comparison.
 
-> A static medium shot from the side, camera at desk height about a metre and a half away, profile on. 50mm at T2.0, her hands and the page sharp, her face soft in the background, the window blown out behind her. The camera is locked and does not move.
+> A static medium shot from the side, camera at easel height about a metre and a half away, profile on. 50mm at T2.0, her hands and the canvas sharp, her face soft in the background, the window blown out behind her. The camera is locked and does not move.
 >
-> She finishes a stroke, lifts the pencil clear of the paper and stops, holding still. The very faint warm white lines on the page fade out completely the moment she stops. Her expression does not change. She does not look up, nod, smile or react. She just sits with the pencil up, looking at what she has drawn, and the shot holds.
+> She finishes a stroke, lifts the brush clear of the canvas and stops, holding still. The very faint warm white lines on the canvas fade out completely the moment she stops. Her expression does not change. She does not look up, nod, smile or react. She just sits with the brush up, looking at what she has painted, and the shot holds.
 
 ---
 
 ## Prompt 5 - the reference card [shot 13]
 
-**Proving:** the one full-colour element in the whole interface language, and the one that shows Compass handing her someone else's work as a reference rather than as an answer.
+**Proving:** the one full-colour element in the whole interface language, and since 28 September the load-bearing one, because for a painter colour is the work rather than a legibility detail. It also shows what her reference is allowed to be.
 **Model:** Kling 3.0. **Length:** 6 seconds.
-**Note:** this is a fixed-to-view element in the compositing plan, so it needs no tracking. That means the real shoot can be handheld and alive here, and it also means the AI version only ever has to suggest it. **The artist name and year will come out as gibberish. Do not fight it.** Leave the text out of the prompt entirely, generate the card as a full-colour image sliding in, and put the real name and year on in After Effects.
+**Note:** this is a fixed-to-view element in the compositing plan, so it needs no tracking. That means the real shoot can be handheld and alive here, and it also means the AI version only ever has to suggest it. **The source and date will come out as gibberish. Do not fight it.** Leave the text out of the prompt entirely, generate the card as a full-colour image sliding in, and put the real source and date on in After Effects.
 
-> A first-person point of view at a desk, camera at head height, angled down about 40 degrees. The sketchbook sits in the lower right of frame, so the left side of the view is open: the desk edge, a jar of pencils, the base of the window and a slice of the room. 35mm at T2.8, the page sharp, the room behind soft. Very slight natural head movement is allowed here, a few degrees of drift only. No zoom, no push, no whip.
+**Corrected 28 September 2026, and this one was wrong before the character changed.** The card in the 14 September version of this prompt was an old chalk figure drawing, described in as many words as somebody else's finished work, and the ruling of 27 September puts that out of bounds: her reference is a source photograph, a posing reference or her own earlier work, and never somebody else's finished version of the same subject. The card below is a source photograph, which is also what shot 13 in the script says it is.
+
+> A first-person point of view at an easel, camera at head height, angled down only about 15 degrees because the canvas stands close to upright. The canvas sits in the right of frame, so the left side of the view is open: the edge of the easel, a jar of brushes, the base of the window and a slice of the room. 35mm at T2.8, the canvas sharp, the room behind soft. Very slight natural head movement is allowed here, a few degrees of drift only. No zoom, no push, no whip.
 >
-> Late summer mid-morning Auckland daylight from a timber sash window ahead and above, raking down across the desk. Hard-edged shadows. No other light.
+> Late summer mid-morning Auckland daylight from a timber sash window ahead and above, raking down across the easel. Hard-edged shadows. No other light.
 >
-> Her right hand rests at the bottom of frame holding a pencil, not moving. On the page is a half-finished amateur pencil sketch of a seated figure. From the far left edge of frame, a small rectangular card fades and eases in toward the left third of the view and stops. The card holds a single full-colour image: an old figure drawing in red and brown chalk on toned paper, clearly someone else's finished work from another century. It is the only colour in the interface and it is warm and a little faded. It sits flat, small, about a sixth of the frame width, with a plain edge and no frame, no border, no panel, no shadow, no caption, no text of any kind. The centre of the frame stays completely empty.
+> Her right hand rests at the bottom of frame holding a brush, not moving. On the canvas is a half-finished amateur painting of a seated figure. From the far left edge of frame, a small rectangular card fades and eases in toward the left third of the view and stops. The card holds a single full-colour image: an ordinary photograph of a person sitting in the same pose she is painting, the kind of reference shot anybody would take themselves. It is the only colour in the interface and the colour in it is accurate and unaltered, because she is mixing paint against it. It sits flat, small, about a sixth of the frame width, with a plain edge and no frame, no border, no panel, no shadow, no caption, no text of any kind. The centre of the frame stays completely empty.
 >
-> She glances left at the card for a moment, then looks back down at her own page and starts drawing again. The card stays where it is, quietly, off to the side.
+> She glances left at the card for a moment, then looks back at her own canvas and starts painting again. The card stays where it is, quietly, off to the side.
 >
 > [NEGATIVE BLOCK]
 
@@ -185,17 +199,17 @@ No video model will land seven frames on cue. Generate this to sell the feeling 
 
 ## Prompt 6 - the profile, poster hero candidate
 
-**Proving:** a person using the product in context, which is exactly what the poster brief asks a hero shot to do. Not in the script, but the illustrator's equivalent of the musician value shot.
+**Proving:** a person using the product in context, which is exactly what the poster brief asks a hero shot to do. Not in the script, but the painter's equivalent of the musician value shot.
 **Model:** Kling 3.0 at 4K, and generate the still in Soul 2.0 first. **Length:** 5 seconds.
 **Use:** previs and the landing page only. Not the posters. See the logging note.
 
-> A static medium close-up in profile, camera at desk height about a metre and a half to her left, looking across at her against the window. 50mm at T2.0. She is sharp, the window behind her is blown out and completely soft. The camera is locked and does not move at all.
+> A static medium close-up in profile, camera at easel height about a metre and a half to her left, looking across at her against the window. 50mm at T2.0. She is sharp, the window behind her is blown out and completely soft. The camera is locked and does not move at all.
 >
 > Late summer mid-morning Auckland daylight coming through a timber sash window directly behind her and slightly off, so she is backlit and rimmed along the edge of her face, her cheek and jaw lifted by bounce off an off-white wall behind the camera. The light is clear and slightly blue. The window frame reads as a soft bright rectangle. No fill, no lamps, no rim light other than the window.
 >
-> She is sitting at the desk in a heavy oversized marle grey sweatshirt with no logo, hair tied up, leaning slightly forward over a sketchbook, drawing. We see the side of her face, her glasses in clean profile, and the top edge of the page. [GLASSES BLOCK] Because we are looking at her from the side, the very thin temple runs in a clean straight line from the rim back past her eye to her ear, with nothing on it: no housing, no bump, no port, no light, no seam. The lens is clear and catches a soft daylight reflection.
+> She is sitting at the easel in a heavy oversized marle grey sweatshirt with no logo, hair tied up, leaning slightly forward toward the canvas, painting. We see the side of her face, her glasses in clean profile, and the top edge of the canvas. [GLASSES BLOCK] Because we are looking at her from the side, the very thin temple runs in a clean straight line from the rim back past her eye to her ear, with nothing on it: no housing, no bump, no port, no light, no seam. The lens is clear and catches a soft daylight reflection.
 >
-> She draws, pauses, tilts her head a few degrees, and keeps going. Small, real, unperformed. She does not look at the camera and she does not smile.
+> She paints, pauses, tilts her head a few degrees, and keeps going. Small, real, unperformed. She does not look at the camera and she does not smile.
 >
 > [NEGATIVE BLOCK]
 
@@ -291,13 +305,13 @@ Four beauty shots. These feed the end card, the landing page, the press kit key 
 
 The failures that recur in AI video for exactly this kind of work, and what to do about each. Read this before you spend credits, not after.
 
-**Hands holding pencils.** The single worst case in this file. Fingers merge, a sixth digit appears halfway through, the pencil changes length, the grip reverses, or the pencil passes through the paper. Mitigations: frame so most of the hand sits below the bottom edge and only the fingertips and the pencil tip are in shot; keep the grip slightly soft rather than tack sharp; generate five seconds not fifteen; and work image-to-video from a still where you have already checked the hand. If a generation is going to fail, it usually fails after second six, so cut before then.
+**Hands holding brushes.** The single worst case in this file. Fingers merge, a sixth digit appears halfway through, the brush changes length, the grip reverses, or the brush passes through the canvas. Mitigations: frame so most of the hand sits below the bottom edge and only the fingertips and the brush tip are in shot; keep the grip slightly soft rather than tack sharp; generate five seconds not fifteen; and work image-to-video from a still where you have already checked the hand. If a generation is going to fail, it usually fails after second six, so cut before then.
 
-**Drawings that change between frames.** Graphite marks quietly reorganise themselves, and by the end of an eight second clip she has drawn something she never drew. Mitigations: keep the drawing small in frame or slightly defocused; never let a take run longer than you need; reuse the same approved still as the image input for every variant so the sketch stays identical across generations; and for any frame where the audience actually reads the drawing, use the real shoot. This is also why the half-finished sketch is described the same way in every prompt above.
+**Paintings that change between frames.** Brush marks quietly reorganise themselves, and by the end of an eight second clip she has painted something she never painted. Mitigations: keep the painting small in frame or slightly defocused; never let a take run longer than you need; reuse the same approved still as the image input for every variant so the canvas stays identical across generations; and for any frame where the audience actually reads the painting, use the real shoot. This is also why the half-finished painting is described the same way in every prompt above, and it is the generation-side twin of the continuity problem on the real shoot: neither a model nor a canvas will go backwards for you.
 
-**The model drawing a masterpiece.** Ask for a pencil sketch and you get a gallery-quality photorealistic portrait. She is a beginner. The words that hold it back are "half-finished", "loose amateur construction lines", "plenty of the page still blank". Keep them in.
+**The model painting a masterpiece.** Ask for a half-finished amateur painting and you get a gallery-quality photorealistic portrait. She is beginner to moderate. The words that hold it back are "half-finished", "loose blocking-in", "plenty of the canvas still bare". Keep them in.
 
-**Text rendering.** Every model in the set produces gibberish letterforms, and Compass's interface language is built on type. The artist name and year on the reference card, the visual weight nudge, the end card: none of them survive generation. Do not ask for legible words anywhere. Generate the plate clean and comp the type. Where a prompt above does mention text, it deliberately does not say what the text says, because the point is the placement and the weight, not the words.
+**Text rendering.** Every model in the set produces gibberish letterforms, and Compass's interface language is built on type. The source and date on the reference card, the visual weight nudge, the end card: none of them survive generation. Do not ask for legible words anywhere. Generate the plate clean and comp the type. Where a prompt above does mention text, it deliberately does not say what the text says, because the point is the placement and the weight, not the words.
 
 **Glasses that come out chunky.** The default mental model of smart glasses is thick acetate with a camera in the corner, and you will get it repeatedly. Kill it at the still stage in Soul 2.0, which is cheap, rather than after a video render, which is not. The words that do the work: thin, wire-gauge, titanium, three millimetres deep, optical frame, optometrist. The words that must be absent: smart, AR, wearable, headset, tech, futuristic, device.
 
@@ -305,7 +319,7 @@ The failures that recur in AI video for exactly this kind of work, and what to d
 
 **Visible electronics.** This is the Halo failure and it is a design argument as much as a look. Nothing in the arm. No ports, no contacts, no mesh, no translucent section, no circuitry, no thickening toward the ear.
 
-**Anything that makes the device look like it is doing the drawing.** The most important item on this list, because it breaks the one rule the entire project stands on. No line appearing on the paper by itself. No beam or projection onto the page. No image forming, resolving, materialising or completing. No preview of a finished version. No glow emanating from the glasses onto the work. Nothing arrives before her hand moves, ever. If a generation shows the interface waiting for her, or shows the page changing without the pencil, it is wrong even if it is pretty, and it is exactly the frame that would get quoted back at you.
+**Anything that makes the device look like it is doing the painting.** The most important item on this list, because it breaks the one rule the entire project stands on. No mark appearing on the canvas by itself. No beam or projection onto the canvas. No image forming, resolving, materialising or completing. No preview of a finished version. No glow emanating from the glasses onto the work. Nothing arrives before her hand moves, ever. If a generation shows the interface waiting for her, or shows the canvas changing without the brush, it is wrong even if it is pretty, and it is exactly the frame that would get quoted back at you.
 
 **The drifting push-in.** Every model adds a slow zoom you did not ask for. Saying "static" once is not enough, which is why the prompts above say it three different ways and the negative block says it again.
 
@@ -313,7 +327,7 @@ The failures that recur in AI video for exactly this kind of work, and what to d
 
 **Generic American interiors.** Drywall, double-hung sash-free windows, beige carpet, wall outlet plates, a ceiling fan, recessed downlights. The specific New Zealand alternatives are in the house look: timber sash window with glazing bars, scrim-lined walls, native timber floorboards, corrugated iron, a hedge. Also worth protecting: shoes off indoors, and light that is clear and slightly blue rather than golden. American AI video is relentlessly golden-hour and Auckland mostly is not.
 
-**Over-styled sets and over-styled people.** A perfectly tidy desk, a matching stationery set, a model in her early twenties with immaculate skin. The room is lived in and a bit untidy, the mug is chipped, and the casting note in the world-building file is explicit that the three characters should not read as three versions of the same person.
+**Over-styled sets and over-styled people.** A perfectly tidy work area, a matching set of brand-new brushes with nothing on them, a model in her early twenties with immaculate skin. The room is lived in and a bit untidy, the mug is chipped, and the casting note in the world-building file is explicit that the three characters should not read as three versions of the same person.
 
 **The AI sheen.** Waxy skin, a plastic specular on everything, over-sharpened edges, a faint fisheye on wides. Fine grain and low contrast in the grade help. If a clip still looks synthetic, it is usually the skin, and the fix is a different model rather than a different prompt.
 
@@ -327,4 +341,4 @@ The failures that recur in AI video for exactly this kind of work, and what to d
 
 **Which means the real product shots have to be photographs.** The on-camera prop is one pair of plain black mock glasses, one copy only. Photograph those actual frames on a stills camera, under the same single hard directional light described in prompts 7 and 8, on the same day as the shoot while the setup is still standing. Everything in part two of this file is a lighting and framing rehearsal for that stills session, and that is genuinely its most valuable use: walk in knowing the angle, the light position and the surface, instead of working it out with the camera already on the tripod.
 
-**The poster hero shots follow the same rule.** They come from stills taken on the shoot, of real people in real rooms, or from royalty-free stock captioned and cited on the poster itself with the full citation in the visual project report. The illustrator prompts, including prompt 6, are previs and pitch material. They can go in a pitch deck, a previs reel, the landing page mockup process or the report as documented process work with the tool named. They cannot go on an A1.
+**The poster hero shots follow the same rule.** They come from stills taken on the shoot, of real people in real rooms, or from royalty-free stock captioned and cited on the poster itself with the full citation in the visual project report. The painter prompts, including prompt 6, are previs and pitch material. They can go in a pitch deck, a previs reel, the landing page mockup process or the report as documented process work with the tool named. They cannot go on an A1.
