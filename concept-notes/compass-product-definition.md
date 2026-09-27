@@ -2,6 +2,8 @@
 
 The single source of truth for what Compass is. Everything else gets built from this: the script, the interface design, the landing page, the press kit and the posters. Written 12 September 2026 from Polo's answers on the Capstone HQ page.
 
+**Five interface questions were ruled on 27 September 2026 by Polo**, and the rulings are written straight into the sections below rather than noted beside the old wording, so the shoot on 28 September builds off one version of the truth. The five: where the reference layer sits and what the bottom edge of the lens is for, how the empty centre is worded now that the illustrator looks down at her page, what the proportion marks on her drawing are allowed to say, who writes the photographer's shot checklist, and what her reference is allowed to be.
+
 **Compass** is a pair of AI glasses built for the moment you are making something.
 Made by **Create Labs**, Auckland, New Zealand. Launching 2028.
 
@@ -35,17 +37,18 @@ The empty middle state is the feature, not the absence of one. Every other produ
 
 - A reference layer: moodboards, previous work, and work a client liked, called up beside what you are making.
 - A customisable layer. You choose what appears, because every creative works differently. No two people's lenses look the same.
-- Nothing in the centre of your vision. Ever.
+- **Nothing is ever drawn in the centre of the lens, and Compass only marks the working band, where your hands already are.** Ruled 27 September 2026 by Polo, and it replaces the older wording, "nothing in the centre of your vision, ever". It is the same absolute rule and nothing got softened, but the old sentence could not be shot, because the illustrator is looking down at her page while she draws so the page is the centre of her vision and every guide line she gets would have broken the rule on screen. Written about the lens instead of about the eye, the rule holds: the centre of the lens stays empty, and the working band, the strip low in the lens where your hands and your work already are, is the only place Compass is allowed to put a mark.
 
 **For the photographer and videographer**
 
-- Top left, the reference images and the moodboard from the brief, including the work the client liked, sitting in full colour on translucent glass, because a reference photograph is no use in the wrong colours.
-- Top right, the shot checklist, warm white on a translucent panel, five items with three of them ticked, so he can see what he has taken and what he still owes without putting the camera down.
+- Top left, the reference images and the moodboard from the brief, including the work the client liked, sitting in full colour on translucent glass, because a reference photograph is no use in the wrong colours. **Top left was confirmed on 27 September 2026 by Polo**, which settles it against the two board frames that still run the layer along the bottom edge, and those frames are wrong and get corrected.
+- Top right, the shot checklist, warm white on a translucent panel, five items with three of them ticked, so he can see what he has taken and what he still owes without putting the camera down. **The checklist is the client's brief, loaded in by him, and Compass only ticks items off it and never writes it** (ruled 27 September 2026 by Polo). That is a bigger point than it looks, because a list Compass wrote would be Compass making something and the one rule would break on screen, and a list Compass only tracks is assistance in its purest form.
 - Right side, level with the middle of the frame, the last photo taken, a full colour photograph on glass carrying a signal blue light edge, because it is the thing Compass is actively offering him in that moment.
 - Left side, level with the middle of the frame, the settings, warm white, so what the camera is currently set to is always sitting there and he never has to drop his eye to the body to check it.
-- The centre of vision stays completely empty, the same as it does for the other two.
+- The bottom edge of the lens is left empty. **Compass leaves the bottom edge empty because it has nowhere to steer you** (ruled 27 September 2026 by Polo). Every other product in this category puts directional cues down there, and Compass has no directions to give anybody, so the space stays empty rather than getting handed to something else. That replaces the older claim that Compass gives the bottom edge to the reference layer, which stopped being true on 16 September the moment the layer came up to the top left, and it is the better argument anyway.
+- The centre of the lens stays completely empty, the same as it does for the other two.
 
-**The layout changed on 16 September 2026** along with the visual language, and it is a bigger move than it sounds, because the reference images and the moodboard used to run along the bottom edge of the lens and they have come up to the top left so the thing he is working toward sits where he looks first, and the settings have taken the left side level with the middle. What that displaces is the light reading and its small directional diagram, which used to sit directly underneath the shot checklist, and I have not decided yet whether it survives as its own element somewhere else on the lens or whether it just folds into the settings panel along with everything else the camera is currently set to, so treat it as open rather than cut.
+**The layout changed on 16 September 2026** along with the visual language, and it is a bigger move than it sounds, because the reference images and the moodboard used to run along the bottom edge of the lens and they have come up to the top left so the thing he is working toward sits where he looks first, and the settings have taken the left side level with the middle. What that displaces is the light reading and its small directional diagram, which used to sit directly underneath the shot checklist, and I have not decided yet whether it survives as its own element somewhere else on the lens or whether it just folds into the settings panel along with everything else the camera is currently set to, so treat it as open rather than cut. **Ruled 27 September 2026 by Polo:** the top left is confirmed, the two board frames still showing the layer along the bottom edge get corrected, and the bottom edge is now deliberately empty rather than reassigned to anything.
 
 **For the musician**
 
@@ -56,9 +59,9 @@ The empty middle state is the feature, not the absence of one. Every other produ
 
 **For the illustrator**
 
-- A reference of what she is actually trying to make, so the thing itself rather than a mood.
-- Guide lines over the page showing her where to sketch, which appear while the pencil is moving and go the moment it stops.
-- Corrections to the body proportions and the face proportions, called out on the drawing itself.
+- A reference of what she is actually trying to make, so the thing itself rather than a mood. **It is a source photograph, a posing reference, or her own earlier work, and never a finished illustration of the same subject by someone else** (ruled 27 September 2026 by Polo), because the never-do list forbids exactly that and the shot gets built from these words, so the words have to be right before anybody stands behind a camera.
+- Guide lines over the page showing her where to sketch, which appear while the pencil is moving and go the moment it stops. They sit in the working band where her hands already are, not in the centre of the lens.
+- **The reference proportion for the body and the face, shown beside her line, and Compass never marks her line as wrong** (ruled 27 September 2026 by Polo, and it replaces the older verdict wording, which had Compass calling the fixes out on the drawing itself). Same information, opposite posture: she sees the reference sitting next to what she drew and the difference is hers to read, because a machine marking your work wrong is the most replacement-flavoured thing this interface could possibly do and it would land on the one character whose slot exists because illustrators are the most recognisable face of the AI replacement fear. These marks sit in the working band too.
 - A recommendations stack down the right side: shading, how hard she should be pressing, and a colour palette guide.
 - Several reference photographs, so a posing reference, a mood board and a background reference.
 
@@ -84,7 +87,7 @@ The list that protects the rule. Nothing on it appears on screen at any point in
 
 - It never produces finished work. No generated image, no written line, no completed bar of music.
 - It never acts before you do. There is no suggestion waiting for you when you put it on.
-- It never fills the centre of your vision.
+- It never draws anything in the centre of the lens (ruled 27 September 2026 by Polo, the same absolute as before, written about the lens rather than about the eye so it still holds when somebody is looking down at their own hands).
 - It never speaks. Compass has no voice, in the film or in the product.
 - It never shows you someone else's finished version of what you are attempting.
 

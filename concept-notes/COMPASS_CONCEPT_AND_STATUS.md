@@ -52,7 +52,7 @@ Other scenario UI elements developed (painting and photography scenarios):
 - A "Your Vision" mood board panel: three small curated reference photos in frosted glass cards
 - Soft compositional nudges: gentle white text like "shift left slightly" that fades in and out
 - A light reading indicator with a small directional diagram
-- A reference photo card sliding in occasionally from a relevant artist, labeled with name and year
+- A reference photo card sliding in occasionally from a relevant artist, labeled with name and year. **Superseded on 27 September 2026 by Polo's ruling on what the illustrator's reference can be:** it is a source photograph, a posing reference, or her own earlier work, and never a finished illustration of the same subject by someone else, because the never-do list forbids exactly that. A card carrying another artist's finished drawing of the thing she is drawing is out. See `compass-product-definition.md`
 - A color suggestion panel with paint swatches (painting scenario)
 
 Overall UI aesthetic: calm, clean, speculative. AVP-style spatial UI, frosted glass, persistent (never disappears), layered over raw, unaltered, real environments. The environment stays real. The UI is the star.
@@ -76,7 +76,7 @@ Quiet and understated. A creator in a normal session with the device on, the col
 A first-person POV film cutting between three scenes of roughly 12 seconds each:
 1. **Piano**: hesitant beginner at a Yamaha digital keyboard in a casual bedroom, Compass guiding notes.
 2. **Painting**: a person at an easel painting a vase, color suggestions and a mood board floating in frosted glass.
-3. **Photography**: a person framing a shot indoors, soft compositional nudge appearing near center.
+3. **Photography**: a person framing a shot indoors, soft compositional nudge appearing near center. **Superseded on 27 September 2026 by Polo's ruling on the empty centre:** nothing is ever drawn in the centre of the lens, and Compass only marks the working band where your hands already are, so a nudge near the centre is out. See `compass-product-definition.md`
 
 This is a concept draft, not the final script. The final film's length, script, and structure are open for DES304.
 

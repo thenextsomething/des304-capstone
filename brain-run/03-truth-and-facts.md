@@ -5,6 +5,14 @@ gate: PENDING       # -> CONFIRMED <date> by Polo
 drafted: 2026-09-16 from the extraction profile, the project record and the Miro board
 ```
 
+**Partial confirm, 27 September 2026.** Polo ruled five of the fiction rows on
+27 September: **A1, A3, A4, A5 and A6 are CONFIRMED**, each as recommended, and
+each is marked in section 3 and logged in section 6. **The gate stamp above
+stays PENDING**, because nothing in this file says the gate closes when those
+five close: A2 is still unruled, section 4's numbers are still unruled, and the
+honesty line in section 1 is still unsigned. What the five do close is the
+shoot, per section 7.
+
 _Stage 1 · Step 3 of the TNS pipeline, run against
 `~/tns-systems/stage-1-story/3-truth-and-facts/framework.md` and its two sheet
 templates. Blind run: the existing film script was not read._
@@ -94,7 +102,15 @@ marker or viewer will push on it)._
 
 ### The ones that block a shot
 
-**A1. The reference layer is in two places at once. CONTRADICTION. Blocking.**
+**Five of these six closed on 27 September 2026.** A1, A3, A4, A5 and A6 were
+ruled by Polo, all of them as recommended, so the shoot on 28 September builds
+off a record that agrees with itself. **A2 is still open**, and by the label on
+its own row it blocks the report rather than the shoot, so it is not holding
+the shoot up, but the replacement argument still has to be written and ruled
+before the report goes anywhere.
+
+**A1. The reference layer is in two places at once. CONTRADICTION. Was
+blocking, now CONFIRMED 27 September 2026 by Polo.**
 The product definition, rewritten 16 September, puts the reference images and
 moodboard **top left**, "so the thing he's working toward sits where he looks
 first". Two live board frames still put it **along the bottom edge**: "The
@@ -112,7 +128,15 @@ claim is simply "Compass puts nothing where everyone else puts directional
 cues" (which is a better argument, not a worse one), or the layer moves back.
 **Recommendation:** keep the top-left layout, rewrite the claim as "Compass
 leaves the bottom edge empty, because it has nowhere to steer you", and
-correct both board frames. Needs Polo's ruling.
+correct both board frames.
+**RULED 27 September 2026 by Polo, as recommended.** The reference layer sits
+**top left**, which is where the product definition has had it since 16
+September. The two board frames that still run it along the bottom edge are
+wrong and get corrected. And the layout-convention argument is rewritten as
+**"Compass leaves the bottom edge empty, because it has nowhere to steer you"**,
+which replaces the old claim that Compass gives the bottom edge to the
+reference layer. Written into `concept-notes/compass-product-definition.md` and
+`concept-notes/world-building.md` the same day.
 
 **A2. The "calm and quiet" argument does not survive the panels.
 CONTRADICTION. Blocking the report, not the shoot.**
@@ -131,7 +155,7 @@ time is harder to copy than restraint in pixels. Needs writing and ruling
 before the report.
 
 **A3. Does the empty centre survive the illustrator looking down?
-UNDECIDED. Blocking.**
+UNDECIDED. Was blocking, now CONFIRMED 27 September 2026 by Polo.**
 The rule is absolute: "Nothing in the centre of your vision. Ever." The
 illustrator's lens has guide lines "over the page" and proportion corrections
 "called out on the drawing itself". When she is drawing she is looking down,
@@ -143,10 +167,17 @@ and the film is 60 to 70 per cent point of view, which means the audience sees
 exactly this.
 **Recommendation:** rewrite the rule as "nothing is ever drawn in the centre of
 the lens; Compass only marks the working band, where your hands already are."
-That keeps the absolute and makes it shootable. Needs Polo's ruling.
+That keeps the absolute and makes it shootable.
+**RULED 27 September 2026 by Polo, as recommended.** The rule now reads
+**"nothing is ever drawn in the centre of the lens, and Compass only marks the
+working band, where your hands already are"**, and it replaces the older
+absolute wording, "nothing in the centre of your vision, ever", everywhere that
+wording appeared as the rule. Her guide lines and her proportion marks are in
+the working band, not in the centre. Written into
+`concept-notes/compass-product-definition.md` the same day.
 
 **A4. "Corrections" is an instruction, and Compass is supposed to whisper.
-CONTRADICTION. Blocking.**
+CONTRADICTION. Was blocking, now CONFIRMED 27 September 2026 by Polo.**
 The illustrator's lens carries "Corrections to the body proportions and the
 face proportions, called out on the drawing itself." The DES303 record says
 "Compass suggestions are framed as whispers, not instructions" and "It prompts,
@@ -158,9 +189,15 @@ fear".
 **Recommendation:** reframe as observation rather than verdict. Compass shows
 the reference proportion beside her line rather than marking her line wrong.
 Same information, opposite posture, and it costs one word in the product
-definition. Needs Polo's ruling.
+definition.
+**RULED 27 September 2026 by Polo, as recommended.** **Compass shows the
+reference proportion beside her line, and never marks her line as wrong.** The
+word "corrections" comes out of the interface description wherever it is
+describing what she sees. Same information, opposite posture. Written into
+`concept-notes/compass-product-definition.md` the same day.
 
-**A5. Who wrote the shot checklist? UNDECIDED. Blocking.**
+**A5. Who wrote the shot checklist? UNDECIDED. Was blocking, now CONFIRMED
+27 September 2026 by Polo.**
 The photographer's checklist shows "five items with three of them ticked". If
 Compass generated the shot list, Compass created something, and the one rule
 breaks. If the checklist came from the brief and Compass only tracks it, the
@@ -168,10 +205,17 @@ rule holds and the feature is better for it, because tracking is assistance in
 its purest form.
 **Recommendation:** the checklist is the client's brief, loaded in, and Compass
 only ticks. One line in the product definition, and it turns Navia's request
-into a proof of the rule rather than a hole in it. Needs Polo's ruling.
+into a proof of the rule rather than a hole in it.
+**RULED 27 September 2026 by Polo, as recommended.** **The checklist is the
+client's brief, loaded in by him. Compass only ticks items off it and never
+writes it.** That protects the one rule, because tracking something a human
+wrote is assistance in its purest form. Written into
+`concept-notes/compass-product-definition.md` and
+`concept-notes/world-building.md` the same day.
 
 **A6. "It never shows you someone else's finished version of what you are
-attempting" versus the illustrator's reference. CONTRADICTION. Blocking.**
+attempting" versus the illustrator's reference. CONTRADICTION. Was blocking, now
+CONFIRMED 27 September 2026 by Polo.**
 The never-do list forbids exactly that. The illustrator's lens carries "A
 reference of what she is actually trying to make, so the thing itself rather
 than a mood." If she is drawing a figure and Compass shows her a finished
@@ -179,8 +223,14 @@ illustration of that figure, the never-do is broken on screen.
 **Recommendation:** the reference is a source photograph, a posing reference or
 her own earlier work, never a finished illustration of the same subject by
 someone else. That is almost certainly what was meant, and it needs to be
-written down because the shot will be built from the words. Needs Polo's
-ruling.
+written down because the shot will be built from the words.
+**RULED 27 September 2026 by Polo, as recommended.** **Her reference is a
+source photograph, a posing reference, or her own earlier work. Never a
+finished illustration of the same subject by someone else.** That keeps the
+never-do list intact. Written into
+`concept-notes/compass-product-definition.md` the same day, and the DES303
+record's "reference photo card ... from a relevant artist" note in
+`concept-notes/COMPASS_CONCEPT_AND_STATUS.md` is marked superseded by it.
 
 ### The ones that change what gets designed
 
@@ -413,16 +463,25 @@ long tail stays on the sheets as PENDING and simply never reaches a shot._
 1. Reference layer top left, bottom edge left deliberately empty, and the
    convention-breaking claim rewritten as "Compass puts nothing where everyone
    else puts directional cues". Yes?
+   **Ruled yes, 27 September 2026.** The wording taken is A1's: "Compass leaves
+   the bottom edge empty, because it has nowhere to steer you".
 2. The empty centre rewritten as "nothing is ever drawn in the centre of the
    lens; Compass only marks the working band where your hands already are".
    Yes?
+   **Ruled yes, 27 September 2026**, in A3's wording: "nothing is ever drawn in
+   the centre of the lens, and Compass only marks the working band, where your
+   hands already are".
 3. The illustrator's "corrections" become observations - Compass shows the
    reference proportion beside her line rather than marking her line wrong.
    Yes?
+   **Ruled yes, 27 September 2026.** The word "corrections" comes out of the
+   interface description wherever it describes what she sees.
 4. The shot checklist comes from the brief and Compass only ticks it. Compass
    never writes the list. Yes?
+   **Ruled yes, 27 September 2026.**
 5. The illustrator's reference is a source photograph or her own earlier work,
    never a finished illustration of the same subject by someone else. Yes?
+   **Ruled yes, 27 September 2026**, and a posing reference counts too.
 6. The metronome is visual only. Compass makes no sound at all, not just no
    speech. Yes?
 7. The light reading folds into the settings panel, so all four of Navia's
@@ -457,11 +516,16 @@ base named. OK?
 
 ## 6. Corrections log
 
-_Every ruling gets logged here as a catch. Empty until Polo rules._
+_Every ruling gets logged here as a catch. Five logged on 27 September 2026,
+all of them ruled by Polo as recommended._
 
 | Date | Row | Was | Corrected to | Would have surfaced in |
 |---|---|---|---|---|
-| | | | | |
+| 2026-09-27 | A1 | The reference layer top left in the product definition, along the bottom edge on two board frames, with the convention-breaking claim resting on the bottom edge | Top left, confirmed. The bottom edge is left empty, and the claim is now "Compass leaves the bottom edge empty, because it has nowhere to steer you" | The shoot, the photographer's composited lens, and the hardware-landscape frame in the report |
+| 2026-09-27 | A3 | "Nothing in the centre of your vision. Ever." | "Nothing is ever drawn in the centre of the lens, and Compass only marks the working band, where your hands already are" | The shoot, in every point-of-view frame where the illustrator is looking down at her own page |
+| 2026-09-27 | A4 | "Corrections to the body proportions and the face proportions, called out on the drawing itself" | Compass shows the reference proportion beside her line and never marks her line as wrong, and the word "corrections" comes out of the interface description | The shoot, and the report's argument that Compass assists rather than replaces |
+| 2026-09-27 | A5 | Who wrote the shot checklist was never stated | The checklist is the client's brief, loaded in by him. Compass only ticks it and never writes it | The shoot, and the one rule breaking on screen if Compass had been shown writing a list |
+| 2026-09-27 | A6 | "A reference of what she is actually trying to make", unqualified, plus the DES303 note about a card from a relevant artist | A source photograph, a posing reference, or her own earlier work. Never a finished illustration of the same subject by someone else | The shoot, and the never-do list breaking on screen |
 
 ---
 
@@ -473,7 +537,7 @@ Per the framework's gate table, adapted:
 |---|---|
 | 4 concept-input | May run and may lock. The locks are taste decisions, not truth claims. Hero moments leaning on a PENDING row carry `[UNCONFIRMED: <row>]` and the flags travel forward |
 | 5 concept generation | May draft, flags carried |
-| 6 concept review | Cannot lock a concept whose load-bearing beats sit on PENDING rows. A1, A3, A4, A5 and A6 are all load-bearing for at least one wearer's scenes |
+| 6 concept review | Cannot lock a concept whose load-bearing beats sit on PENDING rows. A1, A3, A4, A5 and A6 are all load-bearing for at least one wearer's scenes. **All five CONFIRMED 27 September 2026, so this rule no longer holds a concept back on their account** |
 | 7 scripting | Hard-blocked on the fiction rows. Not on section 4, which blocks the report and the posters instead |
-| **The shoot** | A1 to A6 must be CONFIRMED before a lens is designed for a real frame, because the compositing cannot be redone cheaply |
+| **The shoot** | A1 to A6 must be CONFIRMED before a lens is designed for a real frame, because the compositing cannot be redone cheaply. **A1, A3, A4, A5 and A6 were CONFIRMED on 27 September 2026 by Polo, so the shoot is clear on those five.** A2 is the one this row sweeps in that is still open, and because A2's own row is labelled "blocking the report, not the shoot", it is not read as holding the shoot up. Worth a second look only if a lens build turns out to lean on the Even Realities argument, and nothing currently does |
 | **The posters, 15 Oct** | Section 4 must be CONFIRMED, because a poster has no room for a footnote and a wrong base on a printed A1 is the most expensive version of this error |
