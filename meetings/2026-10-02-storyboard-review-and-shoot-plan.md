@@ -101,17 +101,17 @@ These are open, not settled. Each one is a real conflict with something already 
 
 **4. "The UI can be anything."** Said twice in the meeting, and it is not actually true of this project. The lens has eleven allowed elements, an empty centre, five refusals on the never-do list, and five decisions ruled on 27 September specifically so the shoot would build off one version of the truth. What the director does have freedom over is framing, and which of those elements appear in a given shot. What he does not have freedom over is what Compass is allowed to do. That distinction has not been said to him in those words yet.
 
-## One question for Polo
+## The one question the recording raises, and what happened to it
 
-**Who is playing the pianist, and is that on the record properly?**
+**Who is playing the pianist.** The recording does not say it outright. One line reads as though Polo is playing the pianist himself, and another reads as though Josiah is playing the photographer, which is the only way both lines work together. Nothing in the transcript settles it, so it is not something this note is going to decide off a reading.
 
-The recording does not say it outright. One line reads as though Polo is playing the pianist himself, and another reads as though Josiah is playing the photographer. Against that, the casting note in `world-building.md` says to vary who the three people are by age, gender and background so the trio does not read as three versions of the same person, and the record elsewhere has the three wearers as friends and family.
+It got ruled the same day rather than left hanging. Polo on the musician, Josiah on the photographer, Chloe on the painter, written up in `world-building.md` and stamped on the script. So the question is recorded here as where it came from, not as something still open.
 
-As this note was being written, the script was being updated with a 2 October casting line reading Polo on the musician, Josiah on the photographer and Chloe on the painter. That matches how the recording reads, but it is a reading and not a line anybody said out loud, so it needs Polo's confirmation rather than mine. If it is right, the variety rule needs either a restatement or an honest note saying what was traded for being able to shoot it at all.
+Two things that follow from it are worth knowing, and both are logged over there rather than here. Two of the three wearers are men who work together making films, which is close to the thing the casting variety note exists to prevent, so that note now carries a dated question for Polo. And Chloe is a source as well as a performer, because the painter's colour problem in the film is a real difficulty of hers, which is why it is the strongest of the three problems.
 
 ## Actions arising
 
 - Rule on the four conflicts above, or at least on the first two, before Sunday.
-- Confirm the casting, and decide what happens to the casting variety rule if it stands.
-- Say the UI boundary to Josiah in plain words: free on framing and on which elements appear, not free on what Compass does.
+- Answer the casting variety question now logged in `world-building.md`, because the fix for a no is a swap and a swap is cheap now and impossible after the shoot.
+- Say the interface boundary to Josiah in plain words: free on framing and on which elements appear in a shot, not free on what Compass does.
 - Once the first two are ruled, the product definition and the script get updated. Nothing in them was changed by this meeting.
