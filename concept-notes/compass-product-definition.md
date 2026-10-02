@@ -4,6 +4,8 @@ The single source of truth for what Compass is. Everything else gets built from 
 
 **Five interface questions were ruled on 27 September 2026 by Polo**, and the rulings are written straight into the sections below rather than noted beside the old wording, so the shoot on 28 September builds off one version of the truth. The five: where the reference layer sits and what the bottom edge of the lens is for, how the empty centre is worded now that the third character is looking at the thing she is making, what the proportion marks on her work are allowed to say, who writes the photographer's shot checklist, and what her reference is allowed to be.
 
+**The three wearers were cast on 2 October 2026 by Polo, and the one thing that changes in this file is that the musician is a he.** Polo is playing the musician, Josiah is the photographer and Chloe is the painter, so the photographer and the painter are written exactly as they already were and only the musician's section moves. The casting is recorded in `world-building.md`. Nothing about the product, the interface or the rules changes with it.
+
 **The third character changed on 28 September 2026 by Polo: she is a beginner to moderate painter, not a beginner illustrator.** That is not a new idea and it is not a change of mind being papered over, it is the fallback that `world-building.md` has carried in writing since 1 August, which said that sketch and painting are the same scene at different fidelity and that the scene can be dressed up toward paint if the shoot allows, and this is the project taking it. Two reasons: the painter is the more compelling character for the creative, and there is a painter among the actors we can actually get. Her tools change with her, so brush for pencil, canvas for page and paper, paint for graphite, and an easel by the window instead of a desk by the window. Everything ruled on 27 September survives untouched, and the ruling about her reference gets stronger rather than weaker, because a painter working from a source photograph is completely ordinary practice and it is nothing like being handed somebody else's finished painting of the same subject.
 
 **Compass** is a pair of AI glasses built for the moment you are making something.
@@ -56,7 +58,7 @@ The empty middle state is the feature, not the absence of one. Every other produ
 
 - A falling-note lane rising out of the keyboard, with note blocks descending toward the specific keys they belong to, hovering just above the key, and the key face lighting at the moment to press it.
 - The name of the note on the face of each descending block.
-- The song she is trying to play, and how far through it she is, in a small panel.
+- The song he is trying to play, and how far through it he is, in a small panel.
 - A metronome, visible on the lens, because the film has audio and the timing has to be watchable as well as audible.
 
 **For the painter**

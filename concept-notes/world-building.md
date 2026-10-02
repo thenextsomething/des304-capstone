@@ -60,6 +60,10 @@ Three of the five reasons survive the change untouched. It still covers making-b
 
 Casting note: vary who the three people are (age, gender, background) so the trio does not read as three versions of the same person.
 
+**A question against that note, 2 October 2026.** The trio is now Polo, Josiah and Chloe. Two of the three are men who work together making films, which is close to the thing the note above exists to prevent, and whether the casting actually breaks the note is not something this file can decide, because it turns on how different the three of them read on camera in age and in background and nothing written down here knows that. So it goes in as a question for Polo rather than as a verdict: does this trio read as three different people, or does it read as two versions of the same one plus a third? It is worth answering before the shoot rather than in the edit, because the fix for a no is a swap, and a swap is cheap now and impossible later.
+
+Either way the honest thing to record is why the casting went this way, which is availability plus the course research rules keeping it to friends and family. The pool was never three people picked for variety out of everyone in Auckland, it was the people who could actually be in the room on the day, and that is the same constraint that chose the painter on 28 September. It is a real limit on the project and it belongs in the record rather than being tidied out of it.
+
 ## What Compass looks like as an object
 
 **Decided (6 August 2026): two objects at the exhibition, not one.** A physical form model of the Compass glasses as they should look, thin and light, answering what the product is. Alongside it, the AR goggles the university already has, used to actually display the interface so a visitor can put something on and see it. Visitors are told plainly which is which. Neither object has to pretend to be the other, and the tutors confirmed the approach is fine.
@@ -119,6 +123,16 @@ Still three characters, but one of them changed on 12 September:
 3. **A painter**, beginner to moderate (changed 28 September 2026, see the block under "Who wears it?" above). Originally an illustrator or sketch artist.
 
 **They are actors, not documentary subjects.** They will be real creatives, but the film does not depend on it, and they consent to appearing. Nobody is quoted by name in the report, which removes the earlier collision between the course research rules and the report's request for key quotes.
+
+**Cast 2 October 2026 by Polo.** The musician is **Polo himself**, the photographer is **Josiah** and the painter is **Chloe**.
+
+The musician is the one piece of casting that reaches into the writing, because that character has been written as a she in every document since 1 August and she is a he from today. Every she and her in the live files was read in context and attributed to a character before anything was touched, because the musician and the painter sit in the same act and sometimes in neighbouring sentences, so a blanket replace would have taken the painter down with the musician. The other two need no pronoun work at all: Josiah was always written as a he and Chloe was always written as a she.
+
+Josiah is not a new name on the project. He is the creative director the call on 15 September was with, and casting was the reason for that call in the first place, so he has ended up in front of the camera as well as beside it.
+
+**Chloe is a source as well as a performer, and that is worth writing down rather than leaving as a coincidence.** The painter's problem in the film is colour tones, and it is there because Chloe genuinely finds colour tones hard, so the difficulty the character has is a real person's real difficulty and the person who has it is the one performing it. That does not move where the colour feature itself came from, which is still the easel experiments from DES303, but it does mean the problem the feature answers has a real source behind it rather than an assumed one. The research side of this is already covered by the standing rules: these are informal conversations with people Polo knows rather than formal interviews or public testing, which is what the course allows at this level, and nobody gets quoted by name in the report.
+
+Polo casting himself is named honestly in the positionality notes rather than left for a marker to notice, and it is one line in section 10 of `COMPASS_CONCEPT_AND_STATUS.md`. The casting also puts a question to the casting note under "Who wears it?" above, and creates one practical problem on the musician's hardest shot, which is logged against shot 8 in `film-script-v1.md`.
 
 ### Interface features confirmed
 

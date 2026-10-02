@@ -2,6 +2,8 @@
 
 > **Note added 28 September 2026.** This is the prep as it stood on 15 September, so it still says illustrator and a desk by a window. The third character is a beginner to moderate painter at an easel now (ruled 28 September, reasoning in `concept-notes/world-building.md`), which moves two of the five asks: the casting ask is for a painter, and the third location is an easel by a window rather than a desk by a window.
 
+> **Note added 2 October 2026.** The casting ask, which is the first of the five and the reason the call happened, is closed: Polo is playing the musician, Josiah is the photographer and Chloe is the painter, recorded in `concept-notes/world-building.md`. So Josiah is in front of the camera as well as behind it, which makes the second ask about his availability and the question of who runs which setup sharper rather than settled, because the musician's shot 8 now needs somebody other than Polo on the camera.
+
 He's a creative director and director, and the reason for the call is casting. Casting is the smallest thing he could give you.
 
 ---

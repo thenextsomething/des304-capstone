@@ -1,5 +1,11 @@
 # Higgsfield prompts: the musician
 
+> **The musician was cast on 2 October 2026, and this file predates that. Nothing below has been rewritten.**
+>
+> Polo is playing the musician, so the character is a he in the live files from today, and every prompt in this file describes a woman in her early twenties. That is not a contradiction that got missed, it is this file doing what it says it does: the person is specified that precisely so eight generations produce the same person, the file states in its own words that it is not casting and that the real film casts friends and family, and nothing generated from here is a shot in the film. So the prompts stay as the look-development and previs record, which is what they are worth keeping for, and the live character is defined in `concept-notes/film-script-v1.md` and `concept-notes/compass-product-definition.md` rather than here.
+>
+> **What is open, and it is Polo's call.** Whether this pack gets regenerated with a male subject so the previs matches the person who is actually in the film, or whether it stays exactly as it is as the record of the look being worked out before anybody was cast. It only matters if these frames go in front of somebody, in the report or in a pitch, because a previs reel that shows a different person from the film invites the question. Running the whole pack again is eight prompts and a rewrite of the description of the person, so it is not free.
+
 > **Read this first, added 14 September after a consistency pass across all three files.**
 >
 > **The interface colour is now pinned in `concept-notes/compass-product-definition.md` and that file wins over anything below.** Warm white is the base, and the signal blue is reserved for whatever Compass is actively offering in that moment (the keys lighting ahead, the guide while the brush moves, the frame that just appeared). Everything else on the lens stays warm white. The reference layer is the exception and stays full colour. Where a prompt below says warm white for an active element, add the blue to that element only.

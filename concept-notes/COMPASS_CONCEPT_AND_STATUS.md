@@ -207,8 +207,9 @@ Polo runs The Next Something, a cinematic media studio for startup founders and 
 
 The tensions to keep naming honestly:
 - He spends his time in startup and media spaces where AI is exciting and people are builders and optimists. That is not the average New Zealand creative's relationship with the technology. For many, the threat feels real and immediate, not speculative.
-- His perspective is shaped heavily by San Francisco (the trip, the doomers, the AI-saturated culture). The brief asks specifically about Aotearoa and New Zealand stakeholders. Those are not the same context.
+- His perspective was formed heavily by San Francisco (the trip, the doomers, the AI-saturated culture). The brief asks specifically about Aotearoa and New Zealand stakeholders. Those are not the same context.
 - The standing defence: the work is not trying to represent Polo's perspective on AI. It creates an experience and leaves the question open.
+- **Added 2 October 2026:** Polo is one of the three wearers in the film, playing the musician, because the course research rules keep casting to friends and family and he was one of the people available. Worth naming rather than leaving to be noticed: he is both the person making the argument about creative work and one of the people on screen inside it.
 - Final presentation peer feedback confirmed this needs active bridging: the startup/international background is useful but pulls away from the Aotearoa specificity of the brief unless consciously tied back. Name it, then bridge it, do not leave it implicit.
 
 ---
