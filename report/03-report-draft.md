@@ -882,7 +882,7 @@ product structurally depends on rather than claims.
 sister Liane, and with the FabLab team, Jed and Leo.
 
 **I did not consult anyone Māori on this project.** I am saying that plainly rather than
-leaving it to be noticed. It is a real limit on what I can claim in this section and it limits
+leaving it to be noticed. It is a real limit on what I can claim in this section, and it sets
 what I say on the next two pages.
 
 > IMAGE: the people who were actually involved, named, with what each contributed.
