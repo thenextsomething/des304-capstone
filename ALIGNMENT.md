@@ -1,0 +1,244 @@
+# Compass: the agreed position
+
+**Written 8 October 2026, from Polo's answers to a full realignment interview.**
+
+This file is the current truth for the project. Where anything else in this repo
+disagrees with it, this wins, including `README.md`, `concept-notes/COMPASS_CONCEPT_AND_STATUS.md`
+and anything in `brain-run/`. Those were written in July and the project has moved.
+
+Read this before writing a single word of the report, the presentation or anything
+that goes in front of the marker.
+
+---
+
+## 1. The four deadlines, checked against the assignment PDFs today
+
+| What | Due | Worth |
+|---|---|---|
+| A3 Final posters | Thu 15 Oct, 23:59 | 10 |
+| A3 Final oral presentation | Wed 21 Oct, 23:59 | 10 |
+| **A3 Visual project report** | **Thu 22 Oct, 09:00** | **40** |
+| A3 Prototype | Wed 29 Oct, 23:59 | 15 |
+
+The report is 40 points. That is more than the other three put together. It is the
+biggest single piece of the whole capstone and it is due at nine in the morning,
+not at midnight.
+
+Two production facts inside the report brief that are easy to miss:
+
+- It also has to be **printed and bound as a physical book** to sit beside the
+  prototype at the exhibition. That is a print job with a lead time, not a file upload.
+- Around **50 pages of A4**, portrait or landscape, as an optimised PDF.
+
+---
+
+## 2. How the report is written
+
+Normal academic English. Proper punctuation, full sentences, commas where commas
+belong. The typing rules that apply to Polo's messages in his own name, no commas
+and contractions without apostrophes, **do not apply here.**
+
+But it has to read as though he wrote it, trying to write formally. That means:
+
+- **No inflated vocabulary.** No "moreover", "thus", "myriad", "paradigm",
+  "interrogate", "foreground" as a verb. If a plain word does the job, the plain
+  word goes in.
+- Short sentences are allowed and welcome. Academic does not mean long.
+- First person throughout. It is a reflective report about his own project.
+- No tidy quotable aphorisms. No sentence that sounds like it was written to be
+  quoted back.
+- Specific over abstract. Name the week, the tool, the failure, the person.
+
+The banned words still apply in full, every form: shape, gate, quiet, earns it,
+shout, quick one, and every form of hold and land. The marker is the only reader,
+and that changes nothing about this.
+
+---
+
+## 3. Where AI sits, across all three deliverables
+
+The university treats these differently and the difference matters.
+
+**The report is a Lane 2 assignment.** Its own words: AI may be used to assist,
+and any use must be acknowledged. There is **no ban on AI images in the report.**
+
+**The poster brief is the strict one.** It says the posters must not contain any
+AI-generated images. That rule is specific to the two printed posters.
+
+So the agreed position:
+
+- **AI was used for ideation, structure, inspiration, and for keeping the project
+  honest against the brief and the guidelines.** That is what gets declared, and it
+  is declared as method, not as a confession.
+- **The film is 100 per cent AI-free in its imagery.** Every frame is shot footage.
+  The interface is drawn and composited by hand in After Effects.
+- **AI-generated images were used in the storyboard**, to picture what the frames
+  would be like before shooting. Storyboard and creative reference only. None of
+  it reached the film and none of it reaches the posters. This gets declared too,
+  because it is process material and process material is worth marks.
+- **The printed posters carry no AI-generated image.** The two hero shots are
+  graded frame grabs from the film. The product shot renders out of Polo's own
+  Blender file with no AI step.
+- **The renders are Polo's.** He opened the Blender file, made his own changes,
+  and produced the final images from it. For anything printed on a poster, the
+  render comes straight out of that file.
+
+### The one thing to be careful about
+
+The twelve images currently in the handover pack under `06 — Product renders`
+went through an AI finishing pass earlier in the build. Those specific files are
+fine for the report, the presentation and the exhibition table. They must not be
+the file that gets printed on poster 2. The printed product shot is a fresh render
+out of the blend. The designer brief and the Miro board have both been corrected
+to say so.
+
+---
+
+## 4. What Compass actually is
+
+Confirmed today:
+
+- A **small camera** at the centre of the brow housing.
+- **Sensors** either side of it.
+- **AR displays to the side, with a touch bar on the arm.** The display works at
+  the side of vision, never the centre, which is the same rule the whole project
+  rests on.
+- **Voice activated.** You talk to it and it gives you recommendations.
+- It wakes **only once you have started the activity.** It does not wake from
+  nothing. This was open and is now settled: there is no version where Compass
+  speaks first into an empty room.
+
+The one rule, unchanged: **Compass does not create. It only assists.** It never
+occupies the centre of vision, never makes anything for you, and never shows you
+someone else's finished version of what you are attempting.
+
+---
+
+## 5. Why the product got chunkier, and how that is written up
+
+The July files say the industrial direction is light and minimal, closest to
+Brilliant Labs Frame, at 38 grams. **That is superseded.** The built object is a
+thick wraparound shield with a deep brow housing.
+
+The reason is **feasibility**, and it is the right reason to put in a report.
+You cannot fit the hardware for an AR display into a thin frame. If the device
+is going to have AR, it has to carry the tech, and the tech does not go in those
+tiny frames. The thin direction was a rendering of what looks good, not of what
+could work.
+
+This matters for marks. The Innovation criterion asks for a solution that is
+"technologically feasible". Arriving at a heavier, more honest object because the
+thin one could not work is exactly the kind of movement the rubric rewards. Write
+it as a decision taken at the point of making, dated, with the reason. Not as an
+apology and not as a drift.
+
+**The weight is not a claim any more.** No gram figure goes on the posters, in the
+report or on the fact sheet. The 38 grams belonged to the superseded design.
+
+---
+
+## 6. The physical prototype, and why its lens is a different colour
+
+The prototype on the exhibition table has a **blue mirror lens.** The renders and
+the film show a **light smoke lens** you can see eyes through.
+
+The honest explanation, which is also the correct one:
+
+- **The physical object was never the main part of the project. The film was.**
+- The glasses are built on found eyewear. The intention was for them to look like
+  the designed object, but nothing could be sourced with the right lens, so the
+  closest available was what it had to be.
+
+This is a prototyping-process story, not a weakness. The Prototyping Process
+criterion is 5 marks and asks for the iterative process, how ideas moved in
+response to feedback, and photos of tests and experiments. A sourcing constraint
+that forced a compromise is evidence, so photograph it and write it down.
+
+---
+
+## 7. The film
+
+**Everything is shot.** All three rooms. The pianist, the painter and the
+photographer are all in the can. It is now in the edit.
+
+The storyboard was changed after the 2 October review, so the four conflicts left
+open from that review are dead and should not be carried into the report as open
+questions.
+
+**There is no statistic card in the film.** No cold open stat, no call to open one.
+
+---
+
+## 8. Facts and numbers
+
+### Closed today
+
+**The USC figure, verified off the live source.** The source of record is the USC
+Schaeffer release, authors Evan Sandlin and Kyla Thomas, published 16 July 2026.
+Verified wording: "59% of entertainment workers expect AI to eliminate more jobs
+like theirs than it creates, compared with 36% of non-entertainment workers."
+The wave ran **20 February to 10 May 2026**.
+
+**And it carries an error that needs fixing before print.** The sample of 1,280 is
+**all Los Angeles County residents**, not 1,280 entertainment workers. The
+entertainment-worker subgroup is a slice of that 1,280 and its own number is not
+published anywhere in the release. Printing "n = 1,280" beside a figure about
+entertainment workers puts two different denominators side by side. That is the
+same error already caught on the Manatū Taonga 65 per cent on 17 September. Label
+the 1,280 as the whole survey and say the base is the subgroup. The geography
+stays on the number every single time it appears.
+
+**The APRA AMCOS wording was already settled in the repo** and needed no new
+ruling. Published wording only: members "are concerned that the use of AI in music
+could lead to music creators no longer being able to make a living from their work".
+The stronger wording in the submitted A1 deck cannot be changed, so the report
+discloses it rather than correcting it, and the stronger version is never reprinted.
+
+### Still open
+
+Everything in the "Still on me to check off a live page" list in
+`research/references.md`. Eight bylines and four number checks. Any that cannot be
+confirmed comes off rather than sitting on a graded page.
+
+---
+
+## 9. What the report needs that nothing in this repo yet covers
+
+Checked against the actual rubric today. The 40 points split eight ways:
+Design Process 10, then 5 each for Criticality, Visual Communication, Innovation,
+Impact, Prototyping Process, and Cultural Positionality and Treaty Partnership.
+
+Two things stand out as underweight against what exists:
+
+**Cultural Positionality and Treaty Partnership, 5 marks.** The criterion names
+five principles: whaanau, kaitiakitanga, mahi tahi, hanga and huri hanga. It wants
+deep critical reflection and those principles genuinely integrated into the design
+process and the solution, not mentioned.
+
+There is a conflict to resolve here. The project's own standing rule has been
+"positionality woven in naturally, never a standalone section". The report brief
+requires a named section, and the rubric puts 5 marks behind it. **Both can be
+true:** the named section collects the marks, and positionality still runs through
+the rest of the report rather than being quarantined in it.
+
+**A named design methodology.** The Design Process criterion is the single biggest
+block at 10 marks and wants the stages of a chosen methodology clearly demonstrated.
+The brief suggests Discover, Define, Develop, Deliver. The project's reflective
+structure is the Integrated Reflective Cycle, which is a different thing and does
+not substitute for it. The report needs one named design methodology with its
+stages visible.
+
+Also worth knowing: the Criticality criterion asks for **frequent reflective
+commentary alongside the work in progress**, so reflection threads through the
+whole report rather than sitting in one chapter at the end.
+
+---
+
+## 10. Who is doing what
+
+- **The report:** Polo designs it. Claude writes the first draft, complete and
+  ready to read, and he rewrites it himself from there. **Starting tomorrow,
+  9 October.**
+- **The presentation:** does not exist yet. Polo asked for help with it.
+- **The posters:** the designer handover is finished. Brief, Drive pack and Miro
+  board are all built.

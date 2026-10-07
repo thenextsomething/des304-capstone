@@ -29,6 +29,13 @@ Compass suggestions are framed as whispers, not instructions.
 The product went through naming stages. Early on it had no name. It was then called MUSE for a period (Weeks 8-10, and the interactive game still carries the MUSE name). The name **Compass** was chosen during a prompt-writing session for the launch film and became the settled product name by the final presentation. Note: in some course documents and the Week 9 and 10 blogs, the wearable is referred to as MUSE. They are the same product. Going forward, the wearable is Compass and MUSE refers to the AI character in the interactive game.
 
 ### Industrial design direction
+
+> **SUPERSEDED 8 October 2026.** The thin direction below was dropped for feasibility:
+> the hardware for an AR display does not fit in a frame that thin. The built object is
+> a thick wraparound shield with a deep brow housing. The 38 gram figure is dead and no
+> weight is claimed anywhere. See `ALIGNMENT.md` sections 4 and 5. What follows is the
+> July reference mapping, kept as process material.
+
 Mapped against the real wearable landscape:
 - **Brilliant Labs Frame**: closest reference. Minimal, design-forward, AI-integrated without looking like tech. Compass sits closest to Frame.
 - **Meta Ray-Ban smart glasses**: reference for how a consumer wearable disappears into something people actually want to wear.

@@ -2,6 +2,12 @@
 
 This repo holds everything for Polo Umali's DES304 capstone project at the University of Auckland. It exists so any Claude session (claude.ai via GitHub integration, or Claude Code) can read it cold and have full project context. Start here, then read `concept-notes/COMPASS_CONCEPT_AND_STATUS.md` for the definitive concept reference.
 
+> **Read `ALIGNMENT.md` first, every session.** It was written on 8 October 2026 from
+> Polo's own answers and it is the current truth for the project. This README was last
+> updated 31 July and is stale in places, particularly the industrial design direction,
+> the open-questions list and the semester state. Where the two disagree, ALIGNMENT.md wins.
+
+
 ## Who, course, brief, lens
 
 - **Polo Umali**, final-year Bachelor of Design student, University of Auckland. Also runs The Next Something (TNS), a cinematic media studio for startup founders and venture-backed companies. The capstone direction is a deepening of that professional filmmaking practice, not a stretch away from it.
@@ -13,9 +19,9 @@ This repo holds everything for Polo Umali's DES304 capstone project at the Unive
 
 **Primary direction (confirmed through two DES303 crits and the final presentation):** a speculative product launch film for **Compass**, a fictional wearable AI device built for creatives, set in a near-future Aotearoa. The film is the deliverable; the product is fictional. Tone: Apple Watch ad. Cinematic, minimal, emotional. The core distinction at the heart of the project: **Compass does not create, it only assists.**
 
-Settled: concept, product name, tone and reference language, UI design language (piano scenario is the clearest expression), industrial design direction (closest to Brilliant Labs Frame), the prompt intermediary workflow for AI generation, and the narrative positioning (amplify the maker, never replace them).
+Settled: concept, product name, tone and reference language, UI design language (piano scenario is the clearest expression), industrial design direction (superseded 8 October 2026: see ALIGNMENT.md, the thin direction was dropped for feasibility), the prompt intermediary workflow for AI generation, and the narrative positioning (amplify the maker, never replace them).
 
-**Central unsolved problem: compositing.** Making the Compass display look convincing on camera has been the technical wall since Week 7. Full AI generation failed, AI compositing failed, a Python/OpenCV script got partway. After Effects is installed and is the most likely path forward; learning it properly is a DES304 goal.
+**Central unsolved problem: compositing. SOLVED, see ALIGNMENT.md.** The film is shot and in the edit; the interface is composited by hand in After Effects. Historical: Making the Compass display look convincing on camera has been the technical wall since Week 7. Full AI generation failed, AI compositing failed, a Python/OpenCV script got partway. After Effects is installed and is the most likely path forward; learning it properly is a DES304 goal.
 
 **Cut:** the MUSE interactive game (the DES303 secondary direction) is **not part of the capstone**. Its source was removed from this repo on 31 July 2026 per Polo's ruling. Historical references to it in the blogs, journals and DES303 docs are records of the journey, not the current scope. Note: the wearable itself was also briefly named MUSE in Weeks 8-10 of DES303 before being renamed Compass; MUSE-the-product-name and MUSE-the-game are different things.
 
