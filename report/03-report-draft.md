@@ -7,8 +7,16 @@ and a note on the image. The copy is the draft; the composition is yours.
 
 Written from `01-polo-answers.md` (your own answers, 8 October) and `02-kaitiakitanga-proposal.md`.
 
-**The board: https://miro.com/app/board/uXjVEddL5eo=/** Nine frames, one per phase, every page
-as a card you can read. Built 8 October 2026.
+> **THE LIVE COPY IS ON THE BOARD, NOT IN THIS FILE.**
+> **https://miro.com/app/board/uXjVEdct-Fw=/**
+>
+> Twelve frames: how to use it, the assignment and the marking, the full project context, the
+> image rules, then all 57 pages with their complete copy and image notes. That board is the
+> designer handover and it is what gets worked from.
+>
+> This file is the first pass, written 8 October. The board carries the same argument with the
+> copy tightened to Polo's fewer-commas rule and with the context a designer needs around it.
+> Where the two differ the board wins. The first board at `uXjVEddL5eo` is superseded.
 
 ---
 

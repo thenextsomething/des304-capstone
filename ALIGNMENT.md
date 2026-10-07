@@ -68,6 +68,10 @@ But it has to read as though he wrote it, trying to write formally. That means:
   "interrogate", "foreground" as a verb. If a plain word does the job, the plain
   word goes in.
 - Short sentences are allowed and welcome. Academic does not mean long.
+- **Fewer commas.** Ruled 8 October: *"less commas everywhere, i dont really use commas
+  that much in my own writing."* This is not the no-comma typing rule from his messages.
+  It means prefer a full stop where a comma would do, and break long clauses into separate
+  sentences. Commas stay where they are genuinely needed.
 - First person throughout. It is a reflective report about his own project.
 - No tidy quotable aphorisms. No sentence that sounds like it was written to be
   quoted back.
