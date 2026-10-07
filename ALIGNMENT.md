@@ -7,7 +7,9 @@ disagrees with it, this wins, including `README.md`, `concept-notes/COMPASS_CONC
 and anything in `brain-run/`. Those were written in July and the project has moved.
 
 Read this before writing a single word of the report, the presentation or anything
-that goes in front of the marker.
+that goes in front of the marker. **For the report specifically, read `report/01-polo-answers.md`
+first**: it is Polo's own answers across every section, taken 8 October, and it is the primary
+source for the draft.
 
 ---
 
@@ -196,8 +198,19 @@ sitting still on a table.
 
 ## 7. The film
 
-**Everything is shot.** All three rooms. The pianist, the painter and the
-photographer are all in the can. It is now in the edit.
+**Everything is shot, over two days rather than three.** Day one was the piano and the
+photographer, day two was the painter. All three are in the can and it is now in the edit,
+**which Polo is doing himself in After Effects.**
+
+Nothing was changed on the day. They stuck to the storyboard, got plenty of B-roll, and it
+ran smoothly because everyone was well briefed. The painter's day needed real props: two
+paintings, one finished, which Polo painted himself, and one half-finished version of the
+same painting.
+
+**The fake product stack is scratched.** No website, no social profiles, no product page.
+The poster is the only other artefact. His reasoning is that a launch video is both what he
+would rather make and the more accurate thing, because that is how advanced tech products
+release themselves, speculative or real.
 
 The storyboard was changed after the 2 October review, so the four conflicts left
 open from that review are dead and should not be carried into the report as open
