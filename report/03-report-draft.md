@@ -7,6 +7,9 @@ and a note on the image. The copy is the draft; the composition is yours.
 
 Written from `01-polo-answers.md` (your own answers, 8 October) and `02-kaitiakitanga-proposal.md`.
 
+**The board: https://miro.com/app/board/uXjVEddL5eo=/** Nine frames, one per phase, every page
+as a card you can read. Built 8 October 2026.
+
 ---
 
 ## Page 1 · Cover

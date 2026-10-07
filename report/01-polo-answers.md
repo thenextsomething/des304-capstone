@@ -113,8 +113,12 @@ Claude's call.
 
 ## Discover
 
-**Conversations that actually happened:** Navia, Chloe, **his sister Rohan** (also a design
-student), and Josiah.
+**Conversations that actually happened:** Navia, Chloe, **Rohan** (a design student and
+Polo's friend, also his DES303 classmate and the person whose question settled that project's
+direction), **his sister Liane Umali**, and Josiah.
+
+*Corrected 8 October: the first dictation ran these two together as "my sister Rohan". They are
+two people. Rohan is the friend, Liane is the sister.*
 
 **What surprised him:** *we all felt the same.*
 
