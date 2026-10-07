@@ -11,23 +11,45 @@ that goes in front of the marker.
 
 ---
 
-## 1. The four deadlines, checked against the assignment PDFs today
+## 1. The dates, and the Canvas dates are not the real ones
 
-| What | Due | Worth |
-|---|---|---|
-| A3 Final posters | Thu 15 Oct, 23:59 | 10 |
-| A3 Final oral presentation | Wed 21 Oct, 23:59 | 10 |
-| **A3 Visual project report** | **Thu 22 Oct, 09:00** | **40** |
-| A3 Prototype | Wed 29 Oct, 23:59 | 15 |
+**Checked twice today.** First against the four Canvas assignment PDFs, then against the
+course schedule on page 35 of the course outline, which is a picture rather than text and so
+does not turn up in any search of this repo. **The schedule is the one that governs.**
 
-The report is 40 points. That is more than the other three put together. It is the
-biggest single piece of the whole capstone and it is due at nine in the morning,
-not at midnight.
+| Canvas says | The course schedule says |
+|---|---|
+| Posters, Thu 15 Oct 23:59 | Posters due week 11, same day. Agrees. |
+| Presentation, Wed 21 Oct 23:59 | Presentations are **live on Thursday morning, 22 Oct**, by stream |
+| Report, Thu 22 Oct 09:00 | Report submitted at that same Thursday session |
+| Prototype, Wed 29 Oct 23:59 | **Prototype shown at that same Thursday session, 22 Oct** |
+
+So there are really only two dates that matter:
+
+- **Thursday 15 October.** The two posters go in. This is the least forgiving one because
+  they have to be printed for the exhibition, and the brief underlines that late work is
+  severely penalised.
+- **Thursday 22 October, in the morning.** Everything else happens at once. Present live,
+  show the working prototype, submit the report. The schedule's own words are "A3 Final oral
+  presentations (prototypes and report submission) Thursday morning by stream."
+
+**The 29 October prototype date on Canvas is a file upload tail, not when the object has to
+exist.** The physical prototype has to be finished and working a week earlier than Canvas
+suggests, because he is standing next to it presenting on the 22nd.
+
+Worth tracking: the schedule groups the presentation, the prototype and the report as one
+65 per cent block, with the posters at 10 per cent on top. That is 75 per cent of the course
+sitting in these two weeks. The report alone is 40 of it, more than the other three together,
+and it is due at nine in the morning rather than at midnight.
+
+**And the exhibition is later.** ReDesign Showcase sets up in the week beginning 2 November
+and is open to the public Friday 6 and Saturday 7 November.
 
 Two production facts inside the report brief that are easy to miss:
 
 - It also has to be **printed and bound as a physical book** to sit beside the
-  prototype at the exhibition. That is a print job with a lead time, not a file upload.
+  prototype at the exhibition. That is a print job with a lead time, not a file upload,
+  and the exhibition is the showcase in early November rather than the 22nd.
 - Around **50 pages of A4**, portrait or landscape, as an optimised PDF.
 
 ---
