@@ -159,22 +159,38 @@ report or on the fact sheet. The 38 grams belonged to the superseded design.
 
 ---
 
-## 6. The physical prototype, and why its lens is a different colour
+## 6. The physical prototype, and what its job actually is
 
-The prototype on the exhibition table has a **blue mirror lens.** The renders and
-the film show a **light smoke lens** you can see eyes through.
+**The film is the main thing. It always was, the stream has known it from the start,
+and Polo has said so explicitly.** The physical object is not a rival deliverable and
+should never be written up as one.
 
-The honest explanation, which is also the correct one:
+**What the object is for: being worn on camera.** That is the role the stream asked for
+and it is the role the object was built to. The record is consistent on this. On 23 July
+the endorsed direction was "a mockup of the glasses plus a live demo-style video showing
+it functioning". On 6 August the tutors' own conclusion was that "the film and the object
+combined give you the best of both worlds". And when the fabricated form model and the
+resin print were cut on 12 September, the stated reason was that they would look identical
+on video. Every one of those is the same decision: the object exists to appear in the film.
 
-- **The physical object was never the main part of the project. The film was.**
-- The glasses are built on found eyewear. The intention was for them to look like
-  the designed object, but nothing could be sourced with the right lens, so the
-  closest available was what it had to be.
+That framing makes the whole prototyping story coherent rather than apologetic:
 
-This is a prototyping-process story, not a weakness. The Prototyping Process
-criterion is 5 marks and asks for the iterative process, how ideas moved in
-response to feedback, and photos of tests and experiments. A sourcing constraint
-that forced a compromise is evidence, so photograph it and write it down.
+- The glasses are built on **found eyewear**, because the job was to be worn and filmed,
+  not to be a fabrication exercise.
+- Nothing could be sourced with the right lens, so the prototype has a **blue mirror lens**
+  while the renders and the film show a **light smoke lens** you can see eyes through. The
+  renders are the designed object; the prototype is what could be sourced to shoot with.
+- The fabricated model was cut deliberately, for a stated reason, at a dated point.
+
+**Write it as decisions, not as compromises.** Every one of them was taken for the film,
+which is the main deliverable, and each has a reason that was recorded at the time. The
+Prototyping Process criterion is 5 marks and asks exactly for this: the iterative process,
+how ideas moved in response to feedback, and photos of tests and experiments.
+
+And the strongest single argument, which the report should make plainly: **the object is
+shown in the film being worn and used by three different people in three rooms.** That is
+a prototype demonstrated in the context of use, which is a better showing than an object
+sitting still on a table.
 
 ---
 
