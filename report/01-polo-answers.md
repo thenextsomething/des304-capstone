@@ -273,3 +273,73 @@ for filming and acting.
   with enough creative liberty for a designer to fill it in. Same method as the poster handover.
 - The blogs can be pulled from, but they are not the most accurate record. **Ask him directly
   instead.**
+
+---
+
+# Second pass, 8 October 2026: the research answers and the identity
+
+## What the five people actually said
+
+**Navia. A commercial photographer who works project to project.** What she wanted on the lens:
+
+- Reference images
+- The last photo she took
+- Help with f-stop and a couple of the other settings
+- A checklist
+- The UI to be interchangeable depending on the situation
+
+And the line that matters most, because it is the project's whole argument coming back from someone who was not told it:
+
+> She would love to wear something like this because she definitely thinks it would make her
+> **feel not alone** and **a lot more organised** when working on her projects.
+
+All four of her requests became real Compass features. The interchangeable UI became a world rule.
+
+**Chloe, Josiah, Rohan and Liane said the same thing as each other and as Navia.** Polo's words:
+*"all of them and all of us creatives agreeing."*
+
+- **Chloe** gave the specifics for the painter's interface.
+- **Josiah** gave the specifics for the video and photo side.
+- **Liane** also described what she wanted for the painting interface.
+
+*(Polo's dictation said "Leon" here. Read as Liane, since the pronoun was "she" and she is the
+fifth person on the list. Confirm if wrong.)*
+
+## Who else is affected, beyond the wearer
+
+**The creative's own client.** A creative using Compass is almost always doing it for somebody:
+a commercial brief, a project, a paying job. Navia is the clearest case, because her work is
+project-based and the checklist in the film is literally a client's brief.
+
+So the chain is: Compass assists the creative, the creative does the work, and **the client gets
+a better output.** The second-order beneficiary is the person who commissioned the thing, and
+they never wear the glasses.
+
+## The Aotearoa claim, for the Innovation criterion
+
+**There is nothing like this being made.** Polo's answer, and it is the claim the rubric asks for.
+
+## The identity
+
+**None existed.** Polo: *"let's build that right now."* Built 8 October, on the canvas at
+`https://claude.ai/artifact/1E5wDspKhv1gh9A8mDu3Q8`.
+
+It finishes decisions that were already half made rather than starting from nothing. Warm white
+#FAF4EA was already ruled as the base. Signal blue #6E8FC7 was proposed on 16 September and
+never ruled. Inter was a placeholder with no reason behind it. The wordmark was an assumption
+and marked unruled on the poster board.
+
+What the canvas settles, subject to his pick:
+
+- **The mark.** Three directions. Recommended is an open ring with one signal mark at its edge,
+  never the centre. It carries the empty-centre rule, the one-signal-colour rule and a compass
+  needle at once.
+- **Colour.** Four values. Warm white and ink for everything, signal for the one active thing,
+  and a new **signal deep #3D5A8A** because #6E8FC7 measures about 2.4 to 1 on warm white and
+  cannot legally carry type or print small.
+- **Type.** Instrument Sans recommended over Inter, with Inter kept as a defensible fallback.
+- **In use.** The three places it has to be the identical object: poster 2's head band, the
+  report cover, the film's end card.
+
+This closes the open wordmark item on the poster board and gives the report's Visual
+Communication criterion something to be consistent with.
